@@ -1,13 +1,13 @@
 # Deadlock-TR
-Deadlock Türkçe Çeviri - Türkçe Yama
-- [x] Ana Menü
-- [x] UI
-- [ ] Tutorial
-- [ ] Ayarlar
-- [x] Item İsimleri
-- [ ] Item Açıklamaları
-- [ ] Yetenekler
-- [ ] Karakter Hikayeleri
+Deadlock Türkçe Yama
+%95  - Ana Menü
+%95  - UI
+%5   - Tutorial 
+%5   - Ayarlar 
+%100 - Item İsimleri
+%20  - Item Açıklamaları
+%65  - Karakter Yetenekleri
+%5   - Karakter Hikayeleri
 
 ## Kurulum
 - Sağ üstteki yeşil "Code" butonundan "Download ZIP" seçeneğiyle yamayı indirin.
@@ -16,3 +16,4 @@ Deadlock Türkçe Çeviri - Türkçe Yama
 - Yamanın "game" klasörünü, açtığınız Deadlock klasörüne taşıyın. (Deadlock'taki "game" klasörünün içine atmayın)
 - Dosyaları değiştir seçeneğini seçin.
 - Steam'de Deadlock ayarlarında "Başlatma Seçenekleri" kısmına "-language turkish" yazın. (Tırnaksız)
+- Oyunu Başlatın
