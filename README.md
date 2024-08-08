@@ -20,5 +20,5 @@ Son Güncelleme: 08/08/24
   ![image](https://github.com/user-attachments/assets/1568febf-fe4d-481d-9d2f-da68af25e8ac)
 - Dosyaları değiştir seçeneğini seçin.
 - Steam'de Deadlock ayarlarında "Başlatma Seçenekleri" kısmına "-language turkish" yazın. (Tırnaksız)
-  ![image](https://github.com/user-attachments/assets/1720dcd0-e4c5-4f76-8b66-88a143de6cd9)
+  ![11929123 7_image](https://github.com/user-attachments/assets/3f3c047f-5ea1-481a-a04c-9404be87c8b0)
 - Oyunu Başlatın
