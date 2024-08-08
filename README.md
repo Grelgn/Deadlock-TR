@@ -1,14 +1,15 @@
 # Deadlock-TR
 Deadlock Türkçe Yama
-Son Güncelleme: 07/08/24
+
+Son Güncelleme: 08/08/24
 
 - %95 - Ana Menü
 - %95 - UI
 - %5 - Tutorial
 - %5 - Ayarlar
 - %100 - Item İsimleri
-- %75 - Item Açıklamaları
-- %75 - Karakter Yetenekleri
+- %95 - Item Açıklamaları
+- %100 - Karakter Yetenekleri
 - %5 - Karakter Hikayeleri
 
 ## Kurulum
