@@ -3,12 +3,12 @@ Deadlock Türkçe Yama
 
 Son Güncelleme: 10/08/24
 
-- %95 - Ana Menü
+- %100 - Ana Menü
 - %95 - UI
-- %5 - Tutorial
+- %100 - Tutorial
 - %5 - Ayarlar
 - %100 - Item İsimleri
-- %95 - Item Açıklamaları
+- %100 - Item Açıklamaları
 - %100 - Karakter Yetenekleri
 - %100 - Karakter Hikayeleri
 
