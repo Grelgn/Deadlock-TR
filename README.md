@@ -10,7 +10,7 @@ Son Güncelleme: 08/08/24
 - %100 - Item İsimleri
 - %95 - Item Açıklamaları
 - %100 - Karakter Yetenekleri
-- %5 - Karakter Hikayeleri
+- %100 - Karakter Hikayeleri
 
 ## Kurulum
 - Sağ üstteki yeşil "Code" butonundan "Download ZIP" seçeneğiyle yamayı indirin.
