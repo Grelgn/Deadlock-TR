@@ -13,7 +13,11 @@ Son Güncelleme: 13/08/24
 - %100 - Karakter Hikayeleri
 
 ## Kurulum
-- Sağ üstteki yeşil "Code" butonundan "Download ZIP" seçeneğiyle yamayı indirin.
+- İstediğiniz versiyonu indirin:
+  
+Standart: https://github.com/Grelgn/Deadlock-TR/archive/refs/heads/main.zip
+
+İngilizce Item İsimleri:  https://github.com/Grelgn/Deadlock-TR/archive/refs/heads/english-items.zip
 - Dosyaları ZIP'ten istediğiniz bir yere çıkarın.
 - Steam'de Deadlock'un yerel dosyalarına göz atın.
 - Yamanın "game" klasörünü, açtığınız Deadlock klasörüne taşıyın. (Deadlock'taki "game" klasörünün içine atmayın)
