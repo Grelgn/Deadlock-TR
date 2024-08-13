@@ -1,7 +1,7 @@
 # Deadlock-TR
 Deadlock Türkçe Yama
 
-Son Güncelleme: 10/08/24
+Son Güncelleme: 13/08/24
 
 - %100 - Ana Menü
 - %95 - UI
