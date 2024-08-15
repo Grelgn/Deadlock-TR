@@ -1,12 +1,12 @@
 # Deadlock-TR
 Deadlock Türkçe Yama - Ingilizce Item / Skill isimleri
 
-Son Güncelleme: 14/08/24
+Son Güncelleme: 15/08/24
 
 - %100 - Ana Menü
 - %100 - UI
 - %100 - Tutorial
-- %5 - Ayarlar
+- %100 - Ayarlar
 - %100 - Item İsimleri
 - %100 - Item Açıklamaları
 - %100 - Karakter Yetenekleri
