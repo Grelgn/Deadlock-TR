@@ -13,7 +13,7 @@
 		"MODIFIER_STATE_SILENCED"							"Susturuldu"
 		"MODIFIER_STATE_STUNNED"							"Sersemletildi"
 		"MODIFIER_STATE_INVULNERABLE"						"Dokunulmaz"
-		"MODIFIER_STATE_TECH_INVULNERABLE"					"Ruh Dokunulmazlığı"
+		"MODIFIER_STATE_TECH_INVULNERABLE"					"Büyü Dokunulmazlığı"
 		"MODIFIER_STATE_BURNING"							"Yanıyor"
 
 		// Commenting this out so it doesn't show overhead of the player your applied it to
@@ -134,12 +134,12 @@
 		"StatDesc_IncomingBulletDamageScale"			"Silah Hasarı Ölçeği"
 		"StatDesc_IncomingMeleeDamageReduction"			"Yumruk Hasarı Zırhı"
 		"StatDesc_IncomingMeleeDamageScale"				"Yumruk Hasarı Ölçeği"
-		"StatDesc_TechArmor"							"Ruh Zırhı"				
-		"StatDesc_TechArmorDamageReduction"		 		"Ruh Direnci"
+		"StatDesc_TechArmor"							"Büyü Zırhı"				
+		"StatDesc_TechArmorDamageReduction"		 		"Büyü Direnci"
 		"StatDesc_TechArmorDamageReduction_postfix"		"%"
 		"StatDesc_IncomingAbilityDamageReduction"		"Yetenek Zırhı"
 		"StatDesc_IncomingAbilityDamageScale"			"Yetenek Hasarı Ölçeği"
-		"StatDesc_TechPower"							"Ruh Gücü"
+		"StatDesc_TechPower"							"Büyü Gücü"
 		"StatDesc_ManaPerLevel"							"Energy Per Level"
 		"StatDesc_HealthPerLevel"						"Seviye Başına Can"
 		"StatDesc_ManaRegenPerLevel"					"Energy Regen Per Level"
@@ -155,7 +155,7 @@
 		"StatDesc_Weaponry"								"Weaponry"
 		"StatDesc_WeaponPower"							"Silah Hasarı"
 		"StatDesc_BulletDamage"							"Mermi Hasarı"
-		"StatDesc_TechPowerAmp"							"Ruh"
+		"StatDesc_TechPowerAmp"							"Büyü"
 		"StatDesc_EnergyMax"							"Energy Cells"
 		"StatDesc_EnergyRegenTime"						"Energy Regen Time"
 		"StatDesc_RoundsPerSecond"						"Saniyede Mermi"
@@ -178,7 +178,7 @@
 		"StatDesc_WeaponPowerAttribute"					"Silah Hasarı"
 		"StatDesc_ArmorAttribute"						"Zırh"
 		"StatDesc_HealthAttribute"						"Can"
-		"StatDesc_TechDamageAttribute"					"Ruh Hasarı"
+		"StatDesc_TechDamageAttribute"					"Büyü Hasarı"
 		"StatDesc_FireRateAttribute"					"Atış Hızı"
 		"StatDesc_ReloadTime"							"Mermi Doldurma Süresi"
 		"StatDesc_ReloadTime_postfix"					"s"
@@ -187,8 +187,8 @@
 		"StatDesc_StaminaRegenPerSecond_postfix"		"%"
 		"StatDesc_BaseWeaponDamage"						"Temel Silah Hasarı"
 		"StatDesc_BaseWeaponDamage_postfix"				"%"
-		"StatDesc_TechDamageScale"						"Ruh Hasarı"
-		"StatDesc_TechShieldHealth"						"Ruh Kalkanı"
+		"StatDesc_TechDamageScale"						"Büyü Hasarı"
+		"StatDesc_TechShieldHealth"						"Büyü Kalkanı"
 		"StatDesc_BulletShieldHealth"					"Mermi Kalkanı"
 		"StatDesc_ReloadSpeed_prefix"					"{s:sign}"
 		"StatDesc_ReloadSpeed"							"Mermi Doldurma Hızlanması"
@@ -214,11 +214,11 @@
 		"StatDesc_DefensePower"							"Defans Gücü"
 
 		"StatDesc_TechLifesteal_prefix"					"{s:sign}"
-		"StatDesc_TechLifesteal"						"Ruh Can Çalma"
+		"StatDesc_TechLifesteal"						"Büyü Can Çalma"
 		"StatDesc_TechLifesteal_postfix"				"%"
 
 		"StatDesc_TechLifestealNonHero_prefix"			"{s:sign}"
-		"StatDesc_TechLifestealNonHero"					"NPC'lerden Ruh Can Çalma"
+		"StatDesc_TechLifestealNonHero"					"NPC'lerden Büyü Can Çalma"
 
 		"StatDesc_BulletLifesteal_prefix"					"{s:sign}"
 		"StatDesc_BulletLifesteal"						"Mermi Can Çalma"
@@ -416,26 +416,26 @@
 
 		"TechArmorDamageReduction_prefix"				"{s:sign}"
 		"TechArmorDamageReduction_postfix"				"%"
-		"TechArmorDamageReduction_Label"				"Ruh Direnci"
+		"TechArmorDamageReduction_Label"				"Büyü Direnci"
 
 		"TechDamageScale_prefix"						"{s:sign}"
 		"TechDamageScale_postfix"						"%"
-		"TechDamageScale_label"							"Ruh Hasarı"
+		"TechDamageScale_label"							"Büyü Hasarı"
 
 		"TechArmor_prefix"								"{s:sign}"
-		"TechArmor_label"								"Ruh Zırhı"
+		"TechArmor_label"								"Büyü Zırhı"
 		
 		"TechResist_prefix"								"{s:sign}"
 		"TechResist_postfix"							"%"
-		"TechResist_label"								"Ruh Direnci"
+		"TechResist_label"								"Büyü Direnci"
 
 		"TechResistPerStack_prefix"						"{s:sign}"
 		"TechResistPerStack_postfix"					"%"
-		"TechResistPerStack_label"						"Yığın başına Ruh Artışı"
+		"TechResistPerStack_label"						"Yığın başına Büyü Artışı"
 
 		"MagicIncreasePerStack_prefix"					"{s:sign}"
 		"MagicIncreasePerStack_postfix"					"%"
-		"MagicIncreasePerStack_label"					"Yığın başına Ruh Artışı"
+		"MagicIncreasePerStack_label"					"Yığın başına Büyü Artışı"
 
 		"BulletDamageReduction_postfix"					"%"
 		"BulletDamageReduction_label"					"Mermi Zırhı"
@@ -487,7 +487,7 @@
 		"BulletPenetrationPercent_label"				"Mermi Deliciliği"
 
 		"TechPower_prefix"								"{s:sign}"
-		"TechPower_label"								"Ruh Gücü"
+		"TechPower_label"								"Büyü Gücü"
 		"TechPower_postfix"								""
 
 		"ArmorPower_prefix"								"{s:sign}"
@@ -495,15 +495,15 @@
 		"ArmorPower_postfix"								"%"
 
 		"TechPowerAmp_prefix"							"{s:sign}"
-		"TechPowerAmp_label"							"Ruh"
+		"TechPowerAmp_label"							"Büyü"
 		"TechPowerAmp_postfix"							""
 
 		"SpellAmplificationPercent_prefix"				"{s:sign}"
-		"SpellAmplificationPercent_label"				"Ruh Gücü"
+		"SpellAmplificationPercent_label"				"Büyü Gücü"
 		"SpellAmplificationPercent_postfix"				""
 
 		//BaseDamagePerShot_label							"Temel Hasar"
-		"NanoTechPerShot_label"							"Ruh Hasarı"
+		"NanoTechPerShot_label"							"Büyü Hasarı"
 		"ExplosiveSplashDamage_label"						"Patlama Hasarı"
 		"BulletDamageTotal_label"							"Mermi Hasarı"
 
@@ -529,7 +529,7 @@
 		"BonusMeleeAttackSpeed_postfix"					"%"
 		"BonusMeleeAttackSpeed_label"					"Yumruk Hızı"
 
-		"AbilityDamageReduction_label"				"Ruh Hasarı Azaltımı"
+		"AbilityDamageReduction_label"				"Büyü Hasarı Azaltımı"
 		"AbilityDamageReduction_postfix"				"%"
 
 		"SlowProcChance_label"						"Chance to slow on hit"
@@ -618,7 +618,7 @@
 
 		"BonusBulletSpeedPercent_prefix"				"{s:sign}"
 		"BonusBulletSpeedPercent_postfix"				"%"
-		"BonusBulletSpeedPercent_label"					"Bullet Velocity"
+		"BonusBulletSpeedPercent_label"					"Mermi Sürati"
 
 		"LifeStealPercent_prefix"						"{s:sign}"
 		"LifeStealPercent_label"						"Can Çalma"
@@ -637,7 +637,7 @@
 		"BulletLifestealPercent_postfix"				"%"
 
 		"TechLifestealPercent_prefix"					"{s:sign}"
-		"TechLifestealPercent_label"						"Ruh Can Çalma"
+		"TechLifestealPercent_label"						"Büyü Can Çalma"
 		"TechLifestealPercent_postfix"					"%"
 
 		"MeleeLifestealPercent_prefix"						"{s:sign}"
@@ -735,10 +735,10 @@
 		"MeleeDamagePercent_postfix"					"%"
 
 
-		"TechShieldHealth_label"					"Ruh Kalkanı Canı"
-		"TempTechShieldHealth_label"				"Geçici Ruh Kalkanı Canı"
+		"TechShieldHealth_label"					"Büyü Kalkanı Canı"
+		"TempTechShieldHealth_label"				"Geçici Büyü Kalkanı Canı"
 		"TechShieldDamagePercent_prefix"			"{s:sign}"
-		"TechShieldDamagePercent_label"				"Ruh Kalkanı Hasarı"
+		"TechShieldDamagePercent_label"				"Büyü Kalkanı Hasarı"
 		"TechShieldDamagePercent_postfix"			"%"
 
 		"BulletShieldHealth_label"					"Mermi Kalkanı Canı"
@@ -784,15 +784,15 @@
 		"BulletDamagePercent_postfix"					"%"
 
 		"AbilityLifestealPercent_prefix"					"{s:sign}"
-		"AbilityLifestealPercent_label"				"Ruh Can Çalma"
+		"AbilityLifestealPercent_label"				"Büyü Can Çalma"
 		"AbilityLifestealPercent_postfix"				"%"
 		
 		"AbilityLifestealPercentHero_prefix"					"{s:sign}"
-		"AbilityLifestealPercentHero_label"				"Ruh Can Çalma"
+		"AbilityLifestealPercentHero_label"				"Büyü Can Çalma"
 		"AbilityLifestealPercentHero_postfix"			"%"
 
 		"AbilityLifestealPercentNonHero_prefix"					"{s:sign}"
-		"AbilityLifestealPercentNonHero_label"			"NPC'lere Ruh Can Çalma"
+		"AbilityLifestealPercentNonHero_label"			"NPC'lere Büyü Can Çalma"
 		"AbilityLifestealPercentNonHero_postfix"		"%"
 
 		"RegenDuration_label"							"Can Yenileme Süresi"
@@ -920,7 +920,7 @@
 		"MoveSpeedMax_label"							"Hareket Hızı"
 		"MoveSpeedMax_postfix"						" m/s"
 
-		"BulletDamagePercentAsTechDamage_label"		"Bonus Ruh Hasarı"
+		"BulletDamagePercentAsTechDamage_label"		"Bonus Büyü Hasarı"
 		"BulletDamagePercentAsTechDamage_postfix"		"% Mermi Hasarı "
 
 		"BonusCritDamagePercent_prefix"					"{s:sign}"
@@ -932,7 +932,7 @@
 
 		"DamagePerSecond_label"						"Damage Per Second"
 
-		"TechReduction_label"						"Ruh Azaltımı"
+		"TechReduction_label"						"Büyü Azaltımı"
 
 		"TechResistReduction_label"					"Target Spirit Resist"
 		"TechResistReduction_prefix"					""
@@ -1211,10 +1211,10 @@
 		"FullDistance_label"							"Maks. Menzil: "
 		"FullDistance_postfix"							"m"
 
-		"ProcDamage_label"								"Ruh Hasarı"
+		"ProcDamage_label"								"Büyü Hasarı"
 		"ProcDamage_postfix"							""
 
-		"BaseDamagePct_label"							"Bonus Ruh Artışı"
+		"BaseDamagePct_label"							"Bonus Büyü Artışı"
 		"BaseDamagePct_prefix"							"{s:sign}"
 		"BaseDamagePct_postfix"							"%"
 
@@ -1451,7 +1451,7 @@
 		"BulletShieldMaxHealth_prefix"				"{s:sign}"
 		"BulletShieldMaxHealth_label"				"Mermi Kalkanı Canı"
 		"TechShieldMaxHealth_prefix"				"{s:sign}"
-		"TechShieldMaxHealth_label"					"Ruh Kalkanı Canı"
+		"TechShieldMaxHealth_label"					"Büyü Kalkanı Canı"
 
 		"ActiveBulletShieldMaxHealth_prefix"		"{s:sign}"
 		"ActiveBulletShieldMaxHealth_label"			"Mermi Kalkanı Canı"
@@ -1502,7 +1502,7 @@
 		"FervorFireRate_postfix"	"%"
 		"FervorDebuffResistance_label"		"Enrage Debuff Resistance"
 		"FervorDebuffResistance_postfix"	"%"
-		"FervorTechResist_label"			"Ruh Direnci"
+		"FervorTechResist_label"			"Büyü Direnci"
 
 		"PassiveFireRate_label"		"Atış Hızı"
 		"PassiveFireRate_postfix"	"%"
@@ -1523,7 +1523,7 @@
 
 		"BulletDamageReflectedPct_label"					"Yansıtılan Mermi Hasarı"
 		"BulletDamageReflectedPct_postfix"					"%"
-		"SpiritDamageReflectedPct_label"					"Yansıtılan Ruh Hasarı"
+		"SpiritDamageReflectedPct_label"					"Yansıtılan Büyü Hasarı"
 		"SpiritDamageReflectedPct_postfix"					"%"
 		"DamageReflectedFrequencyPct_label"				"Etki Şansı"
 		"DamageReflectedFrequencyPct_postfix"			"%"
@@ -1567,7 +1567,7 @@
 		"TechResistDuration_label"			"Süre"
 		"TechResistDuration_postfix"			"s"
 
-		"BleedTechResist_label"				"Ruh Direnci"
+		"BleedTechResist_label"				"Büyü Direnci"
 		"BleedTechResist_prefix"				"{s:sign}"
 		"BleedTechResist_postfix"				"%"
 
@@ -1634,24 +1634,24 @@
 		"WeaponDamageBonus_label"			"Silah Hasarı"
 
 		"TechDamageBonusPercent_prefix"		"{s:sign}"
-		"TechDamageBonusPercent_label"		"Ruh Hasarı"
+		"TechDamageBonusPercent_label"		"Büyü Hasarı"
 		"TechDamageBonusPercent_postfix"		"%"
 
 		"SuperiorStaminaBonusSpirit_prefix"	"{s:sign}"
-		"SuperiorStaminaBonusSpirit_label"	"İkinci Zıplama/Atılım'dan Sonra Ruh Gücü"
+		"SuperiorStaminaBonusSpirit_label"	"İkinci Zıplama/Atılım'dan Sonra Büyü Gücü"
 
 		"EchoShardBonusSpirit_prefix"		"{s:sign}"
-		"EchoShardBonusSpirit_label"		"Yankı Yeteneği için Ruh Gücü"
+		"EchoShardBonusSpirit_label"		"Yankı Yeteneği için Büyü Gücü"
 
 
 
 		"BonusSpirit_prefix"				"{s:sign}"
-		"BonusSpirit_label"				"Ruh Gücü"
+		"BonusSpirit_label"				"Büyü Gücü"
 		"modifier_power_shard_bonus"		"Echo Boost"
 
 		"BonusDuration_label"				"Bonus Süresi"
 		"BonusDuration_postfix" 			"s"
-		"superior_stamina_buff"			"Bonus Ruh Gücü"
+		"superior_stamina_buff"			"Bonus Büyü Gücü"
 
 		"HighGroundBonusWeaponPower_prefix"	"{s:sign}"
 		"HighGroundBonusWeaponPower_label"	"Düşmanların üzerindeyken Silah Hasarı"
@@ -1666,7 +1666,7 @@
 		"BaseAttackDamagePercent_postfix"					"%"
 
 		"ImbuedTechPower_prefix"					"{s:sign}"
-		"ImbuedTechPower_label"						"Basılan Yetenek Ruh Gücü"
+		"ImbuedTechPower_label"						"Basılan Yetenek Büyü Gücü"
 
 		"MovementSpeedBonusDuration_label"			"Hareket Hızı Süresi"
 		"MovementSpeedBonusDuration_postfix"		"s"
@@ -1702,7 +1702,7 @@
 		"Cloaked"								"Cloaked"
 
 		"zipline_boost"							"Zipline Hızlandırıldı"
-		"ActiveTechPower_label"					"Ruh Gücü"
+		"ActiveTechPower_label"					"Büyü Gücü"
 		"ActiveTechPower_prefix"				"+"
 
 		"ActiveBulletShieldHealth_label"		"Aktif Kalkan Canı"
@@ -1754,7 +1754,7 @@
 		"ChannelMoveSpeed_prefix"						""
 
 		"BulletShieldOnCast_label"						"Mermi Kalkanı"
-		"TechShieldOnCast_label"						"Ruh Kalkanı"
+		"TechShieldOnCast_label"						"Büyü Kalkanı"
 		"BulletShieldDuration_label"					"Mermi Kalkanı Süresi"
 		"BulletShieldDuration_postfix"					"s"
 
@@ -1767,7 +1767,7 @@
 
 		"LowHealthThreshold_label"						"Can Sınırı"
 		"LowHealthThreshold_postfix"					"%"
-		"LowHealthTechResist_label"						"Ruh Direnci"
+		"LowHealthTechResist_label"						"Büyü Direnci"
 		"LowHealthTechResist_prefix"					"{s:sign}"
 		"LowHealthWeaponPowerPercent_label"				"Courage"
 		"LowHealthWeaponPowerPercent_prefix"			"{s:sign}"
@@ -1796,7 +1796,7 @@
 		"BonusClipPerKill_label"				"Öldürme Başına Bonus Cephane"
 
 		"BonusSpiritPerKill_prefix"				"{s:sign}"
-		"BonusSpiritPerKill_label"				"Öldürme Başına Bonus Ruh Gücü"
+		"BonusSpiritPerKill_label"				"Öldürme Başına Bonus Büyü Gücü"
 
 		"MaxClipBonus_label"				"Maks. Şarjör Bonusu"
 

@@ -24,10 +24,10 @@
 		"upgrade_clip_size_3_desc"			"Greatly Increases <span class=\"highlight\">ammo</span>."
 
 		//Ammo Scavenger
-		"upgrade_ammo_scavenger_desc"		"Bir Ruhu güvence altına aldığınızda veya engellediğinizde <span class=\"highlight\">cephane geri alır</span> ve <span class=\"highlight\">Ruh Gücü</span> biriktirirsiniz."
+		"upgrade_ammo_scavenger_desc"		"Bir Ruhu güvence altına aldığınızda veya engellediğinizde <span class=\"highlight\">cephane geri alır</span> ve <span class=\"highlight\">Büyü Gücü</span> biriktirirsiniz."
 		"AmmoPerSoul_label"					"Ruh Başına Cephane"
-		"SpiritPowerPerSoul_label"			"Ruh Başına Ruh Gücü"
-		"AmmoScavengerDuration_label"			"Ruh Gücü Süresi"
+		"SpiritPowerPerSoul_label"			"Ruh Başına Büyü Gücü"
+		"AmmoScavengerDuration_label"			"Büyü Gücü Süresi"
 		"AmmoScavengerDuration_postfix"		"s"
 
 		//Stabilizer
@@ -54,7 +54,7 @@
 		"upgrade_small_attack_speed_desc"	"Increases your <span class=\"highlight\">Fire Rate</span>."
 
 		//Silence Glyph
-		"upgrade_targeted_silence_desc"	"Hedefi <span class=\"highlight\">Susturan</span> ve <span class=\"highlight\">Ruh Direncini</span> azaltan bir atış yapar. Susturma, yönlendirilen yetenekleri kesintiye uğratmaz."
+		"upgrade_targeted_silence_desc"	"Hedefi <span class=\"highlight\">Susturan</span> ve <span class=\"highlight\">Büyü Direncini</span> azaltan bir atış yapar. Susturma, yönlendirilen yetenekleri kesintiye uğratmaz."
 
 		//EMP Bullets
 		"upgrade_proc_silence_desc"		"Your bullets charge up an <span class=\"highlight\">EMP</span> on enemy heroes that will <span class=\"highlight\">prevent targets from using abilities</span>. Victims are immune to emp bullets for <span class=\"highlight\">{s:ImmunityDuration}s</span> after application expires."
@@ -131,20 +131,20 @@
 		"CasterSlowPercent_postfix"	"%"
 
 		//Torment Pulse
-		"upgrade_tech_damage_pulse_desc"	"Yakındaki en yakın iki düşmana periyodik olarak <span class=\"highlight\">Ruh Hasarı</span> verir."
+		"upgrade_tech_damage_pulse_desc"	"Yakındaki en yakın iki düşmana periyodik olarak <span class=\"highlight\">Büyü Hasarı</span> verir."
 
 		//Mystic Burst
-		"upgrade_magic_burst_desc"	"Yetenekler tek vuruşta {s:MinimumDamage} veya daha fazla hasar verirse bonus <span class=\"highlight\">Ruh Hasarı</span> verir."
+		"upgrade_magic_burst_desc"	"Yetenekler tek vuruşta {s:MinimumDamage} veya daha fazla hasar verirse bonus <span class=\"highlight\">Büyü Hasarı</span> verir."
 		"MagicBurstDamage_label"		"Bonus Hasar"
 
 		//Improved Burst
-		"upgrade_magic_shock_desc"	"Yetenekler tek bir vuruşta {s:MinimumDamage} veya daha fazla hasar verirse bonus <span class=\"highlight\">Ruh Hasarı</span> verir.<br/>Hedefler, Gelişmiş Patlama'dan hasar aldıktan sonra <span class=\"highlight\">{s:ReProcLockoutTime}s</span> boyunca bu yeteneğin etkilerine karşı bağışıklık kazanır."
+		"upgrade_magic_shock_desc"	"Yetenekler tek bir vuruşta {s:MinimumDamage} veya daha fazla hasar verirse bonus <span class=\"highlight\">Büyü Hasarı</span> verir.<br/>Hedefler, Gelişmiş Patlama'dan hasar aldıktan sonra <span class=\"highlight\">{s:ReProcLockoutTime}s</span> boyunca bu yeteneğin etkilerine karşı bağışıklık kazanır."
 		"MagicShockDamage_label"		"Maks. Can Bonus Hasar"
 		"MagicShockDamage_postfix"	"%"
 
 		//Mystic Reverb
 		"upgrade_tech_bleed_desc" "Bir yeteneğinize özellik basın, hedefin etrafındaki bir yarıçapta <span class=\"highlight\">yavaşlatma</span> uygular ve kısa bir gecikmeden sonra, düşmanlara <span class=\"highlight\">verilen hasarın belirli bir yüzdesini</span> tekrar hasar verir."
-		"upgrade_tech_bleed/modifier_tech_bleed_proc/modifier_tech_bleed"			"Ruh Yankısı"	
+		"upgrade_tech_bleed/modifier_tech_bleed_proc/modifier_tech_bleed"			"Büyü Yankısı"	
 
 		//Toxic Bullets
 		"upgrade_toxic_bullets_desc"	"Mermileriniz düşmanlar üzerinde <span class=\"highlight\">Kanama</span> oluşturarak zamanla <span class=\"highlight\">mevcut canlarının belirli bir yüzdesini</span> kaybetmelerine neden olur. Ayrıca kanayan hedefe <span class=\"highlight\">İyileşme Azaltımı</span> uygular."
@@ -160,12 +160,12 @@
 		"upgrade_attack_speed_2_desc"	"Increases your <span class=\"highlight\">Fire Rate</span>."
 
 		//Spiritual Overflow
-		"upgrade_tech_overflow_desc"	"Düşman kahraman vurdukça mermilerinizi <span class=\"highlight\">şarj ederek</span> bonus <span class=\"highlight\">Ruh Gücü</span> kazanın."
+		"upgrade_tech_overflow_desc"	"Düşman kahraman vurdukça mermilerinizi <span class=\"highlight\">şarj ederek</span> bonus <span class=\"highlight\">Büyü Gücü</span> kazanın."
 		"modifier_tech_overflow"		"Ruhsal Taşkınlık"
 		"modifier_tech_overflow_building" "Ruhsal Taşkınlık Artıyor..."
 
-		"OverflowTechPower_label"		"Ruh Gücü"
-		"OverflowBonusDamage_label"     "Bonus Ruh Hasarı"
+		"OverflowTechPower_label"		"Büyü Gücü"
+		"OverflowBonusDamage_label"     "Bonus Büyü Hasarı"
 		"OverflowBonusDamage_postfix"	"%"
 
 		//Drum Magazine
@@ -190,9 +190,9 @@
 		"upgrade_long_range_desc"	"Hedefinizden <span class=\"highlight\">minimum mesafenin ötesindeyken</span> ek <span class=\"highlight\">Silah Hasarı</span> verin."
 
 		//Mystic Shot
-		"upgrade_crackshot_desc"	"Bir sonraki merminiz bonus <span class=\"highlight\">Ruh Hasarı</span> verir."
+		"upgrade_crackshot_desc"	"Bir sonraki merminiz bonus <span class=\"highlight\">Büyü Hasarı</span> verir."
 		"ProcBonusMagicDamage_prefix"	"{s:sign}"
-		"ProcBonusMagicDamage_label"	"Ruh Hasarı"
+		"ProcBonusMagicDamage_label"	"Büyü Hasarı"
 
 		//Restorative Shot
 		"upgrade_medic_bullets_desc"	"Bir sonraki merminiz, vurduğunuz hedefe göre sizi <span class=\"highlight\">iyileştirir</span>."
@@ -210,10 +210,10 @@
 		"upgrade_sharpshooter_headshots_desc"	"<span class=\"highlight\">Kafadan vuruşlarda</span> bonus <span class=\"highlight\">Silah Hasarı</span> verir."
 
 		//Crippling Headshot
-		"upgrade_banshee_slugs_headshots_desc"	"<span class=\"highlight\">Kafadan vuruşlar</span> hedefin <span class=\"highlight\">Mermi ve Ruh Direncini</span> azaltır."
+		"upgrade_banshee_slugs_headshots_desc"	"<span class=\"highlight\">Kafadan vuruşlar</span> hedefin <span class=\"highlight\">Mermi ve Büyü Direncini</span> azaltır."
 		"BulletResistReduction_label"		"Mermi Direnci Azaltımı"
 		"BulletResistReduction_postfix"	"%"
-		"MagicResistReduction_label"		"Ruh Direnci Azaltımı"
+		"MagicResistReduction_label"		"Büyü Direnci Azaltımı"
 		"MagicResistReduction_postfix"	"%"
 
 		//Berserker
@@ -230,19 +230,19 @@
 		"upgrade_frenzy/modifier_frenzy_aura/modifier_frenzy_kill"		"Killed Frenzy"
 
 		//Soul Shredder Bullets
-		"upgrade_tech_defense_shredders_desc"	"Mermileriniz hedefe karşı <span class=\"highlight\">Ruh Hasarınızı</span> artıran bir zayıflatma uygular ve hedefe karşı size <span class=\"highlight\">Ruh Can Çalması</span> verir."
-		"ShreddersTechAmp_label"				"Ruh Artırımı"
+		"upgrade_tech_defense_shredders_desc"	"Mermileriniz hedefe karşı <span class=\"highlight\">Büyü Hasarınızı</span> artıran bir zayıflatma uygular ve hedefe karşı size <span class=\"highlight\">Büyü Can Çalması</span> verir."
+		"ShreddersTechAmp_label"				"Büyü Artırımı"
 		"ShreddersTechAmp_postfix"			"%"
 		"modifier_tech_defense_shredders_debuff"																"Ruh Parçalayıcı Mermiler"
-		"upgrade_tech_defense_shredders/modifier_tech_defense_shredders_proc/modifier_base"						"Ruh Zırhı Azaltıldı"
-		"modifier_tech_defense_shredders"		"Ruh Zırhı Azaltıldı"
+		"upgrade_tech_defense_shredders/modifier_tech_defense_shredders_proc/modifier_base"						"Büyü Zırhı Azaltıldı"
+		"modifier_tech_defense_shredders"		"Büyü Zırhı Azaltıldı"
 
 		//Monster Rounds
 		"upgrade_non_player_bonus_desc"		"<span class=\"highlight\">Askerlere</span>, <span class=\"highlight\">Nötrlere</span> ve <span class=\"highlight\">Boss'lara</span> saldırırken ek <span class=\"highlight_weapon\">%{s:NonPlayerBonusWeaponPower} Silah Hasarı</span> kazanın."
 		
 		//Hollow Point Ward
 		"upgrade_hollow_point_rounds_desc"				"<span class=\"highlight\">Canınız %{s:LifeThreshold} üzerindeyken</span>, ek <span class=\"highlight\">Silah Hasarı</span> verin."
-		"upgrade_hollow_point_rounds_shield_desc"		"Gelen <span class=\"highlight\">Ruh Hasarını</span> engelleyen bir <span class=\"highlight\">Ruh Kalkanı</span> kazanın. Savaş dışında kalkan yenilenir."
+		"upgrade_hollow_point_rounds_shield_desc"		"Gelen <span class=\"highlight\">Büyü Hasarını</span> engelleyen bir <span class=\"highlight\">Büyü Kalkanı</span> kazanın. Savaş dışında kalkan yenilenir."
 
 		// Pristine Emblem
 		"upgrade_pristine_emblem_desc"	"Saldırılarınız, <span class=\"highlight\">canı %{s:EnemyLifeThreshold} üzerindeki düşmanlara</span> karşı ek <span class=\"highlight\">Silah Hasarı</span> verir."
@@ -360,7 +360,7 @@
 		"CritDamagePercent_postfix"			"%"
 
 		//Veil Walker
-		"upgrade_veil_walker_desc"			"Bir <span class=\"highlight\">kozmik perdenin</span> içinden geçmek size <span class=\"highlight\">Görünmezlik</span>, daha yüksek <span class=\"highlight\">Hareket Hızı</span>, tüm <span class=\"highlight\">Mermi ve Ruh Kalkanlarını</span> geri kazandırır ve bir sonraki şarjörünüz için ilave <span class=\"highlight\">Atış Hızı</span> sağlar."
+		"upgrade_veil_walker_desc"			"Bir <span class=\"highlight\">kozmik perdenin</span> içinden geçmek size <span class=\"highlight\">Görünmezlik</span>, daha yüksek <span class=\"highlight\">Hareket Hızı</span>, tüm <span class=\"highlight\">Mermi ve Büyü Kalkanlarını</span> geri kazandırır ve bir sonraki şarjörünüz için ilave <span class=\"highlight\">Atış Hızı</span> sağlar."
 		"VeilWalker_MoveSpeed_label"			"Görünmezlik Hareket Hızı"
 		"VeilWalker_MoveSpeed_postfix"		"m/s"
 
@@ -371,26 +371,26 @@
 
 
 		//Spirit Lifesteal
-		"upgrade_health_stealing_magic_desc"		"<span class=\"highlight\">Ruh eşyalarınız ve yetenekleriniz</span>, verdikleri hasarın belirli bir yüzdesi kadar sizi <span class=\"highlight\">iyileştirir</span>. NPC'lerde daha az iyileştirir ve binalarda işe yaramaz."
+		"upgrade_health_stealing_magic_desc"		"<span class=\"highlight\">Büyü eşyalarınız ve yetenekleriniz</span>, verdikleri hasarın belirli bir yüzdesi kadar sizi <span class=\"highlight\">iyileştirir</span>. NPC'lerde daha az iyileştirir ve binalarda işe yaramaz."
 		"NonHeroAbilityLifestealTooltipOnly_label"			"NPC değeri"
 		"NonHeroAbilityLifestealTooltipOnly_postfix"		"%"
 		
 		//Mystic Vulnerability
-		"upgrade_magic_vulnerability_desc"	"Hedef <span class=\"highlight\">Ruh Hasarı</span> aldığında, <span class=\"highlight\">Ruh Direnci</span> azalır."		
+		"upgrade_magic_vulnerability_desc"	"Hedef <span class=\"highlight\">Büyü Hasarı</span> aldığında, <span class=\"highlight\">Büyü Direnci</span> azalır."		
 
 		//Healbane
-		"upgrade_healbane_desc"	"<span class=\"highlight\">Ruh Hasarınız</span>, <span class=\"highlight\">İyileştirme Azaltımı</span> uygular. Bu etki altında bir düşman kahraman ölürse, büyük bir iyileştirme elde edersiniz."
+		"upgrade_healbane_desc"	"<span class=\"highlight\">Büyü Hasarınız</span>, <span class=\"highlight\">İyileştirme Azaltımı</span> uygular. Bu etki altında bir düşman kahraman ölürse, büyük bir iyileştirme elde edersiniz."
 		"HealOnKill_label"		"Kahraman Öldürmede İyileşme"
 
 		//Mystic Slow
-		"upgrade_magic_slow_desc"	"Hedef <span class=\"highlight\">Ruh Hasarı</span> aldığında, <span class=\"highlight\">Hareket Hızı</span> ve <span class=\"highlight\">Atış Hızı</span> azalır."
+		"upgrade_magic_slow_desc"	"Hedef <span class=\"highlight\">Büyü Hasarı</span> aldığında, <span class=\"highlight\">Hareket Hızı</span> ve <span class=\"highlight\">Atış Hızı</span> azalır."
 
 		//Escalating Exposure
-		"upgrade_escalating_exposure_desc"	"<span class=\"highlight\">Ruh Hasarı</span> vermek, hedefe verdiğiniz <span class=\"highlight\">Ruh Hasarını</span> artıran bir yığın <span class=\"highlight\">Ruh Artışı</span> uygular."
-		"upgrade_escalating_exposure/modifier_proc_watcher/modifier_debuff"		"Azaltılan Ruh Zırhı"
+		"upgrade_escalating_exposure_desc"	"<span class=\"highlight\">Büyü Hasarı</span> vermek, hedefe verdiğiniz <span class=\"highlight\">Büyü Hasarını</span> artıran bir yığın <span class=\"highlight\">Büyü Artışı</span> uygular."
+		"upgrade_escalating_exposure/modifier_proc_watcher/modifier_debuff"		"Azaltılan Büyü Zırhı"
 		"EscalatingExposureProcCooldown_label"	"Hedef Başına Maks. Sıklık"
 		"EscalatingExposureProcCooldown_postfix"	"s"
-		"EscalatingExposureTechArmorDamageReduction_label"	"Ruh Hasarında Ruh Direnci"
+		"EscalatingExposureTechArmorDamageReduction_label"	"Büyü Hasarında Büyü Direnci"
 		"EscalatingExposureTechArmorDamageReduction_postfix"	"%"
 		
 		//Mystic Reach
@@ -400,14 +400,14 @@
 		"upgrade_tech_range_desc"			"Yeteneklerinizin ve eşyalarınızın <span class=\"highlight\">menzilini</span> ve <span class=\"highlight\">etki alanını</span> artırır."
 
 		//Omni Spirit
-		"upgrade_long_range_slowing_tech_desc"		"Ruh hasarı verirken düşmanlara <span class=\"highlight\">hareket yavaşlatma</span> uygular."
+		"upgrade_long_range_slowing_tech_desc"		"Büyü hasarı verirken düşmanlara <span class=\"highlight\">hareket yavaşlatma</span> uygular."
 		"upgrade_long_range_slowing_tech/modifier_long_range_slowing_tech_proc/modifier_slow_base"	"Yavaşlatıldı"
 
 		//Full Spectrum
 		"upgrade_full_spectrum_passive"	"Adds <span class=\"highlight\">bonus damage</span> for every hero hit from your spirit damage mods or abilities and applies a <span class=\"highlight\">movement slow</span>."
 
 		//Mystic Range
-		"upgrade_tech_range_2_desc"		"Ruh <span class=\"highlight\">menziliniz</span>, <span class=\"highlight\">aura yarıçapınız</span> ve <span class=\"highlight\">etki alanınız</span> artırılır."
+		"upgrade_tech_range_2_desc"		"Büyü <span class=\"highlight\">menziliniz</span>, <span class=\"highlight\">aura yarıçapınız</span> ve <span class=\"highlight\">etki alanınız</span> artırılır."
 		
 		//Improved Cooldown
 		"upgrade_magic_tempo_desc"	"Yeteneklerinizin ve eşyalarınızın <span class=\"highlight\">Bekleme Süresini</span> azaltır."
@@ -421,7 +421,7 @@
 		//Extra Charge
 		"upgrade_extra_charge_desc"	"Adds one to your ability max <span class=\"highlight\">charges</span>."
 		"BonusSpiritForChargedAbilities_prefix"						"+"
-		"BonusSpiritForChargedAbilities_label"						"Şarjlı Yetenekler için Bonus Ruh Gücü"
+		"BonusSpiritForChargedAbilities_label"						"Şarjlı Yetenekler için Bonus Büyü Gücü"
 
 		//Hyper Charge
 		"upgrade_bonus_ability_charge_3_desc"	"<span class=\"highlight\">+{s:BonusAbilityCharges}</span> to your max ability <span class=\"highlight\">charges</span>."
@@ -435,7 +435,7 @@
 		"CooldownReductionOnChargedAbilities_prefix" "+"
 
 		//Alchemical Fire
-		"upgrade_thermal_detonator_desc"		"Değdiği yerde patlayan bir şişe fırlatarak <span class=\"highlight\">saniyede başı artan Ruh Hasarı</span> veren bir alan yaratın, ve düşmanların takımınızdan ek <span class=\"highlight\">Silah Hasarı</span> almasına neden olun.<br><br>NPC'lere karşı %{s:NonHeroReductionPercent} daha az DPS."
+		"upgrade_thermal_detonator_desc"		"Değdiği yerde patlayan bir şişe fırlatarak <span class=\"highlight\">saniyede başı artan Büyü Hasarı</span> veren bir alan yaratın, ve düşmanların takımınızdan ek <span class=\"highlight\">Silah Hasarı</span> almasına neden olun.<br><br>NPC'lere karşı %{s:NonHeroReductionPercent} daha az DPS."
 		"BonusBaseWeaponDamageTaken_prefix"		"+"
 		"BonusBaseWeaponDamageTaken_label"		"Silah Hasarı"
 		"BonusBaseWeaponDamageTaken_postfix"	"%"
@@ -467,26 +467,26 @@
 		"upgrade_succor_desc"				"<span class=\"highlight\">Pulls</span> the targeted teammate out of battle and brings them next to you."
 		
 		//Slowing Hex
-		"upgrade_containment_desc"			"Hedefe <span class=\"highlight\">Ruh Hasarı</span> verir, onu <span class=\"highlight\">Yavaşlatır</span> ve <span class=\"highlight\">hareket tabanlı yeteneklerini Susturur</span>.<br>Hedefin enerji kullanımını etkilemez."
+		"upgrade_containment_desc"			"Hedefe <span class=\"highlight\">Büyü Hasarı</span> verir, onu <span class=\"highlight\">Yavaşlatır</span> ve <span class=\"highlight\">hareket tabanlı yeteneklerini Susturur</span>.<br>Hedefin enerji kullanımını etkilemez."
 
 		//Withering Whip
 		"upgrade_withering_whip_desc"		"Bir düşmanı hedef alarak <span class=\"highlight\">Silahsızlandırın</span> ve <span class=\"highlight\">Mermi Direncini</span> azaltın."
 		"modifier_withering_whip_debuff"	"Silahsızlandırıldı"
-		"MagicAmp_label"					"Ruh Artışı"
+		"MagicAmp_label"					"Büyü Artışı"
 		"MagicAmp_postfix"					"%"
 		"WitheringWhipDisarmDuration_label"	"Silahsızlandırma Süresi"
 		"WitheringWhipDisarmDuration_postfix"	"s"
-		"SpiritPower_label"					"Ruh Gücü"
+		"SpiritPower_label"					"Büyü Gücü"
 		"SpiritPower_prefix"					"+"
 
 		//Ethereal Shift
-		"upgrade_self_bubble_desc"			"Ruhani değişim geçirirek kısa bir süre boyunca <span class=\"highlight\">hedef alınamaz ve ölümsüz</span> hale gelirsiniz, bu süre boyunca hareket edemez veya herhangi bir eylem gerçekleştiremezsiniz. Sonrasında <span class=\"highlight\">anında mermi doldurur</span> ve bonus <span class=\"highlight\">Ruh Gücü</span> kazanırsınız.<br>Erken iptal etmek için [{s:in_mantle}] tuşuna basın."
+		"upgrade_self_bubble_desc"			"Ruhani değişim geçirirek kısa bir süre boyunca <span class=\"highlight\">hedef alınamaz ve ölümsüz</span> hale gelirsiniz, bu süre boyunca hareket edemez veya herhangi bir eylem gerçekleştiremezsiniz. Sonrasında <span class=\"highlight\">anında mermi doldurur</span> ve bonus <span class=\"highlight\">Büyü Gücü</span> kazanırsınız.<br>Erken iptal etmek için [{s:in_mantle}] tuşuna basın."
 		"ShiftingVeilDuration_label"			"Süre"
 		"ShiftingVeilDuration_postfix"		"s"
-		"BonusSpiritDuration_label"			"Bonus Ruh Süresi"
+		"BonusSpiritDuration_label"			"Bonus Büyü Süresi"
 		"BonusSpiritDuration_postfix"			"s"
 		"modifier_shifting_veil_buff"			"Ruhani Değişim"
-		"shifting_veil_bonus_spirit"			"Bonus Ruh Gücü"
+		"shifting_veil_bonus_spirit"			"Bonus Büyü Gücü"
 		"modifier_citadel_bubble"				"Ruhani Değişim"
 
 		//Stasis Bomb
@@ -518,14 +518,14 @@
 		
 		//Refresher
 		"upgrade_ability_refresher_desc"	"Bütün yeteneklerinizin <span class=\"highlight\">bekleme süresini sıfırlayın</span> ve <span class=\"highlight\">şarjlarını doldurun</span>."
-		"upgrade_ability_refresher_innate_desc" "Can<br>Ruh Gücü"
+		"upgrade_ability_refresher_innate_desc" "Can<br>Büyü Gücü"
 
 		//Spirit Barrier Pulse
 		"upgrade_aoe_tech_shield_desc"		"Temporarily gain <span class=\"highlight\">spirit barrier</span> for you and all nearby allied units."
 		"upgrade_aoe_tech_shield/modifier_duration" "Spirit Barrier Pulse"
 		
 		//Cold Front
-		"upgrade_cold_front_desc"			"İsabet ettiği hedeflere <span class=\"highlight\">Ruh Hasarı</span> veren ve <span class=\"highlight\">Yavaşlatan</span>, genişleyen bir buz patlaması yayın."
+		"upgrade_cold_front_desc"			"İsabet ettiği hedeflere <span class=\"highlight\">Büyü Hasarı</span> veren ve <span class=\"highlight\">Yavaşlatan</span>, genişleyen bir buz patlaması yayın."
 		
 		//Knockdown
 		"upgrade_target_stun_desc"			"Hedef {s:StunDelay}s gecikmenin ardından <span class=\"highlight\">yere serilir</span> ve <span class=\"highlight\">Sersemletilir</span>, bu da herhangi bir eylemde bulunmasını kesintiye uğratır ve geçici olarak engeller."
@@ -549,7 +549,7 @@
 		"upgrade_glitch/modifier_glitch_debuff"	"Lanetlendi!"
 
 		//Bullet Resist Shredder
-		"upgrade_bullet_resist_shredder_desc"	"<span class=\"highlight\">Ruh Hasarı</span> verdiğinizde düşmanların <span class=\"highlight\">Mermi Direncini</span> azaltır."
+		"upgrade_bullet_resist_shredder_desc"	"<span class=\"highlight\">Büyü Hasarı</span> verdiğinizde düşmanların <span class=\"highlight\">Mermi Direncini</span> azaltır."
 		"upgrade_bullet_resist_shredder/modifier_bullet_armor_shredder_proc/modifier_bullet_armor_shredder" "Azaltılan Mermi Zırhı"
 
 		//Weapon Eater
@@ -573,8 +573,8 @@
 		"upgrade_imbued_duration_extender_desc"	"Yeteneklerinizin ve eşyalarınızın <span class=\"highlight\">Süresini</span> artırır."
 
 		//Diviner's Kevlar
-		"upgrade_diviners_kevlar_desc"			"<span class=\"highlight\">Ultimate yeteneğinizi</span> kullandığınızda geçici <span class=\"highlight\">Mermi Kalkanı, Ruh Kalkanı</span> ve <span class=\"highlight\">Ruh Gücü</span> kazanın."
-		"BonusChannelTechPower_label"			"Kullanırken Ruh Gücü"
+		"upgrade_diviners_kevlar_desc"			"<span class=\"highlight\">Ultimate yeteneğinizi</span> kullandığınızda geçici <span class=\"highlight\">Mermi Kalkanı, Büyü Kalkanı</span> ve <span class=\"highlight\">Büyü Gücü</span> kazanın."
+		"BonusChannelTechPower_label"			"Kullanırken Büyü Gücü"
 		"BonusChannelTechPower_prefix"			"+"
 		"BonusChannelTimePercentage_label"		"Kullanım Süresi"
 		"BonusChannelTimePercentage_prefix"		"+"
@@ -582,11 +582,11 @@
 		"ChannelBulletShield_label"				"Kullanırken Mermi Bariyeri"
 
 		//Infuser
-		"upgrade_infuser_desc"			"<span class=\"highlight\">Ruh Gücü</span> ve <span class=\"highlight\">Ruh Can Çalma</span> kazanın."
+		"upgrade_infuser_desc"			"<span class=\"highlight\">Büyü Gücü</span> ve <span class=\"highlight\">Büyü Can Çalma</span> kazanın."
 
 		//Spirit Strike
-		"upgrade_acolytes_glove_desc"			"Bir kahramana karşı <span class=\"highlight\">Hafif veya Ağır Yumruk</span> saldırısı gerçekleştirdiğinizde, saldırıyla birlikte fazladan <span class=\"highlight\">Ruh Hasarı</span> verin ve hedefin <span class=\"highlight\">Ruh Direncini</span> azaltın."
-		"SpiritDamage_label"						"Ruh Hasarı"
+		"upgrade_acolytes_glove_desc"			"Bir kahramana karşı <span class=\"highlight\">Hafif veya Ağır Yumruk</span> saldırısı gerçekleştirdiğinizde, saldırıyla birlikte fazladan <span class=\"highlight\">Büyü Hasarı</span> verin ve hedefin <span class=\"highlight\">Büyü Direncini</span> azaltın."
+		"SpiritDamage_label"						"Büyü Hasarı"
 		"modifier_acolytes_glove_triggered"		"Ruh Saldırısı"
 
 		//Melee Charge
@@ -601,19 +601,19 @@
 		"ClarityBonusSpirit_label"				"Next Ability Bonus Spirit Power"
 
 		//Surge of Power
-		"upgrade_magic_storm_desc"				"Bir yeteneğe <span class=\"highlight\">kalıcı Ruh Gücü</span> basın. Yetenek kullanıldığında, bonus <span class=\"highlight\">Hareket Hızı</span> kazanırsınız."
+		"upgrade_magic_storm_desc"				"Bir yeteneğe <span class=\"highlight\">kalıcı Büyü Gücü</span> basın. Yetenek kullanıldığında, bonus <span class=\"highlight\">Hareket Hızı</span> kazanırsınız."
 		"modifier_upgrade_magic_storm"			"Güç Dalgalanması"
 
 		//Suppressor
-		"upgrade_suppressor_desc"					"Düşmanlara <span class=\"highlight\">Ruh Hasarı</span> verdiğinizde, <span class=\"highlight\">Atış Hızı Yavaşlatması</span> da uygularsınız."
+		"upgrade_suppressor_desc"					"Düşmanlara <span class=\"highlight\">Büyü Hasarı</span> verdiğinizde, <span class=\"highlight\">Atış Hızı Yavaşlatması</span> da uygularsınız."
 		"suppressor_debuff"						"Atış Hızı Yavaşlatması"
 
 		//Quicksilver Reload
-		"upgrade_quick_silver_desc"				"Bir yeteneğe ilk vuruşta bonus <span class=\"highlight\">Ruh Hasarı</span> basın. Yetenek kullanıldığında, silahınız <span class=\"highlight\">yeniden doldurulur</span> ve o şarjör için <span class=\"highlight\">Atış Hızı</span> bonusuna sahip olur."
+		"upgrade_quick_silver_desc"				"Bir yeteneğe ilk vuruşta bonus <span class=\"highlight\">Büyü Hasarı</span> basın. Yetenek kullanıldığında, silahınız <span class=\"highlight\">yeniden doldurulur</span> ve o şarjör için <span class=\"highlight\">Atış Hızı</span> bonusuna sahip olur."
 		"modifier_quick_silver_buff"				"+Atış Hızı"
 
 		// Magic carpet
-		"upgrade_magic_carpet_desc"				"Sizi uzaklara uçuracak bir Sihirli Halı çağırın. Uçarken Mermi ve Ruh kalkanları kazanırsınız.  Halı çağrılırken yetenekler kullanılamaz.  Uçarken herhangi bir eylem yapmak halıyı devre dışı bırakır."
+		"upgrade_magic_carpet_desc"				"Sizi uzaklara uçuracak bir Sihirli Halı çağırın. Uçarken Mermi ve Büyü kalkanları kazanırsınız.  Halı çağrılırken yetenekler kullanılamaz.  Uçarken herhangi bir eylem yapmak halıyı devre dışı bırakır."
 		"modifier_magiccarpet"					"Sihirli Halı"
 		"modifier_summon_magiccarpet"			"Sihirli Halı Çağırılıyor"
 		"MagicCarpetMoveSpeed_prefix"			"+"
@@ -638,9 +638,9 @@
 		"upgrade_health_stimpak/modifier_stimpak_regen"			"İyileştirme Ayini"
 
 		//Divine Barrier
-		"upgrade_savior_desc"				"Hedefe <span class=\"highlight\">Mermi Kalkanı, Ruh Kalkanı ve Hareket Hızı</span> sağlar. Kendinizde kullanılabilir."
+		"upgrade_savior_desc"				"Hedefe <span class=\"highlight\">Mermi Kalkanı, Büyü Kalkanı ve Hareket Hızı</span> sağlar. Kendinizde kullanılabilir."
 		"SaviorBulletShieldHealth_label"		"Mermi Kalkanı"
-		"SaviorMagicShieldHealth_label"		"Ruh Kalkanı"
+		"SaviorMagicShieldHealth_label"		"Büyü Kalkanı"
 		"BuffDuration_label"					"Süre"
 		"BuffDuration_postfix"				"s"
 
@@ -716,10 +716,10 @@
 		"upgrade_spell_absorb_desc"					"<span class=\"highlight\">Blocks</span> a targeted ability."
 		
 		//Spirit Armor
-		"upgrade_tech_armor_desc"						"<span class=\"highlight\">Ruh</span> yeteneklerinden aldığınız hasarı azaltır."
+		"upgrade_tech_armor_desc"						"<span class=\"highlight\">Büyü</span> yeteneklerinden aldığınız hasarı azaltır."
 
 		//Spirit Armor+
-		"upgrade_tech_armor_2_desc"					"<span class=\"highlight\">Ruh</span> yeteneklerinden aldığınız hasarı azaltır."
+		"upgrade_tech_armor_2_desc"					"<span class=\"highlight\">Büyü</span> yeteneklerinden aldığınız hasarı azaltır."
 		
 		//Bullet Deflector Shield
 		"upgrade_deflector_shield_desc"				"Adds <span class=\"highlight\">bullet armor</span>, and provides a shield that absorbs bullet damage. Shield regens out of combat (10s no damage)."
@@ -781,8 +781,8 @@
 		"BonusBaseWeaponDamageWithShield_prefix"	"+"
 
 		//Enchanter's Barrier
-		"upgrade_magic_shield_desc"		"<span class=\"highlight\">Ruh Kalkanınız</span> varken bonus <span class=\"highlight\">Ruh Gücü</span> kazanırsınız."
-		"BonusSpiritWithMagicShield_label"		"Kalkanlıyken Ruh Gücü"
+		"upgrade_magic_shield_desc"		"<span class=\"highlight\">Büyü Kalkanınız</span> varken bonus <span class=\"highlight\">Büyü Gücü</span> kazanırsınız."
+		"BonusSpiritWithMagicShield_label"		"Kalkanlıyken Büyü Gücü"
 		"BonusSpiritWithMagicShield_prefix"		"+"
 
 		//Aerial Assault
@@ -803,7 +803,7 @@
 		"modifier_unstoppable"							"Durdurulamaz"
 
 		//Colossus
-		"upgrade_colossus_desc"			"<span class=\"highlight\">Mermi ve Ruh Direnci</span> kazanın ve yakındaki düşmanları <span class=\"highlight\">Yavaşlatın</span>. Model boyutunuz %20 büyür."
+		"upgrade_colossus_desc"			"<span class=\"highlight\">Mermi ve Büyü Direnci</span> kazanın ve yakındaki düşmanları <span class=\"highlight\">Yavaşlatın</span>. Model boyutunuz %20 büyür."
 
 		//Ablative Coat
 		"upgrade_ablative_coat_desc"			"Provides <span class=\"highlight\">Bullet Resist</span> but you lose some each time you take Weapon Damage. Loss can only happen once every {s:StackLossFrequency}s. Bullet Resist is restored when out of combat."
@@ -837,11 +837,11 @@
 
 		//Shadow Weave
 		"upgrade_cloaking_device_active_desc"		"<span class=\"highlight\">Görünmez</span> ol. Görünmez haldeyken hasar aldığınızda kısa süreliğine açığa çıkarsınız."
-		"upgrade_cloaking_device_active_ambush_desc"	"<br>Saldırmak veya bir yetenek kullanmak görünmezliğinizi sona erdirir ve bir <span class=\"highlight\">\"pusu\"</span> başlatarak size geçici olarak ilave <span class=\"highlight\">Atış Hızı</span> ve <span class=\"highlight\">Ruh Gücü</span> kazandırır."
+		"upgrade_cloaking_device_active_ambush_desc"	"<br>Saldırmak veya bir yetenek kullanmak görünmezliğinizi sona erdirir ve bir <span class=\"highlight\">\"pusu\"</span> başlatarak size geçici olarak ilave <span class=\"highlight\">Atış Hızı</span> ve <span class=\"highlight\">Büyü Gücü</span> kazandırır."
 		"modifier_cloaking_device_active_stealth"		"Gölge Dokuma - Görünmezlik"
 		"modifier_cloaking_device_active_ambush"		"Gölge Dokuma - Pusu"
 		"AmbushBonusTechPower_prefix"					"+"
-		"AmbushBonusTechPower_label"					"Pusu Ruh Gücü"
+		"AmbushBonusTechPower_label"					"Pusu Büyü Gücü"
 		"AmbushBonusFireRate_prefix"					"+"
 		"AmbushBonusFireRate_label"					"Pusu Atış Hızı"
 		"AmbushBonusFireRate_postfix"					"%"
@@ -886,10 +886,10 @@
 		"modifier_citadel_active_disarm_spirit_steal"	"Drain Will"
 
 		//Reactive Barrier
-		"upgrade_vex_barrier_desc"		"<span class=\"highlight\">Sabitlendiğinizde, Sersemletildiğinizde,</span> veya <span class=\"highlight\">Uyutulduğunuzda</span> otomatik olarak geçici <span class=\"highlight\">Mermi ve Ruh Kalkanı</span> açın."
+		"upgrade_vex_barrier_desc"		"<span class=\"highlight\">Sabitlendiğinizde, Sersemletildiğinizde,</span> veya <span class=\"highlight\">Uyutulduğunuzda</span> otomatik olarak geçici <span class=\"highlight\">Mermi ve Büyü Kalkanı</span> açın."
 		"upgrade_vex_barrier_shield"	"Reaktif Bariyer"
 		"VexBarrierBulletMaxHealth_label"	"Mermi Kalkanı Canı"
-		"VexBarrierTechMaxHealth_label"		"Ruh Kalkanı Canı"
+		"VexBarrierTechMaxHealth_label"		"Büyü Kalkanı Canı"
 		"VexBarrierShieldDuration_label"	"Süre"
 		"VexBarrierShieldDuration_postfix"	"s"
 

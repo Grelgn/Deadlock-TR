@@ -6,7 +6,7 @@
 		//-----------------------------------------------------------------------------
 		// Hero Bull // Abrams
 		//-----------------------------------------------------------------------------
-		"citadel_ability_bull_charge"			"Shoulder Charge"
+		"citadel_ability_bull_charge"			"Omuz Dalışı"
 		"citadel_ability_bull_charge_quip"		"Düşmanları peşinden sürükleyerek savaşa dal"
 		"citadel_ability_bull_charge_desc"		"Düşmanlarla çarpışarak ve onları sürükleyerek <span class=\"highlight\">ileri atılın</span>. Bir <span class=\"highlight\">duvara</span> çarpmak, Abrams tarafından sürüklenen düşmanları <span class=\"highlight\">sersemletir</span>. Düşman Kahramanlarla çarpıştıktan sonra hız artar."
 		"modifier_citadel_bull_charging"		"Şarjlanıyor"
@@ -14,7 +14,7 @@
 		"modifier_shoulder_charge_buff"			"Bonus Hasar"
 		"modifier_charge_drag_enemy"			"Omuz Dalışı"
 
-		"citadel_ability_bull_heal"				"Siphon Life"
+		"citadel_ability_bull_heal"				"Yaşam Sifonla"
 		"citadel_ability_bull_heal_quip"		"Düşmanların canını boşaltın"
 		"citadel_ability_bull_heal_desc"		"Yarıçap içindeyken düşmanların canını boşaltın."
 
@@ -25,7 +25,7 @@
 		
 		"citadel_ability_bull_heal/modifier_bull_heal_aura"				"Yaşam Sifonla"
 		
-		"citadel_ability_passive_beefy"			"Infernal Resilience"
+		"citadel_ability_passive_beefy"			"Cehennem Direnci"
 		"citadel_ability_passive_beefy_quip"	"Aldığınız hasarın bir kısmını yeniler"
 		"citadel_ability_passive_beefy_desc"	"Gelen hasarın bir kısmını zamanla <span class=\"highlight\">yeniler</span>."
 		"RegenIncomingDamagePercent_label"		"Yenilenen hasar"
@@ -33,7 +33,7 @@
 		"RegenIncomingDamageDuration_label"		"Yenilenme Zamanı"
 		"RegenIncomingDamageDuration_postfix"		"s"
 
-		"citadel_ability_bull_leap"				"Seismic Impact"
+		"citadel_ability_bull_leap"				"Sismik Etki"
 		"citadel_ability_bull_leap_quip"		"Düşmanlara yukarıdan çarparak sersemletin"
 		"citadel_ability_bull_leap_desc"		"<span class=\"highlight\">Havaya sıçrayın</span> ve çarpmak için bir zemin konumu seçin.  Yere çarptığınızda, <span class=\"highlight\">yarıçap içindeki tüm düşmanlar hasar görür ve sersemler</span>. Erken yere çakılmak için [{s:iv_attack}] tuşuna basın."
 		"modifier_citadel_bull_leap"			"Boosting"
@@ -48,29 +48,29 @@
 		"citadel_ability_static_charge_desc"		"Hedef düşman kahramana bir yük uygulayın. Kısa bir süre sonra statik yük, yarıçap içindeki düşmanları <span class=\"highlight\">sersemletir ve hasar verir</span>."
 		
 		
-		"citadel_ability_chain_lightning"		"Chain Lightning"
+		"citadel_ability_chain_lightning"		"Zincirleme Yıldırım"
 		"citadel_ability_chain_lightning_t1"	"Zincir Yarıçapı"
 		"citadel_ability_chain_lightning_t2"	"Zincir Hasarı"
 		"citadel_ability_chain_lightning_t3"	"360 Cone"
 		"citadel_ability_chain_lightning_t3_desc"	"Zincirleme Yıldırım hedefin etrafındaki tüm düşmanları vurabilir."
 
-		"citadel_ability_static_charge"			"Static Charge"
+		"citadel_ability_static_charge"			"Statik Yük"
 		"citadel_ability_static_charge_quip"	"Bir düşman kahramana gecikmeli bir alan sersemletmesi uygulayın"
 		"citadel_ability_static_charge/modifier_citadel_staticcharge"	"Statik Yük"
 
-		"citadel_ability_lightning_ball"		"Lightning Ball"
+		"citadel_ability_lightning_ball"		"Yıldırım Topu"
 		"citadel_ability_lightning_ball_quip"	"Hasar veren bir yıldırım topu fırlatın"
 		"citadel_ability_lightning_ball_desc"	"Düz bir çizgide ilerleyen bir yıldırım topu fırlatır. <span class=\"highlight\">Yarıçapındaki tüm hedeflere hasar verir</span>. Düşmanlara hasar verirken yavaşlar ve dünyaya çarparsa durur."
 		"citadel_ability_lightning_ball_t3_desc" "+{s:DPS} DPS"
 		"citadel_ability_lightning_ball/modifier_citadel_lightningball"	"Yıldırım Topu Yavaşlatması"
 
-		"ability_power_surge"					"Power Surge"
+		"ability_power_surge"					"Elektrik Dalgalanması"
 		"ability_power_surge_quip"			"Atışlarınızla elektrik arkları oluşturun"
 		"ability_power_surge_desc"			"Silahınızı şok etkisiyle güçlendirerek <span class=\"highlight\">mermilerinizin hedefinize şok hasarı vermesini sağlayın</span>. Bu şok hasarı hedefinizin yakınındaki <span class=\"highlight\">düşmanlara sıçrar</span>. Seri atış başına bir kez gerçekleşir."
-		"ability_power_surge_t1_desc"			"Şok Hasarı {s:DebuffDuration}s boyunca %{s:TechResistDebuff} Ruh Direnci uygular"
-		"ability_power_surge_t3_desc"			"+{s:DamagePerChain} Şok Hasarı, gelişmiş Ruh ölçeklendirmesi ve +{s:ChainCount} Maksimum Sıçrama"
+		"ability_power_surge_t1_desc"			"Şok Hasarı {s:DebuffDuration}s boyunca %{s:TechResistDebuff} Büyü Direnci uygular"
+		"ability_power_surge_t3_desc"			"+{s:DamagePerChain} Şok Hasarı, gelişmiş Büyü ölçeklendirmesi ve +{s:ChainCount} Maksimum Sıçrama"
 		"modifier_power_surge"				"Zincirleme Yıldırım"
-		"modifier_power_surge_debuff"			"Ruh Direnci Azaltıldı"
+		"modifier_power_surge_debuff"			"Büyü Direnci Azaltıldı"
 
 		"ChainLightningRadius_label"			"Zincirleme Yıldırım Menzili"
 		"ChainLightningRadius_postfix"		"m"
@@ -82,7 +82,7 @@
 		"DrainTimeNeeded_label"				"Etki için Boşaltım Süresi"
 		"DrainTimeNeeded_postfix"				"s"
 
-		"citadel_ability_storm_cloud"			"Storm Cloud"
+		"citadel_ability_storm_cloud"			"Fırtına Bulutu"
 		"citadel_ability_storm_cloud_quip"		"Geniş bir alandaki tüm düşmanları kızartın"
 		"citadel_ability_storm_cloud_desc"		"Çevrenize, yarıçapı içindeki <span class=\"highlight\">tüm düşmanlara hasar veren</span>, genişleyen bir fırtına bulutu yönlendirin. Düşmanlar görüş alanı dışındayken hasar almazlar."
 		"citadel_ability_storm_cloud_t1_desc"		"Fırtına Bulutu sırasında <span class=\"highlight\">+%{s:BulletResistOnActive} Mermi Direnci</span>"
@@ -151,7 +151,7 @@
 		// Hero McGinnis (previous names: // Engineer // Forge )
 		//-----------------------------------------------------------------------------
 		
-		"citadel_ability_fissure_wall"			"Spectral Wall"
+		"citadel_ability_fissure_wall"			"Spektral Duvar"
 		"citadel_ability_fissure_wall_quip"		"Düşmanlarınızı engellemek için bir duvar oluşturun"
 		"citadel_ability_fissure_wall_desc"		"Araziyi <span class=\"highlight\">ikiye bölen</span> bir duvar oluşturur. Oluşturulduğunda, duvar <span class=\"highlight\">hasar verir</span> ve yakınındaki düşmanlara <span class=\"highlight\">hareket yavaşlatma</span> uygular. <br>Yetenek kullanıldıktan sonra, duvarı erken patlatmak için [{s:iv_attack}] veya [{s:in_ability3}] tuşuna basın."
 		"citadel_ability_fissure_wall_t1_desc"	"<span class=\"highlight\">{s:StaminaReduction} enerji</span> kaldırır ve {s:DebuffDuration}s boyunca McGinnis'in hasarını vurulan düşmanlarda <span class=\"highlight\">%{s:BonusDamagePercent}</span> artırır."
@@ -163,7 +163,7 @@
 		"WallImpactRange_label"					"Etki Menzili"
 		"WallImpactRange_postfix"				"m"
 
-		"citadel_ability_mobile_resupply"		"Medicinal Specter"
+		"citadel_ability_mobile_resupply"		"Tıbbi Ruh"
 		"citadel_ability_mobile_resupply_quip"	"İyileştirici bir ruh yerleştirin"
 		"citadel_ability_mobile_resupply_desc"	"<span class=\"highlight\">Yakındaki birimleri iyileştiren</span> bir ruh yerleştirin."
 		"MaxHealthRegenPct_label"				"Toplam Can Yenileme"
@@ -179,9 +179,9 @@
 		"citadel_ability_mobile_resupply_t1_desc" "Tıbbi Ruh tarafından iyileştirilen birimlerde +%{s:AuraFireRateBonus} Atış Hızı"
 		"citadel_ability_mobile_resupply_t3_desc"	"Saniye başına +%{s:MaxHealthRegenPct} Toplam Can yenilenmesi"
 
-		"citadel_ability_shieldedsentry"		"Mini Turret"
+		"citadel_ability_shieldedsentry"		"Mini Taret"
 		"citadel_ability_shieldedsentry_quip"	"Otomatik bir taret yerleştirin"
-		"citadel_ability_shieldedsentry_desc"	"<span class=\"highlight\">Düşmanları otomatik olarak vuran</span> bir Mini Taret yerleştirin. Taret sınırlı bir kullanım ömrünün ardından yok olur.<br>Taretler McGinnis'in toplam canının %{s:TurretHealthScaling}'unu kazanır ve %{s:TechResist} Ruh Direncine sahiptir. Askerlere ve hedeflere daha az hasar verirler."
+		"citadel_ability_shieldedsentry_desc"	"<span class=\"highlight\">Düşmanları otomatik olarak vuran</span> bir Mini Taret yerleştirin. Taret sınırlı bir kullanım ömrünün ardından yok olur.<br>Taretler McGinnis'in toplam canının %{s:TurretHealthScaling}'unu kazanır ve %{s:TechResist} Büyü Direncine sahiptir. Askerlere ve hedeflere daha az hasar verirler."
 		"citadel_ability_shieldedsentry_t1_desc"	"<span class=\"highlight\">+{s:AbilityCharges}</span> Yetenek Yükü ve taretler <span class=\"highlight\">+%{s:MoveSlowPercent}</span> Hareket Yavaşlatma uygular."
 		"citadel_ability_shieldedsentry_t2_desc"	"<span class=\"highlight\">+{s:TurretAttackRange}m</span> Saldırı Menzili ve <span class=\"highlight\">+%{s:AttackSpeedMult}</span> taret atış hızı"
 		
@@ -207,7 +207,7 @@
 
 		"citadel_ability_fissure_wall/modifier_fissure_wall/modifier_bonus_damage_percent"			"Duvar Hasar Azaltımı"
 
-		"citadel_ability_rocket_barrage"		"Heavy Barrage"
+		"citadel_ability_rocket_barrage"		"Ağır Bombardıman"
 		"citadel_ability_rocket_barrage_quip"	"Bir bölgeyi roketlerle bombardıman yap"
 		"citadel_ability_rocket_barrage_desc"	"Hedeflenen bir noktaya roketlerle yaylım ateşi açar."
 		"citadel_ability_rocket_barrage_t1_desc"	"Her roket, {s:StackingSlowDuration}s boyunca devam eden %{s:StackingSlowPerRocket} hareket yavaşlatma uygular"
@@ -224,7 +224,7 @@
 		// Wraith
 		//-----------------------------------------------------------------------------
 		
-		"citadel_ability_psychic_lift"			"Telekinesis"
+		"citadel_ability_psychic_lift"			"Telekinezi"
 		"citadel_ability_psychic_lift_quip"		"Bir düşmanı havaya kaldırarak kesintiye uğrat ve sustur"
 		"citadel_ability_psychic_lift_desc"		"Bir düşman kahramanı havaya kaldırır, <span class=\"highlight\">kesintiye uğratır</span> ve kısa bir süreliğine <span class=\"highlight\">yetenek ve eşya kullanımını engeller</span>. Kaldırma işlemi sona erdiğinde, hedef Telekinezi hasarı alır."
 		"citadel_ability_psychic_lift/lift"		"Telekinezi"
@@ -234,16 +234,16 @@
 		
 		"citadel_ability_psychic_daggers_desc"		"Telekinezi ile, çevrenizdeki <span class=\"highlight\">rastgele hedeflere</span> kartlar fırlatır."
 
-		"citadel_ability_projectmind"			"Project Mind"
+		"citadel_ability_projectmind"			"Zihin Yansıtma"
 		"citadel_ability_projectmind_quip"		"Hedeflenen yere ışınlan"
 		"citadel_ability_projectmind_desc"			"Hedeflenen yere <span class=\"highlight\">ışınlan</span>."
 		"BulletShieldOnLand_label"				"Işınlanma anında Mermi Kalkanı"
-		"citadel_ability_projectmind_t2_desc"	"Işınlanma sırasında <span class=\"highlight\">{s:BulletShieldOnLand} mermi kalkanı</span> sağlar. Kalkan miktarı Ruh Gücüne göre ölçeklenir."
+		"citadel_ability_projectmind_t2_desc"	"Işınlanma sırasında <span class=\"highlight\">{s:BulletShieldOnLand} mermi kalkanı</span> sağlar. Kalkan miktarı Büyü Gücüne göre ölçeklenir."
 		"modifier_wraith_project_mind_shield"				"Mermi Kalkanı"
 		"citadel_ability_projectmind/modifier_citadel_projectmind/modifier_wraith_project_mind_shield"	"Mermi Kalkanı"
 		"wraith_project_mind_t2_title"			"Mermi Kalkanı:"
 
-		"citadel_ability_psychic_daggers"		"Royal Flush"
+		"citadel_ability_psychic_daggers"		"Floş Royal"
 		"citadel_ability_psychic_daggers_quip"	"Çevrenizdeki rastgele hedeflere hasar ver"
 		"ShootInterval_label"						"Kart Aralığı"
 		"ShootInterval_postfix"					"s"
@@ -251,19 +251,19 @@
 		"citadel_ability_psychic_daggers_t3_desc"	"Her kart menzil içerisindeki başka bir düşmana <span class=\"highlight\">bir kez sıçrar</span>."
 		"DamagePerDagger_label"					"Kart Başına Hasar"
 
-		"citadel_ability_wraith_rapidfire"		"Full Auto"
+		"citadel_ability_wraith_rapidfire"		"Tam Otomatik"
 		"citadel_ability_wraith_rapidfire_quip"	"Atış hızınızı artırın"
 		"citadel_ability_wraith_rapidfire_desc"	"<span class=\"highlight\">Atış hızınızı</span> geçici olarak artırır. Yakındaki müttefikler ateş hızı bonusunun yarısını alır."
 		"citadel_ability_wraith_rapidfire/modifier_rapidfire" "Hızlı Atış"
 		
 
-		"citadel_ability_card_toss"	"Card Trick"
+		"citadel_ability_card_toss"	"Kart Numarası"
 		"citadel_ability_card_toss_quip" "Güdümlü kartlar fırlat"
 		"citadel_ability_card_toss_desc" "Silah hasarı vererek kart oluşturun. Düşmana veya nişan aldığınız bölgeye doğru kartı fırlatmak için aktive edin."
 		"CardResourceGenPctScale_label"				"Kart Oluşturma Oranı"
 		"CardResourceGenPctScale_postfix"			"%"
 
-		"citadel_ability_psychic_pulse" "Psychic Pulse"
+		"citadel_ability_psychic_pulse" "Psişik Nabız"
 		"citadel_ability_psychic_pulse_quip" "Düşmanları duvarlar arasından görün"
 		"citadel_ability_psychic_pulse_desc" "Önünüzdeki düşmanları hissedin ve onların pozisyonunu duvarlar arasından takımınıza gösterin. Kart Numarası, duvarlar arasından görülen düşmanları hedef alabilir."
 		"SenseRange_label"	"Hissiyat Menzili"
@@ -353,7 +353,7 @@
 		//-----------------------------------------------------------------------------
 		// Paradox (previous name: Chrono)
 		//-----------------------------------------------------------------------------
-		"citadel_ability_chrono_time_wall"		"Time Wall"
+		"citadel_ability_chrono_time_wall"		"Zaman Duvarı"
 		"citadel_ability_chrono_time_wall_quip"	"Mermileri büyük ölçüde yavaşlatan bir duvar oluştur"
 		"citadel_ability_chrono_time_wall_desc"	"Temas eden tüm <span class=\"highlight\">düşman mermileri ve fırlatılan nesneleri</span> için <span class=\"highlight\">zamanı durduran</span> bir zaman çarpıtma duvarı oluşturun. Duvara değen düşmanlar <span class=\"highlight\">toplam canlarının bir yüzdesi kadar hasar alır</span> ve kısa süreliğine yavaşlar."
 		"TargetGameplayTimeScale_label"			"Zaman Ölçeği"
@@ -381,7 +381,7 @@
 		"citadel_ability_time_bomb_t3_desc"		"<span class=\"highlight\">+{s:Damage} Damage</span> and Time Bomb gains <span class=\"highlight\">+50% more damage</span> from Spirit Power"
 		"chrono_time_trap_debuff"					"Zaman Bombası"
 		
-		"citadel_ability_chrono_pulse_grenade"			"Pulse Grenade"
+		"citadel_ability_chrono_pulse_grenade"			"Nabız Bombası"
 		"citadel_ability_chrono_pulse_grenade_quip"		"Hasar ve yavaşlatma etkisi yapan, nabız halinde patlayan bir bomba at"
 		"citadel_ability_chrono_pulse_grenade_desc"		"Yere düştüğünde nabız atışına başlayan bir bomba at. Her nabız, kurbanına <span class=\"highlight\">hasar, hareket yavaşlatma</span> ve Paradox'un hedef üzerindeki <span class=\"highlight\">hasar artışını kademeli olarak yükselten</span> bir etki uygular."		
 
@@ -399,7 +399,7 @@
 		"modifier_pulsegrenade_magic_resist_debuff"		"Nabız Bombası"
 		
 		"modifier_citadel_chrono_pulse_grenade_debuff"					"Nabız Bombası"
-		"modifier_chrono_pulse_grenade_tech_resist_debuff"				"Nabız Bombası - Ruh Direnci Azaltımı"
+		"modifier_chrono_pulse_grenade_tech_resist_debuff"				"Nabız Bombası - Büyü Direnci Azaltımı"
 
 
 		"TriggerDelay_label"						"Explosion Delay"
@@ -426,12 +426,12 @@
 		"TimeSaveSpeedPenaltyDuration_label"		"Time Penalty Duration"
 		"TimeSaveSpeedPenaltyDuration_postfix"	"s"
 
-		"citadel_ability_chrono_swap"				"Paradoxical Swap"
+		"citadel_ability_chrono_swap"				"Paradoksal Yer Değiştirme"
 		"citadel_ability_chrono_swap_quip"		"Düşman bir kahramanla yer değiştir"
 		"modifier_chrono_swap_bubble_move"		"Paradoksal Yer Değiştirme"
-		"citadel_ability_chrono_swap_desc"		"<span class=\"highlight\">Hedef düşman kahramanla konumunuzu değiştiren</span> bir yetenek ateşleyin. Etki süresi boyunca, <span class=\"highlight\">ruh can çalması</span> kazanırsınız ve düşman <span class=\"highlight\">zamanla hasar alır</span>."
+		"citadel_ability_chrono_swap_desc"		"<span class=\"highlight\">Hedef düşman kahramanla konumunuzu değiştiren</span> bir yetenek ateşleyin. Etki süresi boyunca, <span class=\"highlight\">büyü can çalması</span> kazanırsınız ve düşman <span class=\"highlight\">zamanla hasar alır</span>."
 		"modifier_citadel_chrono_swap_debuff"		"Yavaşlatıldı"
-		"modifier_citadel_chrono_swap_buff"		"Ruh Bağışıklığı"
+		"modifier_citadel_chrono_swap_buff"		"Büyü Bağışıklığı"
 		"CooldownOnMiss_Label"					"Iskalama Bekleme Süresi"
 		"CooldownOnMiss_postfix"					"s"
 		"AllyCooldownReduction_label"				"Müttefik Bekleme Süresi Azaltımı"
@@ -459,9 +459,9 @@
 		"MinDuration_label"						"Min. Süre"
 		"MinDuration_postfix"						"s"
 
-		"citadel_ability_chrono_kinetic_carbine"		"Kinetic Carbine"
+		"citadel_ability_chrono_kinetic_carbine"		"Kinetik Karabina"
 		"citadel_ability_chrono_kinetic_carbine_quip"	"Yüksek hasar ve zaman durdurma etkisi için silahınızı şarj edin"
-		"citadel_ability_chrono_kinetic_carbine_desc"	"Silahınızı şarj etmeye başlayın ve tam şarj olduğunda <span class=\"highlight\">artan hareket hızı</span> kazanın. Bir sonraki atışınız enerjiyi serbest bırakarak <span class=\"highlight\">ruh hasarı</span> verir ve vurulan düşmana <span class=\"highlight\">zaman durdurma</span> uygular. Verilen hasar, mevcut silah hasarınızın güçlendirilmiş halidir. <br><br>Güçlendirilmiş atış hazır olduğunda [{s:iv_attack2}] tuşuna basarak kendiniz üzerinde zamanı yavaşlatabilirsiniz."
+		"citadel_ability_chrono_kinetic_carbine_desc"	"Silahınızı şarj etmeye başlayın ve tam şarj olduğunda <span class=\"highlight\">artan hareket hızı</span> kazanın. Bir sonraki atışınız enerjiyi serbest bırakarak <span class=\"highlight\">büyü hasarı</span> verir ve vurulan düşmana <span class=\"highlight\">zaman durdurma</span> uygular. Verilen hasar, mevcut silah hasarınızın güçlendirilmiş halidir. <br><br>Güçlendirilmiş atış hazır olduğunda [{s:iv_attack2}] tuşuna basarak kendiniz üzerinde zamanı yavaşlatabilirsiniz."
 		"citadel_ability_chrono_kinetic_carbine_t2_desc"	"{s:AbilityCooldown}s Bekleme Süresi ve +{s:SpeedBoostDuration}s Hız Artışı Süresi"
 	
 		//"citadel_ability_chrono_kinetic_carbine_t1_desc"  "+<span class=\"highlight\">{s:MinSlowDuration}s/{s:MaxSlowDuration}s</span> Min/Max Stop Duration"
@@ -526,7 +526,7 @@
 		//-----------------------------------------------------------------------------
 		// Infernus
 		//-----------------------------------------------------------------------------
-		"ability_incendiary_projectile"			"Catalyst"
+		"ability_incendiary_projectile"			"Katalizör"
 		"ability_incendiary_projectile_quip"	"Hasarınızı artıran napalm püskürtün"
 		"ability_incendiary_projectile_desc"	"<span class=\"highlight\">Düşman hareketini yavaşlatan</span> ve Infernus'un onlara verdiği <span class=\"highlight\">hasarı artıran</span> napalm püskürtün."
 		"ability_incendiary_projectile_t2_desc"	"Infernus kurbanlarına karşı <span class=\"highlight\">%{s:LifestealPercentHero} Can Çalma</span> kazanır"
@@ -535,7 +535,7 @@
 		"DamageAmplification_postfix"			"%"
 		"modifier_citadel_incendiaryprojectile_burn" "Yakıcı Mermiden Yanma"
 
-		"ability_flame_dash"			"Flame Dash"
+		"ability_flame_dash"			"Alev Koşusu"
 		"ability_flame_dash_quip"		"Arkanızda alev izi bırakarak ileri atılın"
 		"ability_flame_dash_desc"		"<span class=\"highlight\">Yüksek hızda</span> ileri hareket edin ve arkanızda <span class=\"highlight\">düşmanları yakan</span> bir alev izi bırakın.<br>Daha hızlı koşmak için [{s:iv_attack}] tuşunu basılı tutun."
 		"ability_flame_dash_t1_desc"	"{s:FlameDashDebuffDuration}s boyunca <span class=\"highlight\">+%{s:FireRateSlow} Atış Hızı Yavaşlatma</span>"
@@ -549,7 +549,7 @@
 
 		"FlameAuraRadius_label"			"İz Genişliği"
 		"FlameAuraRadius_postfix"			"m"
-		"FlameDashDebuff_label"			"Bonus Ruh Hasarı"
+		"FlameDashDebuff_label"			"Bonus Büyü Hasarı"
 		"FlameDashDebuff_postfix"		"%"
 		"GroundFlameDuration_label"		"İz Süresi"
 		"GroundFlameDuration_postfix"		"s"
@@ -568,10 +568,10 @@
 		"FlameAuraDuration_postfix"			"s"
 		"modifier_flamedash_debuff"			"Alev Koşusu"
 
-		"ability_afterburn"			"Afterburn"
+		"ability_afterburn"			"Alev Etkisi"
 		"ability_afterburn_quip"	"Düşmanları ateşe vermek için ateş edin"
 		"ability_afterburn_desc"	"Mermileriniz düşmanları vurdukça <span class=\"highlight\">biriken yanma etkisi uygular</span>. Infernus'un mermileri ve yetenekleri etki süresini <span class=\"highlight\">yeniler</span>."
-		"ability_afterburn_t1_desc"	"Kurbanlar <span class=\"highlight\">{s:AfterburnSpiritDamageReduction}%</span> daha az Ruh Hasarı verir."
+		"ability_afterburn_t1_desc"	"Kurbanlar <span class=\"highlight\">{s:AfterburnSpiritDamageReduction}%</span> daha az Büyü Hasarı verir."
 
 		"modifier_citadel_afterburn_buildup"	"Tutuşuyor"
 		"BuildUpBulletPercentPerHit_label"		"Mermi başına birikim"
@@ -581,15 +581,15 @@
 		"AfterburnExplodeRadius_label"			"Yayılma Yarıçapı"
 		"AfterburnExplodeRadius_postfix"			"m"
 		"AfterburnExplodeDamage_label"			"Patlama Hasarı"
-		"afterburn_spirit_stolen_debuff"			"Ruh Çalındı"
-		"afterburn_spirit_stolen_buff"			"Ruh Alındı"
+		"afterburn_spirit_stolen_debuff"			"Büyü Çalındı"
+		"afterburn_spirit_stolen_buff"			"Büyü Alındı"
 
 
 		"ability_afterburn/modifier_afterburn_watcher/modifier_afterburn_dot"					"Alev Etkisinden Yanma"
 		"modifier_afterburn_dot"		"Alev Etkisinden Yanma"
 
 
-		"ability_fire_bomb"				"Concussive Combustion"
+		"ability_fire_bomb"				"Sarsıcı Yanma"
 		"ability_fire_bomb_quip"		"Kısa bir gecikmeden sonra yakındaki tüm düşmanları sersemlet"
 		"ability_fire_bomb_desc"		"Sizi, kısa bir gecikmeden sonra patlayan canlı bir bombaya dönüştürür, menzilindeki <span class=\"highlight\">tüm düşmanları sersemletir</span>."
 		"ability_fire_bomb_t2_desc"		"<span class=\"highlight\">+{s:StunDuration}s</span> Sersemletme Süresi ve <span class=\"highlight\">+{s:Radius}m</span> Yarıçap"
@@ -627,7 +627,7 @@
 		"DischargeRadius_postfix"			"m"
 		"OverchargePct_label"			"Overcharge"
 		"OverchargePct_postfix"		"%"
-		"BonusTechDamage_label"		"Bonus Ruh Hasarı"
+		"BonusTechDamage_label"		"Bonus Büyü Hasarı"
 
 		"ability_tempest_weathermaker"		"Weathermaker"
 		"ability_tempest_weathermaker_desc"	"A ray of sun shines on each enemy hero anywhere on the map. Moments later, any enemy that did not find cover is struck by a powerful bolt of lightning, dealing damage to them and revealing them through walls for a duration. Can pass through Faraday Cage."
@@ -710,7 +710,7 @@
 		"modifier_citadel_posion_bullets_poisoned"	"Asleep"
 		"modifier_citadel_posion_bullets_poison_buildup"	"Sleepy"
 
-		"ability_sleep_dagger"			"Sleep Dagger"
+		"ability_sleep_dagger"			"Uyku Hançeri"
 		"ability_sleep_dagger_quip"		"Düşmanı uykuya yatır"
 		"ability_sleep_dagger_desc"		"Hedefe <span class=\"highlight\">hasar veren</span> ve <span class=\"highlight\">uyutan</span> bir hançer fırlat. Uyuyan hedefler hasar aldıktan kısa süre sonra uyanır. Hançer fırlatmak görünmezliğinizi bozmaz. Uyku Hançeri düşmanların yeteneklerini kesintiye uğratmaz."
 		"ability_sleep_dagger/modifier_citadel_sleep_bomb/modifier_citadel_sleep_dagger_asleep"		"Uyuyor"
@@ -730,12 +730,12 @@
 		"SleepDuration_postfix"			"s"
 		"modifier_citadel_sleep_dagger_postsleep"	"Hasar Azaltıldı"
 
-		"ability_stacking_damage"		"Fixation"
+		"ability_stacking_damage"		"Fiksasyon"
 		"ability_stacking_damage_quip"	"Hedefe artan mermi hasarı ver"
 		"ability_stacking_damage_desc"	"Bir hedefe ateş etmek <span class=\"highlight\">o hedefe verdiğiniz mermi hasarını artırır</span>. Her mermi isabetinde bir <span class=\"highlight\">yığın</span> kazanın, kafadan vuruşlarda iki yığın kazanın."
 		"ability_stacking_damage/modifier_passive_haze_stacking_damage"		"Fikslendi"
 
-		"ability_stacking_damage_t1_desc"  "Her <span class=\"highlight\">{s:ProcDamageStackCount}</span> yığında hedefe <span class=\"highlight\">{s:ProcDamage}</span> Ruh hasarı ve {s:SlowDuration}s süreyle <span class=\"highlight\">%{s:SlowPercent}</span> yavaşlatma uygular"
+		"ability_stacking_damage_t1_desc"  "Her <span class=\"highlight\">{s:ProcDamageStackCount}</span> yığında hedefe <span class=\"highlight\">{s:ProcDamage}</span> Büyü hasarı ve {s:SlowDuration}s süreyle <span class=\"highlight\">%{s:SlowPercent}</span> yavaşlatma uygular"
 		"ability_stacking_damage_t2_desc" "<span class=\"highlight\">+{s:MaxStacks}</span> Maks. Yığın ve <span class=\"highlight\">+{s:AbilityDuration}s</span> Süre"
 		
 		"DamageBonusFixedPerStack_label"					"Silah Hasarı"
@@ -743,7 +743,7 @@
 		"DamageBonusFixedPerStack_postfix"					"yığın başına"
 		"ability_stacking_damage/modifier_passive_haze_stacking_damage/slow"			"Yavaşlatıldı"
 
-		"ability_smoke_bomb"			"Smoke Bomb"
+		"ability_smoke_bomb"			"Sis Bombası"
 		"ability_smoke_bomb_quip"		"Gözden kaybolun"
 		"ability_smoke_bomb_desc"		"Gözden kaybolun, <span class=\"highlight\">görünmezlik</span> kazanın ve <span class=\"highlight\">koşu hızı</span> elde edin. Saldırmak görünmezliği kaldırır. Yakındaki düşmanlar sizi görebilir."
 		//"ability_smoke_bomb_t1_desc"	"<span class=\"highlight\">{s:AbilityCooldown}s</span> Ability Cooldown"
@@ -753,7 +753,7 @@
 		"modifier_citadel_smoke_bomb_invis" 	"Görünmez"
 		"ability_smoke_bomb/modifier_buff"		"Dengeleyici"
 
-		"ability_bullet_flurry"			"Bullet Dance"
+		"ability_bullet_flurry"			"Mermi Dansı"
 		"ability_bullet_flurry_quip"	"Etrafınıza mermi yağdırın"
 		"ability_bullet_flurry_desc"	"Mermi yağdırmaya başlayın, yakındaki düşmanlara <span class=\"highlight\">mükemmel isabet</span> ile <span class=\"highlight\">silahınızı ateşleyin</span>. Yağdırma sırasında, Haze ateş hızı bonusu kazanır ve ona atılan mermilerin bazılarından kaçınır."
 		"ability_bullet_flurry/modifier_citadel_bullet_flurry"		"Mermi Yağmuru"
@@ -762,7 +762,7 @@
 		//-----------------------------------------------------------------------------
 		// Sumo
 		//-----------------------------------------------------------------------------
-		"citadel_ability_stomp"					"Kinetic Pulse"
+		"citadel_ability_stomp"					"Kinetik Dalga"
 		"citadel_ability_stomp_quip"			"Düşmanları havaya savuran bir yer dalgası salın"
 		"citadel_ability_stomp_desc"			"Düşmanları havaya savuran bir enerji dalgası salın."
 		"citadel_ability_stomp_t1_desc"			"Vurulan düşmanların <span class=\"highlight\">atış ve hareket hızı {s:SlowDuration}s</span> boyunca <span class=\"highlight\">%{s:SlowPercent} yavaşlatılır</span>."
@@ -776,7 +776,7 @@
 		"StompWidth_postfix"					"m"
 		"modifier_stomp_debuff"					"Darbe Zayıflatması"
 
-		"citadel_ability_void_sphere"				"Quantum Entanglement"
+		"citadel_ability_void_sphere"				"Kuantum Dolanıklık"
 		"citadel_ability_void_sphere_quip"		"Varoluştan çıkıp girin"
 		"citadel_ability_void_sphere_desc"		"Dynamo kısa bir süreliğine <span class=\"highlight\">boşluğa kaybolur</span> ve kısa bir mesafe ötede yeniden belirir. Yeniden belirdiğinde, silahı <span class=\"highlight\">yeniden doldurulur</span> ve bir sonraki şarjörü <span class=\"highlight\">atış hızı bonusu</span> alır. Yakındaki müttefikleri de götürmek ve onlara yarım atış hızı bonusu vermek için [{s:key_alt_cast}] ile kullanılabilir."
 		"citadel_ability_void_sphere_t3_desc"		"Yeniden belirdiğinde, <span class=\"highlight\">+%{s:BonusClipSizePercent}</span> cephane"
@@ -804,7 +804,7 @@
 		"TechShieldDuration_label"				"Shield Duration"
 		"TechShieldDuration_postfix"			"s"
 
-		"citadel_ability_self_vacuum"			"Singularity"
+		"citadel_ability_self_vacuum"			"Tekillik"
 		"citadel_ability_self_vacuum_quip"		"Düşman takımını içeri çekin ve sersemletin"
 		"citadel_ability_self_vacuum_desc"		"Ellerinizde yakındaki <span class=\"highlight\">düşmanları içine çeken ve hasar veren</span> bir tekillik oluşturun. Bittiğinde, düşmanlar havaya savrulur."
 		"citadel_ability_self_vacuum_t3_desc"		"Tekillik her saniye düşmanın toplam canının <span class=\"highlight\">%{s:DamagePercentHealth}</span>'ini alır."
@@ -813,11 +813,11 @@
 		"DamagePercentHealth_label"				"Hasar Can Yüzdesi"
 		"DamagePercentHealth_postfix"				"%"
 
-		"citadel_ability_nikuman"				"Rejuvenating Aurora"
+		"citadel_ability_nikuman"				"Gençleştirici Kutup Işığı"
 		"citadel_ability_nikuman_quip"			"Kendinizi ve etrafınızdakileri iyileştirin"
 		"citadel_ability_nikuman_desc"			"Kullanılırken, size ve yakınınızdaki müttefiklere <span class=\"highlight\">zamanla can kazandırır</span>."
 		"citadel_ability_nikuman/modifier_nikuman"	"Gençleştirici Kutup Işığı"
-		"TechShieldPerSecond_label"				"Ruh Kalkanı Eklendi"
+		"TechShieldPerSecond_label"				"Büyü Kalkanı Eklendi"
 		"TechShieldPerSecond_postfix"			"/s"
 		"citadel_ability_nikuman_t1_desc"			"Kutup Işığı tamamen kullanılmışsa {s:MovementSpeedBonusDuration}s boyunca <span class=\"highlight\">+{s:MovementSpeedBonus}m/s hareket hızı</span> bonusu kazanın. 5YP Yükseltmesinde anında kazanın."
 		"citadel_ability_nikuman_t3_desc"			"<span class=\"highlight\"Tam hareket ve yetenek kullanımı</span> ve saniye başına ek olarak <span class=\"highlight\">Toplam Canın +%{s:HealMaxHealthPercent}</span>'ini iyileştirir"
@@ -827,7 +827,7 @@
 		"HealingPerSecond_postfix"				"/s"
 		"ShareWithFriendsRadius_label"			"Müttefik İyileştirme Yarıçapı"
 		"ShareWithFriendsRadius_postfix"			"m"
-		"modifier_nikuman_techshield"				"Ruh Kalkanı"
+		"modifier_nikuman_techshield"				"Büyü Kalkanı"
 		"modifier_nikuman_buff"					"+Atış Hızı"
 		"modifier_nikuman_self_buff"				"+Hareket Hızı"
 		"FireRatePerSecondDuration_label"			"Atış Hızı Süresi"
@@ -893,7 +893,7 @@
 		//-----------------------------------------------------------------------------
 		// Hero Warden
 		//-----------------------------------------------------------------------------
-		"ability_warden_lock_down"				"Binding Word"
+		"ability_warden_lock_down"				"Bağlayıcı Söz"
 		"ability_warden_lock_down_quip"			"Hedefinizi lanetleyin, kaçamazlarsa sabitleyin"
 		"ability_warden_lock_down_desc"			"Bir düşman kahramanı lanetleyin. <span class=\"highlight\">Kaçış süresi</span> içinde alandan uzaklaşmazlarsa, <span class=\"highlight\">hasar alırlar</span> ve <span class=\"highlight\">sabitlenirler</span>. Kullanıldığında hedefin dayanıklılığını azaltır."
 		"ability_warden_lock_down_t3_desc"		"Warden kapana kısılmış Kahramanlara <span class=\"highlight\">{s:BulletArmorReductionDuration}s</span> boyunca <span class=\"highlight\">+%{s:BulletArmorReduction} daha fazla Mermi Hasarı</span> verir"
@@ -907,18 +907,18 @@
 		"modifier_warden_lockdown_debuff_hint"	"Bağlanmaktan kaçmak için alanı terkedin"
 		"modifier_warden_lockdown_root"			"Bağlayıcı Söz"
 
-		"ability_warden_high_alert"				"Willpower"
-		"ability_warden_high_alert_quip"			"Ruh kalkanı ve hareket hızı kazanın"
-		"ability_warden_high_alert_desc"			"<span class=\"highlight\">Ruh kalkanı</span> ve <span class=\"highlight\">bonus hareket hızı</span> kazanın."
-		"ability_warden_high_alert_t3_desc"		"<span class=\"highlight\">+{s:TechShieldPoints}</span> Ruh Kalkanı Canı ve yetenek artık Ruh Gücü ile ölçeklenir"
+		"ability_warden_high_alert"				"İrade"
+		"ability_warden_high_alert_quip"			"Büyü kalkanı ve hareket hızı kazanın"
+		"ability_warden_high_alert_desc"			"<span class=\"highlight\">Büyü kalkanı</span> ve <span class=\"highlight\">bonus hareket hızı</span> kazanın."
+		"ability_warden_high_alert_t3_desc"		"<span class=\"highlight\">+{s:TechShieldPoints}</span> Büyü Kalkanı Canı ve yetenek artık Büyü Gücü ile ölçeklenir"
 		"MoveSpeedBonusPct_label"					"Hareket hızı bonusu"
 		"MoveSpeedBonusPct_postfix"				"%"
-		"TechShieldPoints_label"					"Ruh Kalkanı Canı"
+		"TechShieldPoints_label"					"Büyü Kalkanı Canı"
 
 		"modifier_warden_high_alert"				"İrade"
 		"modifier_warden_high_alert_hint"			""
 
-		"ability_warden_crowd_control"			"Alchemical Flask"
+		"ability_warden_crowd_control"			"Simya Şişesi"
 		"ability_warden_crowd_control_quip"		"Yakındaki düşmanlara hasar verir ve zayıflatır"
 		"ability_warden_crowd_control_desc"		"Bir simya şişesi fırlatarak yarıçap içinde kalan tüm rakiplere <span class=\"highlight\">hasar verir, yavaşlatır ve silah hasarını azaltır</span>."
 		"ability_warden_crowd_control_t3_desc"		"<span class=\"highlight\">{s:AbilityCooldown}s</span> Bekleme Süresi ve <span class=\"highlight\">%{s:FireRateSlow}</span> Atış Hızı Yavaşlatma uygular"
@@ -928,7 +928,7 @@
 		"WeaponPowerDebuff_postfix"				"%"
 		"modifier_warden_crowd_control_debuff"	"Simya Şişesi"
 
-		"ability_warden_riot_protocol"			"Last Stand"
+		"ability_warden_riot_protocol"			"Son Direniş"
 		"ability_warden_riot_protocol_quip"		"Düşmanlardan can çalan dalga yayar"
 		"ability_warden_riot_protocol_desc"		"{s:AbilityCastDelay}s boyunca şarj olduktan sonra, <span class=\"highlight\">düşmanlara hasar veren</span> ve verilen hasara bağlı olarak <span class=\"highlight\">sizi iyileştiren</span> dalgalar yayın."
 		"modifier_warden_riot_protocol"			"Son Direniş"
@@ -1005,7 +1005,7 @@
 		//-----------------------------------------------------------------------------
 		// Lash
 		//-----------------------------------------------------------------------------
-		"citadel_ability_lash"					"Grapple"
+		"citadel_ability_lash"					"Kanca"
 		"citadel_ability_lash_quip"				"Kırbacınızla kendinizi düşmana doğru çekin"
 		"citadel_ability_lash_desc"				"Kendinizi bir hedefe doğru <span class=\"highlight\">havadan çekin</span>. Kanca kullanmak ayrıca <span class=\"highlight\">bir enerji</span> ve tüm <span class=\"highlight\">hava zıplamalarını ve atılımlarını</span> yeniler."
 		
@@ -1021,7 +1021,7 @@
 		"WeaponDamageBonusDuration_label"			"Bonus Süre"
 		"WeaponDamageBonusDuration_postfix"		"s"
 
-		"citadel_ability_lash_down_strike"			"Ground Strike"
+		"citadel_ability_lash_down_strike"			"Yer Darbesi"
 		"citadel_ability_lash_down_strike_quip"		"Yere çakılarak düşmanlara hasar ver"
 		"citadel_ability_lash_down_strike_desc"		"Altınızdaki zemini ezerek önünüzdeki <span class=\"highlight\">düşmanlara hasar verin</span>. Havadayken Yer Darbesi yaparsanız, hızla yere doğru dalarsınız. Hasar artışı 25 metreden sonra yavaşlar."
 		"StompDamagePerMeterPrimary_label"					"Metre Başına Hasar"
@@ -1044,7 +1044,7 @@
 		"LashLaunchHeight_label"					"Lash Launch Height"
 		"LashLaunchHeight_postfix"				"m"
 
-		"ability_lash_flog"						"Flog"
+		"ability_lash_flog"						"Kırbaç"
 		"ability_lash_flog_quip"				"Önünüzdeki hedeflerden can çalın"
 		"ability_lash_flog_desc"					"Düşmanları kırbacınızla vurarak <span class=\"highlight\">canlarını çalın</span>."
 		"ability_lash_flog_t1_desc"				"{s:EnemySlowDuration}s boyunca <span class=\"highlight\">%{s:EnemySlowPct}</span> Hareket Yavaşlatma uygular"		
@@ -1069,7 +1069,7 @@
 		"GrenadeExplosionRadius_postfix"			"m"
 		"GrenadeDamage_label"						"Explosion Damage"
 
-		"citadel_ability_lash_ultimate"			"Death Slam"
+		"citadel_ability_lash_ultimate"			"Ölüm Çakışı"
 		"citadel_ability_lash_ultimate_quip"		"Düşmanları havaya kaldırın ve yere çakın"
 		"citadel_ability_lash_ultimate_desc"		"Kırbaç bağlamak için düşmanlara odaklanın. Bağlandıktan sonra, düşmanlar <span class=\"highlight\">havaya kaldırılır ve sersemletilir</span>, ardından yere çakılır. Kurbanlarınız ve çakılma bölgesindeki tüm düşmanlar <span class=\"highlight\">hasar alır ve yavaşlar</span>.<br>Bağlı düşmanları erken fırlatmak için [{s:iv_attack}] tuşuna basın. Görüş alanında olmayan veya bağlanma süresi boyunca menzil dışına çıkan düşmanlar yakalanmaz."
 		"citadel_ability_lash_ultimate/modifier_lash_grapple_enemy_debuff"		"Ölüm Çakışı"
@@ -1089,14 +1089,14 @@
 		"ability_icepath/modifier_icepath"		"Buz Yolu"
 		"modifier_citadel_crystal_shield"		"Hasar Emiliyor"
 
-		"ability_ice_grenade"				"Frost Grenade"
+		"ability_ice_grenade"				"Buz Bombası"
 		"ability_ice_grenade_quip"			"Düşmanlara hasar verir ve yavaşlatır"
 
 		"ability_ice_grenade_desc"			"Dondurucu bir buz bulutu halinde patlayarak düşmanlara <span class=\"highlight\">hasar veren</span> ve <span class=\"highlight\">yavaşlatan</span> bir el bombası fırlatın."
-		"ability_ice_grenade_t2_desc"		"Buz Bombası artık müttefikleri <span class=\"highlight\">{s:HealAmount} HP iyileştirir</span>. Ruh ile ölçeklenir."
+		"ability_ice_grenade_t2_desc"		"Buz Bombası artık müttefikleri <span class=\"highlight\">{s:HealAmount} HP iyileştirir</span>. Büyü ile ölçeklenir."
 		"ability_ice_grenade/kelvin_ice_grenade_slow"	"Buz Bombası Yavaşlatması"
 
-		"ability_icebeam"					"Arctic Beam"
+		"ability_icebeam"					"Kutup Işını"
 		"ability_icebeam_quip"				"Silahsızlandırabilen, artan bir yavaşlatma uygulayın"
 		"ability_icebeam_desc"				"Kelvin, değdiği her şeye <span class=\"highlight\">hasar veren ve yavaşlatan</span>, dondurucu soğuk enerji ışını atar. <span class=\"highlight\">Yavaşlatma etkisi gittikçe artar</span> ve maksimum seviyede <span class=\"highlight\">silahsızlandırır</span>. Kutup Işını kullanırken Kelvin'in hareket hızı azalır."
 		"ability_icebeam_t3_desc"			"Vurulan son hedefin {s:BeamSplit}m yakınındaki düşmanlara doğru <span class=\"highlight\">{s:BeamSplitCount} ek Kutup Işını</span> ateşler"
@@ -1113,27 +1113,27 @@
 		"BeamSplit_label"						"Ekstra Işın Menzili"
 		"BeamSplit_postfix"					"m"
 
-		"ability_icepath"					"Ice Path"
+		"ability_icepath"					"Buz Yolu"
 		"ability_icepath_quip"				"Havada duran bir buz yolu üzerinde hız yapın"
 		"ability_icepath_desc"				"Kelvin, kendisine ve müttefiklerine hareket bonusları veren <span class=\"highlight\">havada duran bir buz yolu</span> oluşturur. Kelvin, süre boyunca %{s:SlowResistancePercent} yavaşlatma direnci kazanır. Düşmanlar da yolu kullanabilir.<br>Buz Yolu'ndayken yukarı veya aşağı gitmek için [{s:key_innate_1}] / [{s:key_duck}] tuşlarına basın."
-		"ability_icepath_t3_desc"			"Aktifken, yaratılan her metre Buz Yolu başına +{s:BonusSpiritMeter} Ruh Gücü kazan. Maksimum {s:BonusSpiritMax} Ruh Gücü"
+		"ability_icepath_t3_desc"			"Aktifken, yaratılan her metre Buz Yolu başına +{s:BonusSpiritMeter} Büyü Gücü kazan. Maksimum {s:BonusSpiritMax} Büyü Gücü"
 		"SprintSpeedBonus_label"				"Koşu Hızı"
 		"SprintSpeedBonus_prefix"				"+"
 		"SprintSpeedBonus_postfix"			"m/s"
 		"IcePathAuraDuration_label"			"Buz Yolu Süresi"
 		"IcePathAuraDuration_postfix"			"s"
-		"BonusTechPower_label"				"Yolculuk Sırasında Ruh Gücü"
+		"BonusTechPower_label"				"Yolculuk Sırasında Büyü Gücü"
 		"IcePathShardRadius_label"			"Yol Genişliği"
 		"IcePathShardRadius_postfix"			"m"
-		"BonusTechDamagePercent_label"		"Bonus Ruh Hasarı"
+		"BonusTechDamagePercent_label"		"Bonus Büyü Hasarı"
 		"BonusTechDamagePercent_postfix"		"%"
 		"ability_icepath/modifier_icepath/modifier_icepath_friendly_aura/modifier_icepath_buff"			"Buz Yolu"
 
-		"ability_ice_dome"				"Frozen Shelter"
+		"ability_ice_dome"				"Donmuş Sığınak"
 		"ability_ice_dome_quip"			"Aşılmaz bir iyileşme kubbesi oluşturun"
 		"ability_ice_dome_desc"			"Kelvin etrafındaki havayı dondurarak <span class=\"highlight\">aşılmaz bir kubbe</span> oluşturur. Kubbe içindeyken, müttefiklerin <span class=\"highlight\">canı hızla yenilenir</span> ve düşmanlar <span class=\"highlight\">yavaşlar</span>."
 		"ability_ice_dome_t1_desc"		"<span class=\"highlight\">+%{s:FireRateSlow}</span> Atış Hızı Yavaşlatması"
-		"ability_ice_dome_t3_desc"		"<span class=\"highlight\">+{s:BonusHealthRegen}</span> Can Yenilenmesi ve yetenek artık Ruh Gücü ile ölçeklenir"
+		"ability_ice_dome_t3_desc"		"<span class=\"highlight\">+{s:BonusHealthRegen}</span> Can Yenilenmesi ve yetenek artık Büyü Gücü ile ölçeklenir"
 		"ability_ice_dome/modifier_ice_dome/modifier_debuff"						"Donmuş Sığınak"
 		"frozen_shelter_modifier_buff"		"Donmuş Sığınak"
 		"ability_ice_dome/modifier_ice_dome/ice_dome_enemy_aura/modifier_debuff"	"Donmuş Sığınak"
@@ -1142,7 +1142,7 @@
 		//-----------------------------------------------------------------------------
 		// Bebop
 		//-----------------------------------------------------------------------------
-		"citadel_ability_uppercut"				"Exploding Uppercut"
+		"citadel_ability_uppercut"				"Patlayıcı Aparkat"
 		"citadel_ability_uppercut_quip"			"Birini yumruklayarak uzaklaştır"
 		"citadel_ability_uppercut_desc"			"Yakındaki birimlere <span class=\"highlight\">Hafif Yumruk</span> hasarı verir ve onları <span class=\"highlight\">geri uçurarak</span> indikleri yerde <span class=\"highlight\">alan hasarına</span> neden olur. Müttefiklere hasar vermez."
 		"citadel_ability_uppercut_t2_desc"		"Düşman Kahraman Aparkatlandığında, {s:UppercutBuffOnHit}s boyunca <span class=\"highlight\">hızlı ışın süresi, 2x menzil ve +%{s:BuffBaseWeaponPct} silah hasarı</span> kazanın"
@@ -1159,7 +1159,7 @@
 		"UppercutBuffOnHit_label"				"Güçlendirme Süresi"
 		"UppercutBuffOnHit_postfix"				"s"
 
-		"citadel_ability_sticky_bomb"			"Sticky Bomb"
+		"citadel_ability_sticky_bomb"			"Yapışkan Bomba"
 		"citadel_ability_sticky_bomb_quip"		"Düşmanın üzerine bomba yerleştirin"
 		"citadel_ability_sticky_bomb_desc"		"Yakındaki bir hedefe kısa bir fünye süresinden sonra <span class=\"highlight\">patlayıcı hasar</span> veren bir Yapışkan Bomba yerleştirin.<br>Vurulan her düşman kahraman başına <span class=\"highlight\">+%{s:BonusDamagePctPerPlayerHit} bomba hasarı</span> kazan."
 		"modifier_citadel_sticky_bomb_attached"	"Bomba üzerinizde"
@@ -1167,7 +1167,7 @@
 		"StunTargetOnExplode_label"				"Süre"
 		"StunTargetOnExplode_postfix"				"s"
 
-		"citadel_ability_bebop_laser_beam"		"Hyper Beam"
+		"citadel_ability_bebop_laser_beam"		"Hiper Işın"
 		"citadel_ability_bebop_laser_beam_quip"	"Hasar verici devasa bir ışın salın"
 		"citadel_ability_bebop_laser_beam_desc" "Lazerinizi şarj ederek <span class=\"highlight\">hasar veren</span> ve <span class=\"highlight\">düşmanların hareket ve atılımlarını yavaşlatan</span> güçlü bir enerji selini serbest bırakın. Süre boyunca yavaş hareket ve dönüş hızına sahip olursunuz. Havada etkinleştirilirse, ışını serbest bırakırken havada asılı kalırsınız."
 		"modifier_bebop_laser_beam"				"Hiper Işın"
@@ -1178,7 +1178,7 @@
 		"BeamWidth_postfix"						"m"
 		
 
-		"citadel_ability_hook"					"Hook"
+		"citadel_ability_hook"					"Kanca"
 		"citadel_ability_hook_quip"				"Hedefi kendine doğru çek"
 		"citadel_ability_hook_desc"				"Vurduğu ilk düşman veya dost kahramanı <span class=\"highlight\">yakalayıp kendine çeken</span> ve hedef bir düşmansa hasar veren bir kanca fırlatın.<br>Hedef, yüzünüzün dönük olduğu yere yerleştirilir."
 		"citadel_ability_hook_t1_desc"			"Bebop, {s:BulletAmpDuration}s boyunca kancalı düşmanlara karşı <span class=\"highlight\">%{s:BulletAmp} daha fazla mermi hasarı</span> verir"
@@ -1194,7 +1194,7 @@
 		// Grey Talon (previous names: Archer / Orion)
 		// hero_archer
 		//-----------------------------------------------------------------------------
-		"ability_charged_shot"		"Charged Shot"
+		"ability_charged_shot"		"Şarjlı Atış"
 		"ability_charged_shot_quip"	"Uzun menzilli bir atış şarj edin"
 		"ability_charged_shot_desc"	"Düşmanları delip geçen <span class=\"highlight\">güçlü bir atış şarj edin</span>. Atışı tutmak için [{s:ability_key}] veya [{s:iv_attack}] tuşunu basılı tutun."
 		"ability_charged_shot_t2_desc"	"<span class=\"highlight\">+{s:Damage} Hasar</span>"
@@ -1203,11 +1203,11 @@
 		"PowerJumpChannelTime_label"			"In Power Jump Channel"
 		"PowerJumpChannelTime_postfix"		"s"
 		
-		"ability_power_jump"			"Rain of Arrows"
+		"ability_power_jump"			"Ok Yağmuru"
 		"ability_power_jump_quip"		"Havaya zıplayın ve çoklu atışları serbest bırakın"
 		"ability_power_jump_desc"		"Sizi havaya fırlatarak yavaşça süzülmenizi sağlar. Havadayken, silahınızda <span class=\"highlight\">Silah Hasarı</span> ve <span class=\"highlight\">çoklu atış</span> kazanırsınız. Süzülmeyi iptal etmek için [{s:in_mantle}] tuşuna basın."
 		"ability_power_jump_t2_desc"	"Havadayken, <span class=\"highlight\">+{s:WeaponDamageBonus}</span> Silah Hasarı ve silah hasarı {s:SlowDuration}s boyunca <span class=\"highlight\">%{s:SlowPercent}</span> hareket yavaşlatma uygular"
-		"ability_power_jump_t3_desc"	"Havadayken, <span class=\"highlight\">+%{s:TechLifestealPercent}</span> Mermi Can Çalma ve <span class=\"highlight\">+%{s:BulletLifestealPercent}</span> Ruh Can Çalma"
+		"ability_power_jump_t3_desc"	"Havadayken, <span class=\"highlight\">+%{s:TechLifestealPercent}</span> Mermi Can Çalma ve <span class=\"highlight\">+%{s:BulletLifestealPercent}</span> Büyü Can Çalma"
 		"modifier_citadel_archer_air_raid"			"Güç Zıplayışı"
 		"BulletSplitShot_label"			"Silah Çoklu Atış"
 		"AbilitySplitShot_label"			"Şarjlı Çoklu Atış"
@@ -1218,20 +1218,20 @@
 		"ability_power_jump/modifier_air_raid/modifier_slow_base"			"Yavaşlatıldı"
 
 
-		"ability_immobilize_trap"			"Immobilizing Trap"
+		"ability_immobilize_trap"			"Sabitleyici Tuzak"
 		"ability_immobilize_trap_quip"		"Düşmanları sabitleyen bir tuzak yerleştirin"
 		"ability_immobilize_trap_desc"		"Kendini kurmaya başlayan bir <span class=\"highlight\">tuzak fırlatın</span>. Kurulduktan sonra, düşman yarıçapına girdiğinde tuzak tetiklenir ve duşmanı <span class=\"highlight\">sabitler</span>."
 		"modifier_citadel_immobilize_trap_immobilize"	"Sabitleyici Tuzak"
 		"modifier_citadel_immobilize_trap_immobilize_debuff" "Sabitleyici Tuzak Zayıflatması"
 		"ability_immobilize_trap_t3_desc"	"Grey Talon, <span class=\"highlight\">{s:DebuffDuration}s</span> boyunca Sabitleyici Tuzak tarafından etkilenen düşmanlara <span class=\"highlight\">+%{s:BulletVulnerbility}</span> daha fazla Mermi Hasarı verir"
-		"ability_immobilize_trap/trap_debuff"																	"Ruh Zırhı Azaltıldı"
+		"ability_immobilize_trap/trap_debuff"																	"Büyü Zırhı Azaltıldı"
 
-		"ability_guided_arrow"		"Guided Owl"
+		"ability_guided_arrow"		"Güdümlü Baykuş"
 		"ability_guided_arrow_quip"	"Düşmanlara uzaktan hasar vermek için baykuşunuzu uçurun"
 		
-		"ability_guided_arrow_desc"	"{s:AbilityCastDelay}s kullanım süresinin ardından, <span class=\"highlight\">kontrol ettiğiniz</span> ve çarpma anında patlayarak <span class=\"highlight\">düşmanlara hasar veren ve sersemleten</span> bir <span class=\"highlight\">ruh baykuşu fırlatır</span>. Baykuşu hızlandırmak için [{s:iv_attack}] tuşuna basılı tutun.<br>Kontrolü bırakmak için [{s:in_mantle}] taşına basın. Güdümlü Baykuş ile öldürülen her düşman kahraman başına <span class=\"highlight\">kalıcı Ruh Gücü</span> kazanırsın."
+		"ability_guided_arrow_desc"	"{s:AbilityCastDelay}s kullanım süresinin ardından, <span class=\"highlight\">kontrol ettiğiniz</span> ve çarpma anında patlayarak <span class=\"highlight\">düşmanlara hasar veren ve sersemleten</span> bir <span class=\"highlight\">ruh baykuşu fırlatır</span>. Baykuşu hızlandırmak için [{s:iv_attack}] tuşuna basılı tutun.<br>Kontrolü bırakmak için [{s:in_mantle}] taşına basın. Güdümlü Baykuş ile öldürülen her düşman kahraman başına <span class=\"highlight\">kalıcı Büyü Gücü</span> kazanırsın."
 		"ability_guided_arrow_t3_desc"	"Vuruş sonrasında, <span class=\"highlight\">canı %{s:LowHealthEnemyThresholdPct} altında</span> olan düşmanları öldürür"
-		"BonusTechPowerPerKill_label"		"Öldürme Başınca Ruh Gücü"
+		"BonusTechPowerPerKill_label"		"Öldürme Başınca Büyü Gücü"
 
 		"modifier_citadel_archer_guided_arrow"		"Güdümlü Baykuş"
 
@@ -1239,12 +1239,12 @@
 		// Lady Geist
 		// hero ghost
 		//-----------------------------------------------------------------------------
-		"ability_blood_bomb"				"Essence Bomb"
+		"ability_blood_bomb"				"Öz Bombası"
 		"ability_blood_bomb_quip"			"Hasar verici bir bomba fırlatmak için biraz can feda edin"
-		"ability_blood_bomb_desc"			"Kısa bir kurma süresinden sonra <span class=\"highlight\">hasar veren</span> bir bomba fırlatmak için <span class=\"highlight\">canınızın bir kısmını feda edin</span>.<br>Kendinize verilen hasar türü Ruh'tur ve hafifletilebilir."
+		"ability_blood_bomb_desc"			"Kısa bir kurma süresinden sonra <span class=\"highlight\">hasar veren</span> bir bomba fırlatmak için <span class=\"highlight\">canınızın bir kısmını feda edin</span>.<br>Kendinize verilen hasar türü Büyü'dür ve hafifletilebilir."
 		"ability_blood_bomb_t3_desc"	"Bombalar yerde toksik bir kalıntı bırakır ve <span class=\"highlight\">{s:BloodSpillDuration}s</span> boyunca <span class=\"highlight\">saniye başına</span> orijinal hasarın <span class=\"highlight\">%{s:BloodSpillDPSPercent}</span>'u kadar hasar verir."
 
-		"ability_life_drain"				"Life Drain"
+		"ability_life_drain"				"Yaşam Drenajı"
 		"ability_life_drain_quip"			"Bir düşmandan zaman içinde can çalın"
 		"ability_life_drain_desc"			"<span class=\"highlight\">Düşmanın canını zamanla tüketen</span> ve <span class=\"highlight\">sizi iyileştiren</span> bir bağ oluşturun. Hedefin görüş alanında ve maksimum menzil içinde olması gerekir. Boşaltma sırasında ateş edebilir ve diğer yetenekleri kullanabilirsiniz, ancak hareket hızınız yarı yarıya azalır. İptal etmek için [{s:in_ability2}] tuşuna basın."
 		"ability_life_drain/modifier_life_drain" "Yaşam Drenajı"
@@ -1264,10 +1264,10 @@
 		"HealFriendRadius_label"				"Müttefik İyileştirme Yarıçapı"
 		"HealFriendRadius_postfix"			"m"
 
-		"ability_health_swap"					"Soul Exchange"
+		"ability_health_swap"					"Ruh Takası"
 		"ability_health_swap_quip"			"Mevcut canınızı bir düşman kahramanınkiyle değiştirin"
 		"ability_health_swap_desc"			"Bir düşman hedefiyle <span class=\"highlight\">can seviyelerini değiştirir</span>. Düşmanların indirilebileceği minimum bir can yüzdesi ve kurbanın mevcut canına bağlı olarak alınan minimum bir can miktarı vardır."
-		"ability_health_swap_t3_desc"			"Kullanıldığında, {s:HealthSwapBuffDuration}s boyunca <span class=\"highlight\">+%{s:BonusFireRate}</span> Atış Hızı ve <span class=\"highlight\">+%{s:TechResist}</span> Ruh Direnci."
+		"ability_health_swap_t3_desc"			"Kullanıldığında, {s:HealthSwapBuffDuration}s boyunca <span class=\"highlight\">+%{s:BonusFireRate}</span> Atış Hızı ve <span class=\"highlight\">+%{s:TechResist}</span> Büyü Direnci."
 		"MinHealthTakenPct_label"				"Min. Kazanılan Can"
 		"MinHealthTakenPct_postfix"			"%"
 		"modifier_blood_exchange"				"Kan Takası"
@@ -1288,7 +1288,7 @@
 		"ability_death_tax_t1_desc"	"Reduce one of your Cooldowns by <span class=\"highlight\">{s:CooldownReductionOnKill}s</span> when a marked enemy dies"
 		"ability_death_tax_t3_desc"	"Increase Spirit Power by <span class=\"highlight\">{s:TechPowerAmpBonus}</span> for <span class=\"highlight\">{s:TechPowerAmpBonusDuration}s</span> when a marked enemy dies.  Stacks up to <span class=\"highlight\">{s:TechPowerAmpBonusMaxStacks}</span> times."
 
-		"ability_blood_shards"				"Malice"
+		"ability_blood_shards"				"Kötülük"
 		"ability_blood_shards_quip"			"Bir düşman üzerinde hasar artışı yığın"
 		"ability_blood_shards_desc"			"<span class=\"highlight\">Canınızın bir kısmını feda ederek</span> bir yığın Kötülük uygulayan kan parçaları fırlatın. Her bir yığın kurbanı <span class=\"highlight\">yavaşlatır</span> ve sizden aldığı <span class=\"highlight\">hasarı artırır</span>. Yavaşlatma etkisi zamanla azalır."
 		"ability_blood_shards_t2_desc"		"+{s:HealthToDamage} Candan Hasar"
@@ -1335,7 +1335,7 @@
 		//-----------------------------------------------------------------------------
 		// Vindicta
 		//-----------------------------------------------------------------------------
-		"citadel_ability_hornet_chain"				"Stake"
+		"citadel_ability_hornet_chain"				"Kazık"
 		"citadel_ability_hornet_chain_quip"			"Düşmanlarınızı yere bağlayın"
 		"citadel_ability_hornet_chain_desc"			"Düşmanları kazığın düştüğü <span class=\"highlight\">yere bağlayan</span> bir kazık fırlatın. Düşman hareketi, ipin uzunluğuyla sınırlıdır."
 		"citadel_ability_hornet_chain_t3_desc"		"Bağlı düşmanlar aynı zamanda <span class=\"highlight\">silahsızlandırılır<%s3>"
@@ -1352,11 +1352,11 @@
 		"citadel_ability_wing_blast_desc"		"Create a blast of air that pushes enemies away and damages them."
 		"modifier_citadel_wing_blast_push"		"Being Vindicta Pushed"
 
-		"citadel_ability_hornet_leap"			"Flight"
+		"citadel_ability_hornet_leap"			"Uçuş"
 		"citadel_ability_hornet_leap_quip"		"Uçuşa geçin ve silahınızı güçlendirin"
-		"citadel_ability_hornet_leap_desc"		"Havaya sıçra ve <span class=\"highlight\">uç</span>. Uçarken silahınız <span class=\"highlight\">bonus ruh hasarı</span> verir."
+		"citadel_ability_hornet_leap_desc"		"Havaya sıçra ve <span class=\"highlight\">uç</span>. Uçarken silahınız <span class=\"highlight\">bonus büyü hasarı</span> verir."
 		"citadel_ability_hornet_leap_t1_desc"	"Uçarken <span class=\"highlight\">+%{s:BonusClipSizePercent}</span> Cephane"
-		"MagicDamagePerBullet_label"				"Mermi Başına Ruh Hasarı"
+		"MagicDamagePerBullet_label"				"Mermi Başına Büyü Hasarı"
 
 		"modifier_citadel_hornetleap"			"Vindicta Leap"
 
@@ -1379,7 +1379,7 @@
 		"citadel_ability_hornet_mark_t2_desc"	"When a marked enemy is killed, Vindicta immediately gains <span class=\"highlight\">{s:ChargeForKill} Charge for Assassinate</span>"
 		"modifier_citadel_hornetmark"			"Vindicta's Mark"
 
-		"citadel_ability_hornet_sting"			"Crow Familiar"
+		"citadel_ability_hornet_sting"			"Yoldaş Karga"
 		"citadel_ability_hornet_sting_quip"		"Hedefin zamanla kanamasını sağlayın"
 		"citadel_ability_hornet_sting_desc"		"Yoldaş karganız <span class=\"highlight\">çarpma hasarı</span> verir ve <span class=\"highlight\">hedefin mevcut canına</span> bağlı olarak hasar veren bir <span class=\"highlight\">kanama</span> uygular."
 		"citadel_ability_hornet_sting_t1_desc"	"Karga {s:TargetBounceRange}m içindeki diğer düşmanlara doğru <span class=\"highlight\">2 defaya kadar seker</span>"
@@ -1389,7 +1389,7 @@
 		"BulletVulnerbility_label"				"Silah Hasarı Artışı"
 		"BulletVulnerbility_postfix"				"%"
 
-		"citadel_ability_hornet_snipe"			"Assassinate"
+		"citadel_ability_hornet_snipe"			"Suikast"
 		"citadel_ability_hornet_snipe_quip"		"Yaralı hedefleri uzaktan ağır hasarla vurun"
 		"citadel_ability_hornet_snipe_desc"		"Dürbünlü tüfeğinizi kullanarak uzun mesafeden güçlü bir atış yapın. 1s süreyle tam olarak şarj olmadan yalnızca kısmi hasar verir. <span class=\"highlight\">Canı %{s:LowHealthEnemyThresholdPct}'dan daha az</span> olan düşmanlara <span class=\"highlight\">bonus hasar</span> verir. Suikast ile bir oyuncuyu öldürmek size <span class=\"highlight\">bonus ruh kazandırır</span>."
 		//"citadel_ability_hornet_snipe_t3_desc"	"Assassinate kills grant +{s:BonusGoldOnKill} souls"
@@ -1407,9 +1407,9 @@
 		"citadel_ability_grapplehook_desc"		"Launches out a hook, and pull {s:hero_name} towards the wall it hits."
 		"modifier_citadel_grapplehook_wall_hanging"	"Grapple Hook Wall Hanging"
 
-		"ability_burrow"			"Burrow"
+		"ability_burrow"			"Gömül"
 		"ability_burrow_quip"		"Yeraltında seyahat edin, dönüş hasarı ile ortaya çıkın"
-		"ability_burrow_desc"		"Yeraltına gömülün, <span class=\"highlight\">daha hızlı hareket edin</span> ve <span class=\"highlight\">ruh ve mermi zırhı</span> kazanın. Düşman kahramanlardan gelen hasar hız bonusunu azaltır. Yerden çıktığınızda, bir dönüş saldırısı gerçekleştirirek düşmanları havaya savurur, <span class=\"highlight\">hasar verir ve yavaşlatırsınız</span>. Bekleme süresi, Gömülme sona erdiğinde başlar."
+		"ability_burrow_desc"		"Yeraltına gömülün, <span class=\"highlight\">daha hızlı hareket edin</span> ve <span class=\"highlight\">büyü ve mermi zırhı</span> kazanın. Düşman kahramanlardan gelen hasar hız bonusunu azaltır. Yerden çıktığınızda, bir dönüş saldırısı gerçekleştirirek düşmanları havaya savurur, <span class=\"highlight\">hasar verir ve yavaşlatırsınız</span>. Bekleme süresi, Gömülme sona erdiğinde başlar."
 		"modifier_spin"				"Dönüş"
 		"SpinDuration_label"		"Dönüş Süresi"
 		"SpinDuration_postfix"		"s"
@@ -1419,10 +1419,10 @@
 		"ability_burrow_t2_desc"	"<span class=\"highlight\">+{s:DPS}</span> Dönüş DPS ve +{s:Radius} yarıçap"
 		"ability_burrow_t3_desc"	"<span class=\"highlight\">{s:AbilityCooldown}</span> Bekleme Süresi ve <span class=\"highlight\">+{s:BonusMoveSpeed}m/s</span> Hareket Hızı"
 
-		"ability_intimidate"			"Scorn"
+		"ability_intimidate"			"Küçümseme"
 		"ability_intimidate_quip"		"Yakındaki düşmanlara hasar ver, her vuruşta iyileş"
 		"ability_intimidate_desc"		"Yakındaki düşmanlara <span class=\"highlight\">hasar</span> verin ve verdiğiniz hasara göre <span class=\"highlight\">kendinizi iyileştirin</span>. İyileştirme düşman kahramanlara karşı daha güçlüdür."
-		"ability_intimidate_t3_desc"	"Düşmanlara Mo & Krill'in <span class=\"highlight\">+%{s:TechDamageBonus} Ruh Hasarı</span> vermesini sağlayan bir zayıflatıcı ekler. Yığınlanabilir ve {s:DebuffDuration}s sürer."
+		"ability_intimidate_t3_desc"	"Düşmanlara Mo & Krill'in <span class=\"highlight\">+%{s:TechDamageBonus} Büyü Hasarı</span> vermesini sağlayan bir zayıflatıcı ekler. Yığınlanabilir ve {s:DebuffDuration}s sürer."
 		"DamageHealMult_label"			"İyileştirme / Kahraman Hasarı"
 		"DamageHealMult_postfix"		"x"
 		"DamageHealMultNonHero_label"		"İyileştirme / Hasar"
@@ -1435,7 +1435,7 @@
 		"ability_ooc_health_regen"			"Out of Combat Health Regen"
 		"ability_ooc_health_regen_desc"		""
 
-		"ability_throw_sand"			"Sand Blast"
+		"ability_throw_sand"			"Kum Püskürtme"
 		"ability_throw_sand_quip"		"Önünüzdeki düşmanları silahsızlandırın"
 		"ability_throw_sand_desc"		"Önünüzdeki düşmanları <span class=\"highlight\">silahsızlandıran</span> ve <span class=\"highlight\">hasar veren</span> kum püskürtün."
 		"modifier_citadel_throw_sand_debuff"	"Kumlandı"
@@ -1446,7 +1446,7 @@
 		"citadel_ability_kineticcharge_desc"	"{s:hero_name} creates a shield which absorbs all incoming damage. After the duration expires or the shield is destroyed, explodes and returns the damage absorbed to all enemies around him."
 		"modifier_citadel_kineticcharge"		"Absorbing Damage"
 
-		"ability_ult_combo"				"Combo"
+		"ability_ult_combo"				"Kombo"
 		"ability_ult_combo_quip"		"Düşman kahramanı sabit tut ve yumrukla"
 		"ability_ult_combo_desc"		"Hedefi sabit tutarak <span class=\"highlight\">sersemletir ve hasar verir</span>. Kombo sırasında ölürlerse, kalıcı olarak toplam can kazanırsınız."
 		"ability_ult_combo_t2_desc"		"<span class=\"highlight\">+{s:AbilityChannelTime}s</span> Kombo Süresi"
@@ -1462,7 +1462,7 @@
 		//-----------------------------------------------------------------------------
 		// Shiv
 		//-----------------------------------------------------------------------------
-		"citadel_ability_shiv_dagger"			"Serrated Knives"
+		"citadel_ability_shiv_dagger"			"Dişli Bıçaklar"
 		"citadel_ability_shiv_dagger_quip"		"Hedefe yığınlanan kanama uygulayın"
 		"citadel_ability_shiv_dagger_desc"		"Düşmana <span class=\"highlight\">hasar veren ve yavaşlatan</span> bir bıçak fırlatın.  Her ilave vuruş bir <span class=\"highlight\">yığın</span> ekler ve zayıflatma süresini yenileyerek, yığın başına hasarın artmasına neden olur."
 		"citadel_ability_shiv_dagger_max_rage_desc" "Ultimate Açılımı: <span class=\"highlight\">Öfke doluyken</span> bıçaklar başka bir düşmana seker ve kanattıkları düşmanlara yavaşlatma uygular."
@@ -1483,7 +1483,7 @@
 		"BleedDuration_label"						"Kanama Süresi"
 		"BleedDuration_postfix"					"s"
 
-		"citadel_ability_shiv_dash"				"Slice and Dice"
+		"citadel_ability_shiv_dash"				"Kes ve Doğra"
 		"citadel_ability_shiv_dash_quip"		"İleri atılın, yol boyunca tüm düşmanlara hasar verin"
 		"citadel_ability_shiv_dash_desc"		"İleriye doğru bir <span class=\"highlight\">atılım yaparak yol boyunca düşmanlara hasar verin</span>.<br><br>Ultimate Açılımı: <span class=\"highlight\">Öfke doluyken</span> Shiv'in bir yankısı kısa bir gecikmeden sonra atılma yolunu tekrar geçerek düşmanlara tekrar hasar verir."
 		"citadel_ability_shiv_dash_t3_tooltip"	"Vuruşta"
@@ -1502,7 +1502,7 @@
 		"BurstFireOnHeroHit_postfix"				"s"
 		"citadel_ability_shiv_dash_t3_desc"		"Bekleme süresini vurulan düşman başına 2s azaltın.  Atılım başına maks. 6s."
 
-		"citadel_ability_shiv_defer_damage"		"Bloodletting"
+		"citadel_ability_shiv_defer_damage"		"Kan Akıtma"
 		"citadel_ability_shiv_defer_damage_quip"	"Alınan hasarın bir kısmını erteler"
 		"citadel_ability_shiv_defer_damage_desc"	"Gelen hasarın sadece bir kısmını hemen alın ve geri kalanını zaman içinde almak üzere erteleyin.  <span class=\"highlight\">Ertelenen hasarın bir kısmını silmek için</span> etkinleştirin."
 		"citadel_ability_shiv_defer_damage_max_rage_desc" "Ultimate Açılımı: <span class=\"highlight\">Öfke doluyken</span> ertelenen hasar miktarı artar."
@@ -1518,7 +1518,7 @@
 		"DeferClearPct_postfix"					"%"
 		
 
-		"citadel_ability_shiv_killing_blow"		"Killing Blow"
+		"citadel_ability_shiv_killing_blow"		"Öldürücü Darbe"
 		"citadel_ability_shiv_killing_blow_quip"	"Düşük canlı bir kahramana gidip anında öldürün"
 		"citadel_ability_shiv_killing_blow_active_desc"	"Bir düşman kahramana doğru sıçramak için etkinleştirin ve canları öldürme eşiğinin altındaysa <span class=\"highlight\">anında öldürün</span>, aksi takdirde {s:Damage} hasar verin."
 		"citadel_ability_shiv_killing_blow_passive_desc" "Passive: Damaging enemies fills you with rage.  While at full rage, Shiv gains increased damage and <span class=\"highlight\">special properties</span> on his other abilities."
@@ -1562,7 +1562,7 @@
 		//-----------------------------------------------------------------------------
 		// Hero: Pocket
 		//-----------------------------------------------------------------------------
-		"synth_plasma_flux"			"Flying Cloak"
+		"synth_plasma_flux"			"Uçan Palto"
 		"synth_plasma_flux_quip"		"Işınlanabileceğiniz hasar verici bir palto fırlatın"
 		"synth_plasma_flux_desc"		"<span class=\"highlight\">İleriye doğru hareket eden</span> ve <span class=\"highlight\">düşmanlara hasar veren</span> canlı bir palto fırlatın . Bulunduğu yere <span class=\"highlight\">ışınlanmak</span> için <span class=\"highlight\">[{s:in_ability2}]</span> tuşuna basabilirsiniz."
 		"synth_plasma_flux_t3_desc"	"Uçan Palto ile ışınlandıktan sonra <span class=\"highlight\">{s:WeaponDamageBonusDuration}s</span> boyunca <span class=\"highlight\">+{s:WeaponDamageBonus} Silah Hasarı</span>."
@@ -1575,7 +1575,7 @@
 		"synth_plasma_flux_teleport"	"Işınlan"
 		"modifier_synth_plasma_flux_auto_projectile"	"Uçan Palto"
 
-		"synth_pulse"					"Enchanter's Satchel"
+		"synth_pulse"					"Büyücü'nün Çantası"
 		"synth_pulse_quip"			"Kısa süreliğine bavuluna kaçın, sonra hasar verin"
 		"synth_pulse_desc"			"Bavulunuza <span class=\"highlight\">kaçın</span>. Süre sona erdiğinde yakındaki düşmanlara <span class=\"highlight\">hasar verin</span>. Herhangi bir işlem yapılarak süre erken sonlandırılabilir."
 		"synth_pulse_t3_desc"			"{s:DebuffDuration}s boyunca <span class=\"highlight\">%{s:FireRateSlow}</span> Atış Hızı Yavaşlatma uygular"
@@ -1600,7 +1600,7 @@
 		"DamageInterval_label"		"Damage Interval"
 		"DamageInterval_postfix"		"s"
 
-		"synth_barrage"				"Barrage"
+		"synth_barrage"				"Yaylım Ateşi"
 		"synth_barrage_quip"			"Çok sayıda atış yaparken havada süzülün"
 		"synth_barrage_desc"			"Çarpma noktası etrafında <span class=\"highlight\">hasar veren</span> ve <span class=\"highlight\">hareket yavaşlatma uygulayan</span> mermiler fırlatmaya başlayın. Bir kahramana denk gelen her mermi, <span class=\"highlight\">tüm hasarınızı artıran, yığınlanabilen bir güçlendirme</span> sağlar.<br>Havadayken kullanırsanız, <span class=\"highlight\">süzülür</span> ve başladığınız yatay momentumu korursunuz."
 
@@ -1629,7 +1629,7 @@
 		"synth_blitz/modifier_synth_blitz"	"Blitz"
 		"synth_blitz/modifier_synth_blitz_tech_amp"	"Blitz - Spirit Amp"
 
-		"synth_affliction"			"Affliction"
+		"synth_affliction"			"Izdırap"
 		"synth_affliction_quip"		"Yakındaki düşmanlara zamanla hasar uygulayın"
 		"synth_affliction_desc"		"Yakındaki tüm düşmanlara <span class=\"highlight\">zaman içinde hasar</span> verir.<br>Izdırap'ın verdiği hasar ölümcül değildir ve eşya işlemlerini uygulamaz."
 		"synth_affliction_t2_desc"	"Hedeflerin iyileşmesini %{s:HealAmpReceivePenaltyPercent} oranında bastırır"
@@ -1737,7 +1737,7 @@
 		//-----------------------------------------------------------------------------
 		// TENGU // IVY
 		//-----------------------------------------------------------------------------
-		"citadel_ability_tengu_urn"			"Kudzu Bomb"
+		"citadel_ability_tengu_urn"			"Kudzu Bombası"
 		"citadel_ability_tengu_urn_quip"	"Bölgedeki düşmanlara hasar ver ve yavaşlat"
 		"citadel_ability_tengu_urn_desc"	"Yarıçapındaki düşmanlara <span class=\"highlight\">hasar veren</span> ve <span class=\"highlight\">yavaşlatan</span> boğucu sarmaşıklardan oluşan bir bölge oluştur."
 		"citadel_ability_tengu_urn_t3_desc"	"<span class=\"highlight\">+{s:DPS} DPS</span>"
@@ -1746,7 +1746,7 @@
 		"citadel_ability_tengu_ghost_desc"		"Summon a tracking ghost that bounces randomly {s:Bounces} times to new targets after impact. Slows targets hit for 5 seconds."
 		"citadel_ability_tengu_ghost_t3_desc"	"Bounces +{s:Bounces} additional times"
 
-		"citadel_ability_tengu_stone_form"			"Stone Form"
+		"citadel_ability_tengu_stone_form"			"Taş Formu"
 		"citadel_ability_tengu_stone_form_quip"		"Zarar görmez taş formuna dönüşür ve yakındaki düşmanları sersemletir"
 		"citadel_ability_tengu_stone_form_desc"		"Kendinizi <span class=\"highlight\">Zarar görmez taş formunuza</span> dönüştürün, yere çarparak yakındaki düşmanları <span class=\"highlight\">sersemletin ve hasar verin</span>. Toplam canınızın belirli bir yüzdesi kadar sizi iyileştirir. Düşmeden önce biraz hava kontrolünüz vardır."
 		"citadel_ability_tengu_stone_form_t2_desc"	"<span class=\"highlight\">+{s:Damage} Hasar</span> verir ve <span class=\"highlight\">{s:StunDuration}s</span> boyunca sersemletir."
@@ -1754,7 +1754,7 @@
 		"MaxHealthRegen_postfix"					"%"
 		"citadel_ability_tengu_stone_form/modifier_citadel_tengu_stone_form"	"Taş Formu"
 
-		"citadel_ability_tangotether"		"Watcher's Covenant"
+		"citadel_ability_tangotether"		"Gözcü'nün Antlaşması"
 		"citadel_ability_tangotether_quip"	"Kendinizi ve yakınınızdaki bir müttefiki güçlendirin"
 		"citadel_ability_tangotether_desc"	"Bonuslar kazanın ve yakındaki bir müttefikle otomatik olarak bağlantı kurarak bonusları paylaşın. <span class=\"highlight\">İyileşme</span>, bağlanan kişiler arasında yinelenir. Bağlanmak için görüş hattı gereklidir. Bir hedefe kilitlenmek için [{s:in_ability2}] tuşuna basın"
 		"citadel_ability_tangotether_t2_desc" "+{s:MoveSpeedBonus}m/s hareket bonusu"
@@ -1772,7 +1772,7 @@
 
 		"citadel_ability_tangotether_lock"			"Lock on to Target"
 
-		"citadel_ability_tengu_lightningcrash"		"Falling Grace"
+		"citadel_ability_tengu_lightningcrash"		"Düşen Zarafet"
 		"citadel_ability_tengu_lightningcrash_quip"	"Savaş alanının üzerinden uçun"
 		"citadel_ability_tengu_lightningcrash_desc"	"Havaya sıçrayın ve kısa bir süreliğine uçmaya başlayın. Yere indiğinizde, uçtuğunuz süreye bağlı olarak <span class=\"highlight\">hasar verirsiniz</span> ve <span class=\"highlight\">can yenileme</span> kazanırsınız. <span class='keybind'>[{s:iv_attack}]</span> tuşuna basarak uçuşunuzu sonlandırabilir ve erken dalış yapabilirsiniz."
 		"citadel_ability_tengu_lightningcrash_t3_desc"	"<span class=\"highlight\">+{s:Damage}</span> Hasar ve <span class=\"highlight\">+{s:Regeneration}</span> Can Yenileme"
@@ -1804,7 +1804,7 @@
 
 		"citadel_ability_tengu_dragonsfire_t3_desc"	"<span class=\"highlight\">+{s:AbilityDuration}s</span> Duration and <span class=\"highlight\">+{s:FlyingBulletResist}</span> Flying Bullet Resist"
 
-		"citadel_ability_tengu_airlift"				"Air Drop"
+		"citadel_ability_tengu_airlift"				"Havadan Atış"
 		"citadel_ability_tengu_airlift_quip"		"Yüksekten Ölüm!  Uçun ve düşmanların üzerine bir bomba (veya müttefik) bırakın"
 		"citadel_ability_tengu_airlift_desc"		"Bir müttefik veya bir bomba ile uçuşa geçin.  Müttefik uçarken mermi direnci kazanır. Müttefiğini ya da bombanı bırakarak <span class=\"highlight\">Hareketi Yavaşlatma ve Susturmaya</span> neden olan <span class=\"highlight\">büyük bir patlamaya</span> yol aç. Uçuş sona erdiğinde Ivy ve müttefiği mermi kalkanı kazanır. <br>Bir müttefiği hedeflerken hızlı, kendini hedeflerken uzun kullanım başlatma süresi vardır. <br>[{s:iv_attack}] basarak uçuş hızını artırın. <br>[{s:iv_attack2}] basarak müttefiği/bombayı atın."
 		"citadel_ability_tengu_airlift_t1_desc"		"<span class=\"highlight\">{s:AirDropDebuff02Duration}s</span> boyunca vurulan düşmanlarda <span class=\"highlight\">%{s:AirDropBulletArmorReduction}</span> Mermi Direnci"
@@ -2218,7 +2218,7 @@
 		//-----------------------------------------------------------------------------
 		// Yamato
 		//-----------------------------------------------------------------------------
-		"citadel_ability_power_slash"		"Power Slash"
+		"citadel_ability_power_slash"		"Güç Kesiği"
 		"citadel_ability_power_slash_quip"	"Saldırı şarj edin, tam şarjda yüksek hasar verir"
 		"citadel_ability_power_slash_desc"	"Hasarı {s:AbilityCastDelay} saniye boyunca artırın, ardından <span class=\"highlight\">tam şarjlı bir kılıç darbesi</span> yapın.<br>Kısmi hasar vererek saldırıyı erken tetiklemek için [{s:in_ability1}] veya [{s:iv_attack}] tuşuna basın."
 		"power_slash_debuff"				"Güç Kesiği"
@@ -2242,7 +2242,7 @@
 		"citadel_ability_power_slash_t2_desc"	"<span class=\"highlight\">{s:SlowDuration}s</span> boyunca <span class=\"highlight\">%{s:SlowPercent} hareket yavaşlatma</span> uygulayın"
 		"StaminaToRemove_label"				"Stamina Drain"
 
-		"citadel_ability_flying_strike"			"Flying Strike"
+		"citadel_ability_flying_strike"			"Uçan Saldırı"
 		"citadel_ability_flying_strike_quip"	"Düşman hedefine doğru uçun"
 		"citadel_ability_flying_strike_desc"	"<span class=\"highlight\">Kendinizi bir düşmana doğru çekmek</span> için bir kanca fırlatın, hedefe ulaştığınızda ona <span class=\"highlight\">hasar verin ve yavaşlatın</span>. "
 		"citadel_ability_flying_strike/slow" "Uçan Saldırı Yavaşlatması"
@@ -2250,7 +2250,7 @@
 		"citadel_ability_flying_strike_t3_desc" "Hedefi vurduktan sonra <span class=\"highlight\">{s:WeaponPowerIncreaseDuration}s</span> boyunca <span class=\"highlight\">+{s:WeaponDamageBonus}</span> Silah Hasarı"
 		"yamato_flying_strike_t3_header"			"Hedefe ulaşınca:"
 
-		"citadel_ability_infinity_slash"		"Shadow Transformation"
+		"citadel_ability_infinity_slash"		"Gölge Dönüşümü"
 		"citadel_ability_infinity_slash_quip"	"Ölümsüz ve daha güçlü olun"
 		"citadel_ability_infinity_slash_desc"	"Yamato'nun gölge ruhu ile aşılan. Gerçekleşen <span class=\"highlight\">ölümsüz</span> bir dönüşümden sonra, <span class=\"highlight\">yetenekleriniz yenilenir ve %60 daha hızlıdır</span>, silahınız <span class=\"highlight\">sonsuz cephaneye</span> sahiptir ve <span class=\"highlight\">hasara karşı direnç</span> ve <span class=\"highlight\">olumsuz durum etkilerine karşı bağışıklık</span> kazanırsınız. Bu modda ölmeniz mümkün değildir."
 		"citadel_ability_infinity_slash_buff_header" "Vurulan Kahraman Başına"	
@@ -2264,7 +2264,7 @@
 
 		"citadel_ability_infinity_slash/timer"	"Gölge Formu"
 
-		"citadel_ability_healing_slash"			"Crimson Slash"
+		"citadel_ability_healing_slash"			"Kızıl Kesik"
 		"citadel_ability_healing_slash_quip"	"Yakındaki düşmanlara hasar verir, isabet halinde iyileştirir"
 		"citadel_ability_healing_slash_desc"	"Önünüzdeki düşmanları keserek onlara <span class=\"highlight\">hasar verin ve atış hızlarını yavaşlatın</span>. Herhangi bir düşman kahramanı vurursanız, <span class=\"highlight\">iyileşirsiniz</span>."
 		"citadel_ability_healing_slash/debuff"	"Kızıl Kesik"
@@ -2325,7 +2325,7 @@
 		//-----------------------------------------------------------------------------
 		// Viscous
 		//-----------------------------------------------------------------------------
-		"viscous_goo_grenade"							"Splatter"
+		"viscous_goo_grenade"							"Sıçrat"
 		"viscous_goo_grenade_desc"						"<span class=\"highlight\">Hasar veren</span> ve arkasında yapışkan birikintileri bırakan, yarıçapındaki düşmanlara <span class=\"highlight\">hareket yavaşlatma</span> uygulayan bir yapışkan topu fırlatın."
 		"viscous_goo_grenade_bounce_desc"				"Aynı hedefe birden fazla isabet daha az hasar verir."
 		"viscous_goo_grenade_quip"						"Düşmanlara hasar verin ve ortalığı batırın"
@@ -2339,7 +2339,7 @@
 		"PuddleDuration_label"							"Gölet Süresi"
 		"PuddleDuration_postfix"						"s"
 		
-		"viscous_restorative_goo"						"The Cube"
+		"viscous_restorative_goo"						"Küp"
 		"viscous_restorative_goo_desc"					"Hedefi, <span class=\"highlight\">zayıflatmaları gideren, hasardan koruyan ve can yenilenmesini artıran</span> onarıcı bir yapışkan küpün içine hapsedin. Hedef küp içindeyken <span class=\"highlight\">herhangi bir eylemde bulunamaz</span>. Kendinde kullanılabilir. Erken çıkmak için <span class=\"highlight\">[{s:in_mantle}]</span> tuşuna basın."
 		"viscous_restorative_goo_quip"					"Küp güvenli bir yer"
 		"viscous_restorative_goo_t1_desc"				"Hareket Hızını ve Enerji Toparlanmasını Artırır"
@@ -2353,12 +2353,12 @@
 		"viscous_goo_puddle_desc"						"Turn yourself into a puddle of goo, becoming <span class=\"highlight\">immune to harm</span> and <span class=\"highlight\">dealing damage to nearby enemies</span>."
 		"viscous_goo_puddle_t3_desc"					"[Not Yet Implemented]"
 
-		"viscous_goo_bowling_ball"						"Goo Ball"
-		"viscous_goo_bowling_ball_desc"					"Çarparak düşmanlara <span class=\"highlight\">hasar veren</span> ve <span class=\"highlight\">sersemleten</span> büyük bir yapışkan topa dönüşür. Top büyük miktarda <span class=\"highlight\">Mermi</span> ve <span class=\"highlight\">Ruh</span> direnci sağlar, duvarlardan seker ve <span class=\"highlight\">çift zıplayabilir</span>."
+		"viscous_goo_bowling_ball"						"Yapışkan Top"
+		"viscous_goo_bowling_ball_desc"					"Çarparak düşmanlara <span class=\"highlight\">hasar veren</span> ve <span class=\"highlight\">sersemleten</span> büyük bir yapışkan topa dönüşür. Top büyük miktarda <span class=\"highlight\">Mermi</span> ve <span class=\"highlight\">Büyü</span> direnci sağlar, duvarlardan seker ve <span class=\"highlight\">çift zıplayabilir</span>."
 		"viscous_goo_bowling_ball_quip"					"Etrafta yuvarlan ve kaos yarat"
 		"viscous_goo_bowling_ball_t3_desc"				"Yuvarlanırken yetenek ve eşya kullanabilirsiniz"
 
-		"viscous_telepunch""Puddle Punch"
+		"viscous_telepunch""Gölet Yumruğu"
 		"viscous_telepunch_desc"						"Bir <span class=\"highlight\">yumruk</span> oluşturarak alandaki birimlere vurarak uçurur. Düşmanlar <span class=\"highlight\">hasar alır</span>, kısa bir süreliğine atılım mesafeleri kısalır ve <span class=\"highlight\">hareketleri yavaşlar</span>."
 		"viscous_telepunch_quip"						"Düşmanlara dev bir yumrukla vurun"
 		"viscous_telepunch_t3_desc"						"+{s:Damage} Hasar ve +%{s:SlowPercent} Hareket Yavaşlatma"
