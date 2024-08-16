@@ -1,5 +1,5 @@
 # Deadlock-TR
-Deadlock Türkçe Yama
+Deadlock Türkçe Yama - Ingilizce Item / Skill isimleri
 
 Son Güncelleme: 16/08/24
 
