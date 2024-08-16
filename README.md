@@ -18,4 +18,4 @@ Standart: https://github.com/Grelgn/Deadlock-TR/archive/refs/heads/main.zip
 - Deadlock'un Ayarlar kısmında Dil seçeneğini Türkçe seçin.
   
   ![project8_kMOXjHUqar](https://github.com/user-attachments/assets/2abecc5d-cccd-49f3-87c5-0bc9c3235e47)
-- Oyunu Başlatın
+- Oyunu Yeniden Başlatın
