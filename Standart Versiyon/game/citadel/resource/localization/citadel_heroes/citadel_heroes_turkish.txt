@@ -1274,11 +1274,11 @@
 
 		"citadel_ability_tengu_airlift"				"Havadan Atış"
 		"citadel_ability_tengu_airlift_quip"		"Yüksekten Ölüm!  Uçun ve düşmanların üzerine bir bomba (veya müttefik) bırakın"
-		"citadel_ability_tengu_airlift_desc"		"Bir müttefik veya bir bomba ile uçuşa geçin.  Müttefik uçarken mermi direnci kazanır. Müttefiğini ya da bombanı bırakarak <span class=\"highlight\">hareket yavaşlatmaya</span> neden olan <span class=\"highlight\">büyük bir patlamaya</span> yol aç. Uçuş sona erdiğinde Ivy ve müttefiği mermi kalkanı kazanır. <br>Bir müttefiği hedeflerken hızlı, kendini hedeflerken uzun kullanım başlatma süresi vardır. <br>[{s:iv_attack}] basarak uçuş hızını artırın. <br>[{s:iv_attack2}] basarak müttefiği/bombayı atın."
+"citadel_ability_tengu_airlift_desc"		"Bir müttefik veya bir bomba ile uçuşa geçin.  Müttefik uçarken mermi direnci kazanır fakat saldıramaz veya yetenek kullanamaz. Müttefiğini ya da bombanı bırakarak <span class=\"highlight\">hareket yavaşlatmaya</span> neden olan <span class=\"highlight\">büyük bir patlamaya</span> yol aç. Uçuş sona erdiğinde Ivy ve müttefiği mermi kalkanı kazanır. <br>Bir müttefiği hedeflerken hızlı, kendini hedeflerken uzun kullanım başlatma süresi vardır. <br>[{s:iv_attack}] basarak uçuş hızını artırın. <br>[{s:iv_attack2}] basarak müttefiği/bombayı atın."
 		"citadel_ability_tengu_airlift_t1_desc"		"<span class=\"highlight\">{s:AirDropDebuff02Duration}s</span> boyunca vurulan düşmanlarda <span class=\"highlight\">%{s:AirDropBulletArmorReduction}</span> Mermi Direnci"
 		"citadel_ability_tengu_airlift_t2_desc"		"<span class=\"highlight\">+{s:AirDropBulletShield}</span> Mermi Kalkanı ve <span class=\"highlight\">+{s:AirDropExplodeRadius}m</span> Patlama Yarıçapı"
 		"citadel_ability_tengu_airlift_t3_desc"		"Vurulan düşmanlara <span class=\"highlight\">+{s:AirDropSilenceDuration}s</span> boyunca <span class=\"highlight\">Susturma</span> uygular"
-		"modifier_airlift_ally"						"Havadan Atış - Atmak için [{s:in_mantle}]"
+		"modifier_airlift_ally"						"Havadan Atış"
 
 		"AirDropDebuffDuration_label"		"Yavaşlatma Süresi"
 		"AirDropDebuffDuration_postfix"		"s"

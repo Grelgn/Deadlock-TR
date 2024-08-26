@@ -54,7 +54,7 @@
 		"upgrade_small_attack_speed_desc"	"Increases your <span class=\"highlight\">Fire Rate</span>."
 
 		//Silence Glyph
-		"upgrade_targeted_silence_desc"	"Hedefi <span class=\"highlight\">Susturan</span> ve <span class=\"highlight\">Büyü Direncini</span> azaltan bir atış yapar. Susturma, yönlendirilen yetenekleri kesintiye uğratmaz."
+		"upgrade_targeted_silence_desc"	"Hedefi <span class=\"highlight\">Susturan ve hasar veren</span> bir atış yapar. Susturma, yönlendirilen yetenekleri kesintiye uğratmaz."
 
 		//EMP Bullets
 		"upgrade_proc_silence_desc"		"Your bullets charge up an <span class=\"highlight\">EMP</span> on enemy heroes that will <span class=\"highlight\">prevent targets from using abilities</span>. Victims are immune to emp bullets for <span class=\"highlight\">{s:ImmunityDuration}s</span> after application expires."
@@ -266,7 +266,7 @@
 
 		//Siphon Bullets
 		//"upgrade_siphon_bullets_desc_passive1"	"When in <span class=\"highlight\">close range</span> of your target, deal additional <span class=\"highlight\">Weapon Damage</span>."
-		"upgrade_siphon_bullets_desc_passive2"	"Mermileriniz düşmanlardan geçici olarak <span class=\"highlight\">Toplam Can çalar</span>. Zayıflatma sona erdiğinde düşmanlar çalınan canlarını geri kazanır."
+		"upgrade_siphon_bullets_desc_passive2"	"Mermileriniz düşmanlardan geçici olarak <span class=\"highlight\">Toplam Can çalar</span>. Zayıflatma sona erdiğinde düşmanlar çalınan canlarını geri kazanır. Sifonlanan bir hedef ölürse kalıcı olarak bir sağlık yığını çalar ve ölürseniz 5 yığın kaybedersiniz."
 		"modifier_siphon_bullets_health_gain"		"Sifon Mermileri"
 		"modifier_siphon_bullets_health_loss"		"Sifon Mermileri"
 		"HealthSteal_label"						"Mermi Başına Can Çalma"
@@ -278,7 +278,7 @@
 		"BonusReloadSpeed_label"						"Reload Time"
 		"BonusReloadSpeed_Postfix"						"%"		
 		"OverdriveClipDuration_label"					"Clip Duration"
-		"OverdriveClipDuration_Postfix"					"s"		
+		"OverdriveClipDuration_Postfix"					"sn"		
 		"modifier_item_weapon_power_for_health"		"Overdrive"
 
 		//Burst Fire Actuator
