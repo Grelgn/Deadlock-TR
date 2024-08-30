@@ -1,7 +1,7 @@
 # Deadlock-TR
 Deadlock Türkçe Yama
 
-Son Güncelleme: 26/08/24
+Son Güncelleme: 30/08/24
 
 ## Kurulum
 - Linke tıklayarak Yamayı İndirin: https://github.com/Grelgn/Deadlock-TR/archive/refs/heads/main.zip

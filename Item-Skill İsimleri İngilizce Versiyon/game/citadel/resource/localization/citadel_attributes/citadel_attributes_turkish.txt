@@ -8,86 +8,86 @@
 		// Unit states (that we want to show)
 		//-----------------------------------------------------------------------------
 
-		"MODIFIER_STATE_ROOTED"								"Sabitlendi"
-		"MODIFIER_STATE_DISARMED"							"Silahsızlandırıldı"
+		"MODIFIER_STATE_ROOTED"								"Hareketsizleştirildi"
+		"MODIFIER_STATE_DISARMED"							"Etkisizleştirildi"
 		"MODIFIER_STATE_SILENCED"							"Susturuldu"
 		"MODIFIER_STATE_STUNNED"							"Sersemletildi"
-		"MODIFIER_STATE_INVULNERABLE"						"Dokunulmaz"
-		"MODIFIER_STATE_TECH_INVULNERABLE"					"Büyü Dokunulmazlığı"
+		"MODIFIER_STATE_INVULNERABLE"						"Hasar Verilemez"
+		"MODIFIER_STATE_TECH_INVULNERABLE"					"Büyü Korumalı"
 		"MODIFIER_STATE_BURNING"							"Yanıyor"
 
 		// Commenting this out so it doesn't show overhead of the player your applied it to
 		//"MODIFIER_STATE_SLOWED"								"Slowed"
 
-		"MODIFIER_STATE_BULLET_SHIELD_WEAKENED"				"Weakened Bullet Shield"
-		"MODIFIER_STATE_IS_ASLEEP"							"Uykuda"
-		"MODIFIER_STATE_BULLET_DAMAGE_TAKEN_ALWAYS_CRITS"	"Crit Vulnerable"		 				
-		"MODIFIER_STATE_CHAINED"							"Chained"
-		"MODIFIER_STATE_ALL_ARMOR_DISABLED"					"Armors Disabled"
-		"MODIFIER_STATE_BULLET_INVULNERABLE"				"Bulletproof"
-		"MODIFIER_STATE_DRONE_ATTACHED"						"Drone Attached"
+		"MODIFIER_STATE_BULLET_SHIELD_WEAKENED"				"Zayıflamış Mermi Kalkanı"
+		"MODIFIER_STATE_IS_ASLEEP"							"Uyuyor"
+		"MODIFIER_STATE_BULLET_DAMAGE_TAKEN_ALWAYS_CRITS"	"Kritik Vuruşa Karşı Savunmasız"		 				
+		"MODIFIER_STATE_CHAINED"							"Zincirlendi"
+		"MODIFIER_STATE_ALL_ARMOR_DISABLED"					"Zırhlar Devre Dışı"
+		"MODIFIER_STATE_BULLET_INVULNERABLE"				"Mermi Geçirmez"
+		"MODIFIER_STATE_DRONE_ATTACHED"						"İHA Bağlı"
 		"MODIFIER_STATE_WEAPON_JAMMED"						"Silah Tutukluk Yaptı"
 		"MODIFIER_STATE_TOXIC_BULLETS"						"Toksik"
 		"MODIFIER_STATE_DISPLAY_LIFETIME"					"Yaşam Süresi"
-		"MODIFIER_STATE_BLINDED"							"Kör"
+		"MODIFIER_STATE_BLINDED"							"Kör Edildi"
 
 		// Status Effects
 		"Citadel_StatusEffect"					"Durum Etkisi"
-		"Citadel_StatusEffectStun"				"Sersemletme"
-		"Citadel_StatusEffectEMP"				"Susturma"
-		"Citadel_StatusEffectFreeze"			"Dondurma"
-		"Citadel_StatusEffectBurn"				"Yakma"
+		"Citadel_StatusEffectStun"				"Sersemleme"
+		"Citadel_StatusEffectEMP"				"Susturuldu"
+		"Citadel_StatusEffectFreeze"			"Donma"
+		"Citadel_StatusEffectBurn"				"Yanma"
 		"Citadel_StatusEffectBleed"				"Kanama"
 		"Citadel_StatusEffectSleep"				"Uyku"
 		"Citadel_StatusEffectTethered"			"Bağlama"
-		"Citadel_StatusEffectImmobilize" 		"Sabitleme"
-		"Citadel_StatusEffectDisarmed"			"Silahsızlandırma"
+		"Citadel_StatusEffectImmobilize" 		"Hareketsizleştirme"
+		"Citadel_StatusEffectDisarmed"			"Etkisizleştirme"
 		"Citadel_StatusEffectInvisible"			"Görünmez"
-		"Citadel_StatusEffectStacks"			"Yığın "
-		"Citadel_StatusEffectInfiniteClip"		"Sonsuz Cephane"
+		"Citadel_StatusEffectStacks"			"İstif "
+		"Citadel_StatusEffectInfiniteClip"		"Sınırsız Mermi"
 		"Citadel_StatusEffectBulletDebuff"		"Mermi Zayıflatması"
 		"Citadel_StatusEffectBuff"				"Güçlendirme"
 
-		"modifier_citadel_in_shop"				"In Shop"	
-		"modifier_citadel_in_fountain"			"Home Base"
+		"modifier_citadel_in_shop"				"Dükkânda"	
+		"modifier_citadel_in_fountain"			"Ana Üs"
 		"modifier_citadel_pre_match_wait"		"Maçın başlaması bekleniyor"
-		"modifier_citadel_rapid_fire"			"Bullet Storm"
-		"modifier_citadel_damageboost"			"Damage Boost"
-		"modifier_citadel_damage_reduction" 	"Armor Boost"
-		"modifier_slowaura" 					"Slowed"
-		"modifier_citadel_slowtarget" 			"Slowed"
-		"modifier_citadel_lineslow"				"Slowed"
-		"modifier_slow_base"																		"Slowed"
-		"modifier_damageovertime" 				"Bleeding"
-		"modifier_citadel_stunned" 				"Stunned"
-		"modifier_citadel_knockdown"			"Stunned"
-		"modifier_citadel_delayed_stun"			"Delayed Stun"
-		"modifier_citadel_knockdown_stumble"	"Stumble"
-		"modifier_citadel_banished"				"Banished"
-		"modifier_citadel_speed_boost" 			"Speed Boost"
-		"modifier_pullaura" 					"Pulled"
-		"modifier_healaura" 					"Healing"
-		"modifier_citadel_root"					"Immobilized"
-		"modifier_citadel_charging" 			"Charging"
-		"modifier_invis" 						"Stealthed"
-		"modifier_invis_start_delay" 			"Entering Stealth"
-		"modifier_invis_fading"					"Fading"
-		"modifier_camouflage_invis"				"Camouflaged"
-		"modifier_citadel_silenced"				"Silenced"
-		"emp_immune"							"Silenced Immune"
-		"modifier_citadel_muted"				"Muted"
-		"modifier_citadel_disarmed"				"Silahsızlandırıldı"
-		"modifier_citadel_tech_shield"		"Spirit Shield"
+		"modifier_citadel_rapid_fire"			"Mermi Fırtınası"
+		"modifier_citadel_damageboost"			"Hasar Artırma"
+		"modifier_citadel_damage_reduction" 	"Zırh Artırma"
+		"modifier_slowaura" 					"Yavaşlatıldı"
+		"modifier_citadel_slowtarget" 			"Yavaşlatıldı"
+		"modifier_citadel_lineslow"				"Yavaşlatıldı"
+		"modifier_slow_base"																		"Yavaşlatıldı"
+		"modifier_damageovertime" 				"Kanıyor"
+		"modifier_citadel_stunned" 				"Sersemletildi"
+		"modifier_citadel_knockdown"			"Sersemletildi"
+		"modifier_citadel_delayed_stun"			"Gecikmeli Sersemletme"
+		"modifier_citadel_knockdown_stumble"	"Tökezleme"
+		"modifier_citadel_banished"				"Sürgün Edildi"
+		"modifier_citadel_speed_boost" 			"Hız Artırma"
+		"modifier_pullaura" 					"Çekildi"
+		"modifier_healaura" 					"İyileştirme"
+		"modifier_citadel_root"					"Hareketsizleştirildi"
+		"modifier_citadel_charging" 			"Hücum ediyor"
+		"modifier_invis" 						"Gizlendi"
+		"modifier_invis_start_delay" 			"Gizliliğe Giriyor"
+		"modifier_invis_fading"					"Kayboluyor"
+		"modifier_camouflage_invis"				"Kamufle"
+		"modifier_citadel_silenced"				"Susturuldu"
+		"emp_immune"							"Susturulmaya Bağışıklı"
+		"modifier_citadel_muted"				"Sesi Kısıldı"
+		"modifier_citadel_disarmed"				"Etkisizleştirildi"
+		"modifier_citadel_tech_shield"		"Büyü Kalkanı"
 
-		"modifier_item_disarmed"				"Silahsızlandırıldı"
-		"modifier_citadel_disarm_proc"			"Silahsızlandırıldı"
-		"modifier_citadel_disarm_proc_buildup"	"Silahsızlandırılıyor..."
-		"disarm_immune"							"Disarm Immune"
-		"modifier_citadel_dodging"				"Dodging"
-		"modifier_prevent_healing"				"Healing Disabled"
+		"modifier_item_disarmed"				"Etkisizleştirildi"
+		"modifier_citadel_disarm_proc"			"Etkisizleştirildi"
+		"modifier_citadel_disarm_proc_buildup"	"Etkisizleştiriliyor..."
+		"disarm_immune"							"Etkisizleştirmeye Bağışıklı"
+		"modifier_citadel_dodging"				"Kaçınma"
+		"modifier_prevent_healing"				"İyileşme Engellendi"
 		
-		"modifier_obscured_by_steam"			"Obscured"
-
+		"modifier_obscured_by_steam"			"Gizlenmiş"
+		
 		//-----------------------------------------------------------------------------
 		// END Unit states
 		//-----------------------------------------------------------------------------
@@ -107,81 +107,80 @@
 		// Deadlock-TR Çeviri: Grelgn
 
 		"StatDesc_DPS"									"SBH"
-		"StatDesc_MeleeDamage"							"Yumruk Hasarı"
-		"StatDesc_LightMeleeDamage"						"Hafif Yumruk"
-		"StatDesc_HeavyMeleeDamage"						"Ağır Yumruk"
-		"StatDesc_MaxHealth"							"Toplam Can"
+		"StatDesc_MeleeDamage"							"Yakın Dövüş Hasarı"
+		"StatDesc_LightMeleeDamage"						"Hafif Yakın Dövüş Hasarı"
+		"StatDesc_HeavyMeleeDamage"						"Ağır Yakın Dövüş Hasarı"
+		"StatDesc_MaxHealth"							"Maksimum Sağlık"
 		"StatDesc_ClipSizeBonus"						"Cephane"
 		"StatDesc_ClipSizeIncrease"						"Şarjör Boyutu Artışı"
 		"StatDesc_ClipSizeIncrease_postfix"				"%"
-		"StatDesc_BonusClips"							"Şarjör"
+		"StatDesc_BonusClips"							"Şarjörler"
 		"StatDesc_AmmoRegen"							"Cephane Yenileme"
 		"StatDesc_HealthRegen"							"Sağlık Yenileme"
 		"StatDesc_BaseHealthRegen"						"Sağlık Yenileme"
-		"StatDesc_ExternalHealthRegen"					"Ek Can Yenileme"
+		"StatDesc_ExternalHealthRegen"					"Harici Sağlık Yenileme"
 		"StatDesc_RunSpeed"								"Hareket Hızı"
-		"StatDesc_RunSpeed_postfix"						"m/s"
+		"StatDesc_RunSpeed_postfix"						" m/sn"
 		"StatDesc_SprintSpeed"							"Koşu Hızı"
-		"StatDesc_SprintSpeed_postfix"					"m/s"
-		"StatDesc_RunAcceleration"						"Hareket Sürati"
-		"StatDesc_SprintAcceleration"					"Koşu Sürati"
+		"StatDesc_SprintSpeed_postfix"					" m/sn"
+		"StatDesc_RunAcceleration"						"Hareket Hızlandırma"
+		"StatDesc_SprintAcceleration"					"Koşu Hızlandırma"
 		"StatDesc_IncomingDamageReduction"				"Zırh"
-		"StatDesc_IncomingDamageScale"					"Gelen Hasar Ölçeği"
+		"StatDesc_IncomingDamageScale"					"Alınan Hasar Ölçeği"
 		"StatDesc_BulletArmor"							"Zırh"
 		"StatDesc_BulletArmorDamageReduction"			"Mermi Direnci"
 		"StatDesc_BulletArmorDamageReduction_postfix"	"%"
 		"StatDesc_IncomingBulletDamageReduction"		"Mermi Hasarı Zırhı"
-		"StatDesc_IncomingBulletDamageScale"			"Silah Hasarı Ölçeği"
-		"StatDesc_IncomingMeleeDamageReduction"			"Yumruk Hasarı Zırhı"
-		"StatDesc_IncomingMeleeDamageScale"				"Yumruk Hasarı Ölçeği"
+		"StatDesc_IncomingBulletDamageScale"			"Mermi Hasarı Ölçeği"
+		"StatDesc_IncomingMeleeDamageReduction"			"Yakın Dövüş Hasarı Zırhı"
+		"StatDesc_IncomingMeleeDamageScale"				"Yakın Dövüş Hasarı Ölçeği"
 		"StatDesc_TechArmor"							"Büyü Zırhı"				
 		"StatDesc_TechArmorDamageReduction"		 		"Büyü Direnci"
 		"StatDesc_TechArmorDamageReduction_postfix"		"%"
 		"StatDesc_IncomingAbilityDamageReduction"		"Yetenek Zırhı"
 		"StatDesc_IncomingAbilityDamageScale"			"Yetenek Hasarı Ölçeği"
 		"StatDesc_TechPower"							"Büyü Gücü"
-		"StatDesc_ManaPerLevel"							"Energy Per Level"
-		"StatDesc_HealthPerLevel"						"Seviye Başına Can"
-		"StatDesc_ManaRegenPerLevel"					"Energy Regen Per Level"
-		"StatDesc_HealthRegenPerLevel"					"Health Regen Per Level"
-		"StatDesc_WeaponDPSPerLevel"					"Weapon DPS Per Level"
-		"StatDesc_SuperSprintSpeed"						"Super Sprint Speed"
+		"StatDesc_ManaPerLevel"							"Seviye Başına Enerji"
+		"StatDesc_HealthPerLevel"						"Seviye Başına Sağlık"
+		"StatDesc_ManaRegenPerLevel"					"Seviye Başına Enerji Yenileme"
+		"StatDesc_HealthRegenPerLevel"					"Seviye Başına Sağlık Yenileme"
+		"StatDesc_WeaponDPSPerLevel"					"Seviye Başına Silah SBH"
+		"StatDesc_SuperSprintSpeed"						"Süper Koşu Hızı"
 		"StatDesc_WeaponRange"							"Menzil"
-		"StatDesc_WeaponRecoilReduction"				"Geri Tepme Azaltımı"
+		"StatDesc_WeaponRecoilReduction"				"Geri Tepme Azaltması"
 		"StatDesc_FireRate"								"Atış Hızı"
 		"StatDesc_FireRate_postfix"						"%"
-		"StatDesc_Toughness"							"Toughness"
-		"StatDesc_Technology"							"Technology"
-		"StatDesc_Weaponry"								"Weaponry"
+		"StatDesc_Toughness"							"Dayanıklılık"
+		"StatDesc_Technology"							"Teknoloji"
+		"StatDesc_Weaponry"								"Silah"
 		"StatDesc_WeaponPower"							"Silah Hasarı"
 		"StatDesc_BulletDamage"							"Mermi Hasarı"
 		"StatDesc_TechPowerAmp"							"Büyü"
-		"StatDesc_EnergyMax"							"Energy Cells"
-		"StatDesc_EnergyRegenTime"						"Energy Regen Time"
+		"StatDesc_EnergyMax"							"Enerji Hücreleri"
+		"StatDesc_EnergyRegenTime"						"Enerji Yenilenme Süresi"
 		"StatDesc_RoundsPerSecond"						"Saniye Başına Mermi"
 		"StatDesc_BulletDamagePerLevel"					"Seviye Başına Mermi Hasarı"
-		"StatDesc_WeaponPowerAmp"						"Bullet Damage Amp"
-		"StatDesc_AirJumps"								"Air Jumps"
-		"StatDesc_ZipLineSpeed"							"Hyperline Speed"
-		"StatDesc_ProcModifier"							"Proc Modifier"
-		"StatDesc_TechCooldown"							"Yetenek Bekleme Süresi"
+		"StatDesc_WeaponPowerAmp"						"Mermi Hasarı Artırımı"
+		"StatDesc_AirJumps"								"Havada Zıplama"
+		"StatDesc_ZipLineSpeed"							"Halat Hızı"
+		"StatDesc_TechCooldown"							"Yetenek Dolum Süresi"
 		"StatDesc_TechCooldown_postfix"					"%"
-		"StatDesc_TechCooldownBetweenCharges"			"Şarj Kullanımı Arası Süre"
+		"StatDesc_TechCooldownBetweenCharges"			"Şarj Dolum Süresi"
 		"StatDesc_TechCooldownBetweenCharges_postfix"	"%"
 		"StatDesc_TechRange"							"Yetenek Menzili"
 		"StatDesc_TechRange_postfix"					"%"
-		"StatDesc_MaxChargesIncrease"					"Toplam Şarj Artışı"
+		"StatDesc_MaxChargesIncrease"					"Maksimum Şarj Artışı"
 		"StatDesc_RechargeRate"							"Şarj Dolma Oranı"
 		"StatDesc_HealingOutput"						"İyileştirme Gücü"
 		"StatDesc_TechDuration"							"Yetenek Süresi"
 		"StatDesc_TechDuration_postfix"					"%"
 		"StatDesc_WeaponPowerAttribute"					"Silah Hasarı"
 		"StatDesc_ArmorAttribute"						"Zırh"
-		"StatDesc_HealthAttribute"						"Can"
+		"StatDesc_HealthAttribute"						"Sağlık"
 		"StatDesc_TechDamageAttribute"					"Büyü Hasarı"
 		"StatDesc_FireRateAttribute"					"Atış Hızı"
-		"StatDesc_ReloadTime"							"Mermi Doldurma Süresi"
-		"StatDesc_ReloadTime_postfix"					"s"
+		"StatDesc_ReloadTime"							"Şarjör Değiştirme Süresi"
+		"StatDesc_ReloadTime_postfix"					" sn"
 		"StatDesc_Stamina"								"Kuvvet"
 		"StatDesc_StaminaRegenPerSecond"				"Kuvvet Toplama"
 		"StatDesc_StaminaRegenPerSecond_postfix"		"%"
@@ -191,60 +190,64 @@
 		"StatDesc_TechShieldHealth"						"Büyü Kalkanı"
 		"StatDesc_BulletShieldHealth"					"Mermi Kalkanı"
 		"StatDesc_ReloadSpeed_prefix"					"{s:sign}"
-		"StatDesc_ReloadSpeed"							"Mermi Doldurma Hızlanması"
+		"StatDesc_ReloadSpeed"							"Şarjör Değiştirme Hızı"
 		"StatDesc_ReloadSpeed_postfix"					"%"
-		"StatDesc_CritDamageReceivedScale"				"Krit Azaltımı"
+		"StatDesc_CritDamageReceivedScale"				"Krit Azaltması"
 		"StatDesc_CritDamageReceivedScale_postfix"		"%"
-		"StatDesc_StaminaCooldown"						"Kuvvet Bekleme Süresi"
-		"StatDesc_StaminaCooldown_postfix"				"s"
+		"StatDesc_StaminaCooldown"						"Kuvvet Dolum Süresi"
+		"StatDesc_StaminaCooldown_postfix"				" sn"
 		"StatDesc_StaminaRegenIncrease_prefix"			"+"
 		"StatDesc_StaminaRegenIncrease"					"Kuvvet Toplama"
 		"StatDesc_StaminaRegenIncrease_postfix"			"%"
+		"StatDesc_DebuffResist"							"Zayıflatmalara Karşı Direnç"
+		"StatDesc_DebuffResist_postfix"					"%"
+		"StatDesc_HealingOutput"						"İyileştirme Artırımı"
+		"StatDesc_HealingOutput_postfix"				"%"
 
-		"StatDesc_BulletSpeed"							"Mermi Sürati"
-		"StatDesc_BulletSpeed_postfix"					"m/s"
-		"StatDesc_BulletSpeedIncrease"					"Mermi Sürat Artışı"
+		"StatDesc_BulletSpeed"							"Mermi Hızı"
+		"StatDesc_BulletSpeed_postfix"					" m/sn"
+		"StatDesc_BulletSpeedIncrease"					"Mermi Hızı Artışı"
 		"StatDesc_BulletSpeedIncrease_postfix"			"%"
 		
-		"StatDesc_WeaponRangeFalloffMin_postfix"		"m"
-		"StatDesc_WeaponRangeFalloffMax_postfix"		"m"
+		"StatDesc_WeaponRangeFalloffMin_postfix"		" m"
+		"StatDesc_WeaponRangeFalloffMax_postfix"		" m"
 
 		"StatDesc_AttackPower"							"Saldırı Gücü"
 		"StatDesc_AbilityPower"							"Yetenek Gücü"
-		"StatDesc_DefensePower"							"Defans Gücü"
+		"StatDesc_DefensePower"							"Savunma Gücü"
 
 		"StatDesc_TechLifesteal_prefix"					"{s:sign}"
-		"StatDesc_TechLifesteal"						"Büyü Can Çalma"
+		"StatDesc_TechLifesteal"						"Büyü Can Çalması"
 		"StatDesc_TechLifesteal_postfix"				"%"
 
 		"StatDesc_TechLifestealNonHero_prefix"			"{s:sign}"
-		"StatDesc_TechLifestealNonHero"					"NPC'lerden Büyü Can Çalma"
+		"StatDesc_TechLifestealNonHero"					"Kahraman Olmayanlardan Büyü Can Çalması"
 
 		"StatDesc_BulletLifesteal_prefix"					"{s:sign}"
-		"StatDesc_BulletLifesteal"						"Mermi Can Çalma"
+		"StatDesc_BulletLifesteal"						"Mermi Can Çalması"
 		"StatDesc_BulletLifesteal_postfix"				"%"
 
 		"Attribute_EWeaponAttribute_RapidFire"			"Hızlı Atış"
-		"Attribute_EWeaponAttribute_BurstFire"			"Seri Atış"
+		"Attribute_EWeaponAttribute_BurstFire"			"Salvo"
 		"Attribute_EWeaponAttribute_Spreadshot"			"Çoklu Atış"
 		"Attribute_EWeaponAttribute_BeamWeapon"			"Işın Silahı"
-		"Attribute_EWeaponAttribute_CloseRange"			"Yakın Menzil"
+		"Attribute_EWeaponAttribute_CloseRange"			"Kısa Menzil"
 		"Attribute_EWeaponAttribute_MediumRange"		"Orta Menzil"
 		"Attribute_EWeaponAttribute_LongRange"			"Uzun Menzil"
-		"Attribute_EWeaponAttribute_MultiPellet"		"Çoklu-Atış"
-		"Attribute_EWeaponAttribute_BurstFire"			"Seri Atış"
+		"Attribute_EWeaponAttribute_HeavyHitter"		"Ağır Vurucu"
+		"Attribute_EWeaponAttribute_Projectile"			"Fiziksel"
 
-		"WeaponPowerAttribute_Desc"						"%s1 to any weapon damage bonus"
-		"ArmorAttribute_Desc"							"%s1 to any bullet and spirit armor bonus"
-		"HealthAttribute_Desc"							"%s1 to any health and health regen bonuses"
-		"TechDamageAttribute_Desc"						"%s1 to any spirit damage bonus"
-		"FireRateAttribute_Desc"						"%s1 to any weapon fire rate bonus"
-
-		"WeaponPowerAttribute_Desc_0"					"no additional weapon damage bonuses"
-		"ArmorAttribute_Desc_0"							"no additional bullet armor bonuses"
-		"HealthAttribute_Desc_0"						"no additional health and health regen bonuses"
-		"TechDamageAttribute_Desc_0"					"no additional spirit damage bonuses"
-		"FireRateAttribute_Desc_0"						"no additional weapon fire rate bonuses"
+		"WeaponPowerAttribute_Desc"						"Herhangi bir silah hasarı bonusuna %s1"
+		"ArmorAttribute_Desc"							"Herhangi bir mermi ve büyü zırhı bonusuna %s1"
+		"HealthAttribute_Desc"							"Herhangi bir sağlık ve sağlık yenileme bonusuna %s1"
+		"TechDamageAttribute_Desc"						"Herhangi bir büyü hasarı bonusuna %s1"
+		"FireRateAttribute_Desc"						"Herhangi bir silah atış hızı bonusuna %s1"
+		
+		"WeaponPowerAttribute_Desc_0"					"ek silah hasarı bonusu yok"
+		"ArmorAttribute_Desc_0"							"ek mermi zırhı bonusu yok"
+		"HealthAttribute_Desc_0"						"ek sağlık ve sağlık yenileme bonusu yok"
+		"TechDamageAttribute_Desc_0"					"ek büyü hasarı yok"
+		"FireRateAttribute_Desc_0"						"ek silah atış hızı bonusu yok"
 
 		//-----------------------------------------------------------------------------
 		// END Stat desc
@@ -255,22 +258,22 @@
 		//-----------------------------------------------------------------------------
 		"EMultiplyBase_postfix"						"%"
 
-		"HealAmount_label"							"İyileşme Miktarı"
+		"HealAmount_label"							"İyileştirme Miktarı"
 		"HealInterval_label"						"İyileşme Aralığı"
-		"HealInterval_postfix"						"s"
+		"HealInterval_postfix"						" sn"
 		
 		"SlowPercent_label"							"Hareket Yavaşlatması"
 		"SlowPercent_postfix"							"%"
 		"movement_slow"								"Hareket Yavaşlatması"
-		"SlowDurationPerStack_label"					"Yığın başına Yavaşlatma Süresi"
-		"SlowDurationPerStack_postfix"				"s"
+		"SlowDurationPerStack_label"					"İstif Başına Yavaşlatma Süresi"
+		"SlowDurationPerStack_postfix"				" sn"
 
-		"DroneLifetime_label"							"Drone Lifetime"
+		"DroneLifetime_label"							"Drone Yaşam Süresi"
 
 		"CritChance_label"							"Kritik Şansı"
 		"CritChance_postfix"							"%"
 
-		"ShieldHealth_label"							"Kalkan Canı"
+		"ShieldHealth_label"							"Kalkan Sağlığı"
 
 		"SpeedBoostPercent_label"						"Hız"
 		"SpeedBoostPercent_prefix"						"{s:sign}"
@@ -281,123 +284,120 @@
 
 		"DamagePlayer_label"							"Oyunculara Hasar"
 
-		"DamageNPC_label"								"NPC'lere Hasar"
+		"DamageNPC_label"								"Oyuncu Olmayanlara Hasar"
 
-		"DetectionRadius_label"						"Algılanma Yarıçapı"
+		"DetectionRadius_label"						"Algılama Yarıçapı"
 
-		"MaxMines_label"								"Max Mines"
+		"MaxMines_label"								"Maksimum Mayın"
 	
 		"HealRate_label"								"İyileşme Oranı"
-		"HealRate_postfix"								"/sec"
+		"HealRate_postfix"								"/saniye"
 
 		"Radius_label"								"Yarıçap"
-		"Radius_postfix"								"m"
+		"Radius_postfix"								" m"
 
 		"InactiveRadius_label"						"İnaktif Yarıçap"
-		"InactiveRadius_postfix"						"m"
+		"InactiveRadius_postfix"						" m"
 
 		"ActiveRadius_label"						"Aktif Yarıçap"
-		"ActiveRadius_postfix"						"m"
+		"ActiveRadius_postfix"						" m"
 
-		"MaxRadius_label"								"Maks. Yarıçap"
-		"MaxRadius_postfix"								"m"
+		"MaxRadius_label"								"Maksimum Yarıçap"
+		"MaxRadius_postfix"								" m"
 
-		"TackleRadius_label"							"Tackle Radius"
-		"TackleRadius_postfix"							"m"
+		"TackleRadius_label"							"Tutma Yarıçapı"
+		"TackleRadius_postfix"							" m"
 
 		"MovementDamagePercent_label"					"Hasar"
-		"MovementDamagePercent_postfix"					" % Damage every 256 units moved"
+		"MovementDamagePercent_postfix"					" % Hasar, her 256 ünite hareket edildiğinde"
 
 		"DPS_prefix"									""
 		"DPS_postfix"									""
 		"DPS_label"									"SBH"
 
-		"DPSIncrease_label"							"Damage Increase Rate"
-		"DPSMin_label"								"Min DPS"
-		"DPSMax_label"								"Max DPS"
+		"DPSIncrease_label"							"Hasar Artış Oranı"
+		"DPSMin_label"								"Minimum SBH"
+		"DPSMax_label"								"Maksimum SBH"
 
-		"DPS_Self_label"								"Kendine Hasar"
-		"DPS_Self_postfix"								"/sec"
+		"DPS_Self_label"								"Kendine Verdiği Hasar"
+		"DPS_Self_postfix"								"/saniye"
 
 		"BaseAttackDamage_prefix"						"{s:sign}"
 		"BaseAttackDamage_label"						"Temel Hasar"
 
 		"BonusHealth_prefix"							"{s:sign}"
-		"BonusHealth_label"							"Bonus Can"
+		"BonusHealth_label"							"Bonus Sağlık"
 
 		"MaxHealth_prefix"							"{s:sign}"
-		"MaxHealth_label"							"Toplam Can"
+		"MaxHealth_label"							"Maksimum Sağlık"
 
-		"BonusEnergyMax_label"						"Energy Cells"
+		"BonusEnergyMax_label"						"Enerji Hücreleri"
 
 		"BonusMaxHealth_prefix"							"{s:sign}"
-		"BonusMaxHealth_label"						"Can"
+		"BonusMaxHealth_label"						"Sağlık"
 
 		"BonusHealthPercent_prefix"					"{s:sign}"
 		"BonusHealthPercent_postfix"				"%"
-		"BonusHealthPercent_label"					"Can"
+		"BonusHealthPercent_label"					"Sağlık"
 
 		"BonusHealthRegen_prefix"					"{s:sign}"
-		"BonusHealthRegen_postfix"					""
 		"BonusHealthRegen_label"					"Sağlık Yenileme"
 
 		"BaseWeaponDamage_postfix"						"%"
 
 		"LevelUpBaseWeaponDamage"					"Mermi Hasarı"
-		"LevelUpBaseMeleeDamage"					"Yumruk Hasarı"
+		"LevelUpBaseMeleeDamage"					"Yakın Dövüş Hasarı"
 
 		"HealthRegen_prefix"						"{s:sign}"
-		"HealthRegen_postfix"						""
 		"HealthRegen_label"						"Sağlık Yenileme"
 
 		"BonusRegenMaxHealthPercent_prefix"					"{s:sign}"
 		"BonusRegenMaxHealthPercent_postfix"					"%"
-		"BonusRegenMaxHealthPercent_label"						"Toplam Sağlık Yenileme"
+		"BonusRegenMaxHealthPercent_label"						"Maksimum Sağlık Yenileme"
 
 		"BonusHealthRegenOutOfCombat_prefix"			"{s:sign}"
-		"BonusHealthRegenOutOfCombat_postfix"			""
-		"BonusHealthRegenOutOfCombat_label"			"Health Regen Out of Combat"
+		"BonusHealthRegenOutOfCombat_label"			"Mücadele Dışı Sağlık Yenileme"
 
 		"ExternalBonusHealthRegen_prefix"				"{s:sign}"
-		"ExternalBonusHealthRegen_postfix"				"/sec"
+		"ExternalBonusHealthRegen_postfix"				"/saniye"
 		"ExternalBonusHealthRegen_label"				"Sağlık Yenileme"
 
 		"ActiveHealthRegenBoost_prefix"					"{s:sign}"
-		"ActiveHealthRegenBoost_postfix"				"hp/sec"
+		"ActiveHealthRegenBoost_postfix"				"sağlık/sn"
 		"ActiveHealthRegenBoost_label"				"Sağlık Yenileme"
 
-		"NonPlayerBonusWeaponPower_label"			"NPC'lere karşı Silah Hasarı"
+		"NonPlayerBonusWeaponPower_label"			"NPC'lere Karşı Silah Hasarı"
 		"NonPlayerBonusWeaponPower_prefix"			"+"
 		"NonPlayerBonusWeaponPower_postfix"			"%"
 		"NonPlayerBonusWeaponPower_conditional"		"NPC'lere karşı"
 
-		"NonPlayerBulletResist_label"			"NPC'lere karşı Mermi Direnci"
+		"NonPlayerBulletResist_label"			"NPC'lere Karşı Mermi Direnci"
 		"NonPlayerBulletResist_prefix"			"+"
 		"NonPlayerBulletResist_postfix"			"%"
 		"NonPlayerBulletResist_conditional"		"NPC'lere karşı"
 
 		"BonusMeleeDamagePercent_prefix"				"{s:sign}"
 		"BonusMeleeDamagePercent_postfix"				"%"
-		"BonusMeleeDamagePercent_label"				"Yumruk Hasarı"
+		"BonusMeleeDamagePercent_label"				"Yakın Dövüş Hasarı"
 
 		"BonusMeleeDamage_prefix"						"{s:sign}"
-		"BonusMeleeDamage_label"						"Yumruk Hasarı"
+		"BonusMeleeDamage_label"						"Yakın Dövüş Hasarı"
 
 		"FuseTime_label"								"Fünye Süresi"
-		"FuseTime_postfix"								"s"
+		"FuseTime_postfix"								" sn"
 
-		"BonusAmmoRegen_prefix"							"{s:sign}"
-		"BonusAmmoRegen_postfix"						" per second"
+		"BonusAmmoRegen_prefix"							"saniye başına {s:sign}"
+		"BonusAmmoRegen_postfix"						" hasar"
 		"BonusAmmoRegen_label"						"Cephane Yenileme"
 
 		"BonusAmmo_prefix"								"{s:sign}"
 		"BonusAmmo_postfix"								"%"
-		"BonusAmmo_label"								"Mermi"
+		"BonusAmmo_label"								"Mermiler"
 
-		"Lifetime_postfix"								"s"
+		"Lifetime_postfix"								" sn"
 		"Lifetime_label"								"Yaşam süresi"
 
-		"Distance_postfix"								"m"
+		"Distance_postfix"								" m"
 		"Distance_label"								"Mesafe"
 
 		"ChainDamageCoeff_postfix"						"% silah hasarı"
@@ -431,11 +431,11 @@
 
 		"TechResistPerStack_prefix"						"{s:sign}"
 		"TechResistPerStack_postfix"					"%"
-		"TechResistPerStack_label"						"Yığın başına Büyü Artışı"
+		"TechResistPerStack_label"						"İstif Başına Büyü Artırımı"
 
 		"MagicIncreasePerStack_prefix"					"{s:sign}"
 		"MagicIncreasePerStack_postfix"					"%"
-		"MagicIncreasePerStack_label"					"Yığın başına Büyü Artışı"
+		"MagicIncreasePerStack_label"					"İstif Başına Büyü Artırımı"
 
 		"BulletDamageReduction_postfix"					"%"
 		"BulletDamageReduction_label"					"Mermi Zırhı"
@@ -446,9 +446,9 @@
 
 		"BonusMoveSpeed_prefix"							"{s:sign}"
 		"BonusMoveSpeed_label"						"Hareket Hızı"
-		"BonusMoveSpeed_postfix"						" m/s"
+		"BonusMoveSpeed_postfix"						" m/sn"
 
-		"RunSpeed_postfix"						" m/s"
+		"RunSpeed_postfix"						" m/sn"
 
 		"WeaponRange_label"							"Silah Menzili"
 		"WeaponRange_postfix"						" m"
@@ -458,16 +458,16 @@
 		"BonusMoveSpeedPercent_label"					"Hareket Hızı"
 
 		"SlowResistancePercent_prefix"					"{s:sign}"
-		"SlowResistancePercent_label"					"Hareket Yavaşlatma Direnci"
+		"SlowResistancePercent_label"					"Hareket Yavaşlatmaya Karşı Direnç"
 		"SlowResistancePercent_postfix"					"%"
 
-		"AirSpeedBonus_label"						"Bonus Air Speed"
+		"AirSpeedBonus_label"						"Bonus Hava Hızı"
 		"AirSpeedBonus_prefix"						"{s:sign}"
-		"AirSpeedBonus_postfix"						"m/s"
+		"AirSpeedBonus_postfix"						" m/sn"
 		"AscendSpeed_label"							""
 		"DescendSpeed_label"							""
 
-		"BonusCooldownReduction_label"					"Mermi Başına Bekleme Azaltımı"
+		"BonusCooldownReduction_label"					"Mermi Başına Dolum Süresi Azaltması"
 
 		"BonusClipSize_prefix"							"{s:sign}"
 		"BonusClipSize_label"							"Cephane"
@@ -485,29 +485,23 @@
 
 		"BulletPenetrationPercent_postfix"				"%"
 		"BulletPenetrationPercent_label"				"Mermi Deliciliği"
-
+		
 		"TechPower_prefix"								"{s:sign}"
 		"TechPower_label"								"Büyü Gücü"
-		"TechPower_postfix"								""
-
 		"ArmorPower_prefix"								"{s:sign}"
-		"ArmorPower_label"								"Temel Can"
+		"ArmorPower_label"								"Temel Sağlık"
 		"ArmorPower_postfix"								"%"
 
 		"TechPowerAmp_prefix"							"{s:sign}"
 		"TechPowerAmp_label"							"Büyü"
-		"TechPowerAmp_postfix"							""
-
 		"SpellAmplificationPercent_prefix"				"{s:sign}"
 		"SpellAmplificationPercent_label"				"Büyü Gücü"
-		"SpellAmplificationPercent_postfix"				""
-
-		//BaseDamagePerShot_label							"Temel Hasar"
+		//BaseDamagePerShot_label							"Base Damage"
 		"NanoTechPerShot_label"							"Büyü Hasarı"
 		"ExplosiveSplashDamage_label"						"Patlama Hasarı"
 		"BulletDamageTotal_label"							"Mermi Hasarı"
-
-		"ChargesRestored_label"							"Charges Restored"			
+		
+		"ChargesRestored_label"							"Şarjlar Dolduruldu"	
 
 		"BonusFireRate_prefix"							"{s:sign}"
 		"BonusFireRate_postfix"							"%"
@@ -519,70 +513,70 @@
 
 		"BonusFireRatePlayerUnit_prefix"				"{s:sign}"
 		"BonusFireRatePlayerUnit_postfix"				"%"
-		"BonusFireRatePlayerUnit_label"					"Minyonların Atış Hızı"
+		"BonusFireRatePlayerUnit_label"					"Kahramanlara Ait Birimlerin Atış Hızı"
 
 		"BonusFireRateNPC_prefix"							"{s:sign}"
 		"BonusFireRateNPC_postfix"							"%"
-		"BonusFireRateNPC_label"							"Fire Rate NPC"
+		"BonusFireRateNPC_label"							"NPC Atış Hızı"
 
 		"BonusMeleeAttackSpeed_prefix"					"{s:sign}"
 		"BonusMeleeAttackSpeed_postfix"					"%"
-		"BonusMeleeAttackSpeed_label"					"Yumruk Hızı"
+		"BonusMeleeAttackSpeed_label"					"Yakın Dövüş Hızı"
 
-		"AbilityDamageReduction_label"				"Büyü Hasarı Azaltımı"
+		"AbilityDamageReduction_label"				"Büyü Hasarı Azaltması"
 		"AbilityDamageReduction_postfix"				"%"
 
-		"SlowProcChance_label"						"Chance to slow on hit"
+		"SlowProcChance_label"						"Vuruşta yavaşlatma olasılığı"
 		"SlowProcChance_postfix"						"%"
 
 		"SlowDuration_label"							"Yavaşlatma Süresi"
-		"SlowDuration_postfix"							"s"
+		"SlowDuration_postfix"							" sn"
 
 		"PoisonDamage_label"							"Zehir Hasarı"
 		"PoisonDuration_label"							"Süre"
-		"PoisonDuration_postfix"							"s"
+		"PoisonDuration_postfix"							" sn"
 
 
 		"DebuffDuration_label"						"Zayıflatma Süresi"
-		"DebuffDuration_postfix"						"s"
+		"DebuffDuration_postfix"						" sn"
 
 		"DotHealthPercent_label"						"Kanama Hasarı"
-		"DotHealthPercent_postfix"						"%/sec"
+		"DotHealthPercent_postfix"						"%/sn"
 		
 		"FreezeDuration_label"							"Donma Süresi"
-		"FreezeDuration_postfix"							"s"
+		"FreezeDuration_postfix"							" sn"
 
 		"CooldownReduction_prefix"						"{s:sign}"
 		"CooldownReduction_postfix"						"%"
-		"CooldownReduction_label"						"Bekleme Azaltımı"
+		"CooldownReduction_label"						"Dolum Süresi Azaltma"
 
 		"ImbuedCooldownReduction_prefix"				"{s:sign}"
 		"ImbuedCooldownReduction_postfix"				"%"
-		"ImbuedCooldownReduction_label"					"Basılan Yetenek Bekleme Azaltımı"
+		"ImbuedCooldownReduction_label"					"Güçlendirilmiş Yetenek Dolum Süresi Azaltması"
 
 		"NonImbuedCooldownReduction_prefix"				"{s:sign}"
 		"NonImbuedCooldownReduction_postfix"			"%"
-		"NonImbuedCooldownReduction_label"				"Basılmayan Yetenek Bekleme Azaltımı"
+		"NonImbuedCooldownReduction_label"				"Güçlendirilmemiş Yetenek Dolum Süresi Azaltması"
 
-		"CooldownReductionFlat_postfix"					"s"
-		"CooldownReductionFlat_label"					"Bekleme Azaltımı"
+		"CooldownReductionFlat_postfix"					" sn"
+		"CooldownReductionFlat_label"					"Dolum Süresi Azaltma"
 
 		"BonusAbilityCharges_prefix"					"{s:sign}"
 		"BonusAbilityCharges_label"					"Bonus Yetenek Şarjı"
 
-		"BonusChargedAbilityDamage_label"				"Şarjlanmış Yetenek Hasarı"
+		"BonusChargedAbilityDamage_label"				"Şarjlı Yetenek Hasarı"
 		"BonusChargedAbilityDamage_prefix"				"{s:sign}"
 		"BonusChargedAbilityDamage_postfix"				"%"
 
 		"CooldownBetweenChargeReduction_prefix"			"+"
-		"CooldownBetweenChargeReduction_label"			"Şarj Dolma Süresi"
+		"CooldownBetweenChargeReduction_label"			"Şarjlar Arasında Daha Kısa Gecikme"
 		"CooldownBetweenChargeReduction_postfix"		"%"
 
 		"BonusSprintSpeed_prefix"						"{s:sign}"
-		"BonusSprintSpeed_postfix"						"m/s"
+		"BonusSprintSpeed_postfix"						" m/sn"
 		"BonusSprintSpeed_label"						"Koşu Hızı"
 		
-		"SprintSpeed_postfix"							"m/s"
+		"SprintSpeed_postfix"							" m/sn"
 		"SprintSpeed_label"								"Koşu Hızı"
 
 		"BonusSprintSpeedPercent_prefix"				"{s:sign}"
@@ -595,30 +589,30 @@
 		"BonusSuperSprintSpeedPercent_prefix"			"{s:sign}"
 		"BonusSuperSprintSpeedPercent_postfix"			"%"
 
-		"TotalHealthRegen_label"						"Total HP Regen"
+		"TotalHealthRegen_label"						"Toplam SP Yenilenmesi"
 
 		"StatusResistancePercent_postfix"				"%"
-		"StatusResistancePercent_label"				"Zayıflatma Direnci"
+		"StatusResistancePercent_label"				"Zayıflatmalara Karşı Direnç"
 
 		"ActiveStatusResistancePercent_postfix"			"%"
 		"ActiveStatusResistancePercent_label"			"Zayıflatma Azaltımı"
 
 		"StatusResistanceDuration_label"				"Süre"
-		"StatusResistanceDuration_postfix"				"s"
+		"StatusResistanceDuration_postfix"				" sn"
 
 		"CleavePercentage_prefix"						"{s:sign}"
-		"CleavePercentage_label"						"Splash Amount"
+		"CleavePercentage_label"						"Sıçrama Miktarı"
 		"CleavePercentage_postfix"						"%"
 
-		"CleaveRadius_label"							"Splash Radius"
+		"CleaveRadius_label"							"Sıçrama Yarıçapı"
 
 		"BonusAccuracy_prefix"							"{s:sign}"
 		"BonusAccuracy_postfix"							"%"
-		"BonusAccuracy_label"							"Gun Accuracy"
+		"BonusAccuracy_label"							"Silah İsabetliliği"
 
 		"BonusBulletSpeedPercent_prefix"				"{s:sign}"
 		"BonusBulletSpeedPercent_postfix"				"%"
-		"BonusBulletSpeedPercent_label"					"Mermi Sürati"
+		"BonusBulletSpeedPercent_label"					"Mermi Hızı"
 
 		"LifeStealPercent_prefix"						"{s:sign}"
 		"LifeStealPercent_label"						"Can Çalma"
@@ -633,147 +627,135 @@
 		"LifestealPercentNonHero_postfix"				"%"
 
 		"BulletLifestealPercent_prefix"						"{s:sign}"
-		"BulletLifestealPercent_label"					"Mermi Can Çalma"
+		"BulletLifestealPercent_label"					"Mermi Can Çalması"
 		"BulletLifestealPercent_postfix"				"%"
 
 		"TechLifestealPercent_prefix"					"{s:sign}"
-		"TechLifestealPercent_label"						"Büyü Can Çalma"
+		"TechLifestealPercent_label"						"Büyü Can Çalması"
 		"TechLifestealPercent_postfix"					"%"
 
 		"MeleeLifestealPercent_prefix"						"{s:sign}"
-		"MeleeLifestealPercent_label"					"Yumruk Can Çalma"
+		"MeleeLifestealPercent_label"					"Yakın Dövüş Can Çalması"
 		"MeleeLifestealPercent_postfix"					"%"
 
 		"StunDuration_label"							"Sersemletme Süresi"
-		"StunDuration_postfix"							"s"
+		"StunDuration_postfix"							" sn"
 
 		"StunDelay_label"								"Sersemletme Gecikmesi"
-		"StunDelay_postfix"								"s"
+		"StunDelay_postfix"								" sn"
 
-		"MinStunDuration_prefix"						""
-		"MinStunDuration_postfix"						"s"
-		"MinStunDuration_label"							"Min. Sersemletme Süresi"
+		"MinStunDuration_postfix"						" sn"
+		"MinStunDuration_label"							"Minimum Sersemletme Süresi"
 
-		"MaxStunDuration_prefix"						""
-		"MaxStunDuration_postfix"						"s"
-		"MaxStunDuration_label"							"Max. Sersemletme Süresi"
+		"MaxStunDuration_postfix"						" sn"
+		"MaxStunDuration_label"							"Maksimum Sersemletme Süresi"
 
-		"MeleeDamageReduction_label"					"Yumruk Zırhı"
+		"MeleeDamageReduction_label"					"Yakın Dövüş Zırhı"
 
 		"MeleeDamageReductionPercent_prefix"			"{s:sign}"
 		"MeleeDamageReductionPercent_postfix"			"%"
-		"MeleeDamageReductionPercent_label"			"Yumruk Zırhı"
+		"MeleeDamageReductionPercent_label"			"Yakın Dövüş Zırhı"
 		
-		"DispenserHealth_label"						"Dispenser Health"
+		"ShotRegenTime_postfix"							" sn"
 
-		"ShotRegenTime_label"							"Shot Regen Time"
-		"ShotRegenTime_postfix"							"s"
-
-		"MaxShots_label"								"Max Shots"
+		"MaxShots_label"								"Maks. Vuruşlar"
 
 		"PathLength_label"							"Işın Uzunluğu"
-		"PathLength_postfix"							"m"
+		"PathLength_postfix"							" m"
 
-		"ChainCount_label"							"Maks. Sıçrama"
-		"BonusPerChain_label"						"Sıçrama Hasarı"
+		"ChainCount_label"							"Maksimum Atlama"
+		"BonusPerChain_label"						"Atlama Hasarı"
 
-		"RichochetChance_label"						"Etki Şansı"
+		"RichochetChance_label"						"Etkinleşme Şansı"
 		"RichochetChance_postfix"						"%"
 
-		"SlowSpeedLimit_label"						"Speed Reduced To"
+		"SlowSpeedLimit_label"						"Hız Düşürüldü"
 
 		"HealAmpReceivePercent_prefix"					"{s:sign}"
-		"HealAmpReceivePercent_label"					"Healing Received Boost"
+		"HealAmpReceivePercent_label"					"Alınan İyileşme Artışları"
 		"HealAmpReceivePercent_postfix"					"%"
 
 		"HealAmpCastPercent_prefix"					"{s:sign}"
-		"HealAmpCastPercent_label"					"Healing Given Boost"
+		"HealAmpCastPercent_label"					"Verilen İyileşme Artışları"
 		"HealAmpCastPercent_postfix"					"%"
 		
 		"HealAmpRegenPercent_prefix"					"{s:sign}"
-		"HealAmpRegenPercent_label"					"Health Regen Boost"
+		"HealAmpRegenPercent_label"					"Sağlık Yenileme Artırımı"
 		"HealAmpRegenPercent_postfix"					"%"
 
 		"HealAmpRegenMultiplierOutOfCombat_prefix"					"{s:sign}"
-		"HealAmpRegenMultiplierOutOfCombat_label"		"Can Yenilemesi Çarpanı"
+		"HealAmpRegenMultiplierOutOfCombat_label"		"Sağlık Yenileme Çarpanı"
 		"HealAmpRegenMultiplierOutOfCombat_postfix"			"x"
 
-		"HealAmpReceivePenaltyPercent_label"		"İyileşme Azaltımı"
+		"HealAmpReceivePenaltyPercent_label"		"İyileştirme Azaltması"
 		"HealAmpReceivePenaltyPercent_postfix"			"%"
 
-		"DegenResistance_label"						"İyileşme Azaltımı Direnci"
+		"DegenResistance_label"						"İyileştirme Azaltması Direnci"
 		"DegenResistance_postfix"					"%"
 		"DegenResistance_prefix"					"{s:sign}"
 
-		"ProcChance_label"							"Etki Şansı"
+		"ProcChance_label"							"Etkinleşme Şansı"
 		"ProcChance_postfix"							"%"
 
 		"OutgoingDamageReduction_label"				"Saldırı Hasarı"
 		"OutgoingDamageReduction_prefix"				"-"
 		"OutgoingDamageReduction_postfix"				"%"
 
-		"ProcHealth_label"							"Health Threshold"
+		"ProcHealth_label"							"Sağlık Eşiği"
 		"ProcHealth_postfix"							"%"
 
 		"DamageBoostFromBehind_label"					"Arkadan Hasar"
 		"DamageBoostFromBehind_postfix"					"%"
 
-		"DamageBoostElsewhere_label"					"Farklı Yerden Hasar"
+		"DamageBoostElsewhere_label"					"Başka Yerden Hasar"
 		"DamageBoostElsewhere_postfix"					"%"
 
-		"BonusDPSVsPlayers_label"						"DPS vs Players"
+		"BonusDPSVsPlayers_label"						"Oyunculara Karşı SBH"
 
-		"BonusDPSVsCreeps_label"						"DPS vs Creeps"
+		"BonusDPSVsCreeps_label"						"Yaratıklara Karşı SBH"
 
-		"EvasionPercentGlider_label"					"Evasion Chance Gliding"
+		"EvasionPercentGlider_label"					"Kayarken Kaçınma Şansı"
 		"EvasionPercentGlider_postfix"					"%"
 
 		"EvasionPercent_label"						"Kaçınma Şansı"
 		"EvasionPercent_postfix"						"%"
 
-		"MeleeDamagePercent_label"					"Bonus Yumruk Hasarı"
+		"MeleeDamagePercent_label"					"Yakın Dövüş Hasar Bonusu"
 		"MeleeDamagePercent_postfix"					"%"
 
 
-		"TechShieldHealth_label"					"Büyü Kalkanı Canı"
-		"TempTechShieldHealth_label"				"Geçici Büyü Kalkanı Canı"
+		"TechShieldHealth_label"					"Büyü Kalkanı Sağlığı"
+		"TempTechShieldHealth_label"				"Geçici Büyü Kalkanı Sağlığı"
 		"TechShieldDamagePercent_prefix"			"{s:sign}"
 		"TechShieldDamagePercent_label"				"Büyü Kalkanı Hasarı"
 		"TechShieldDamagePercent_postfix"			"%"
 
-		"BulletShieldHealth_label"					"Mermi Kalkanı Canı"
-		"TempBulletShieldHealth_label"				"Geçici Mermi Kalkanı Canı"
+		"BulletShieldHealth_label"					"Mermi Kalkanı Sağlığı"
+		"TempBulletShieldHealth_label"				"Geçici Mermi Kalkanı Sağlığı"
 		"BulletShieldDamagePercent_prefix"			"{s:sign}"
-		"BulletShieldDamagePercent_label"			"Damage Amplification vs Bullet Shields"
+		"BulletShieldDamagePercent_label"			"Mermi Kalkanlarına Karşı Hasar Artışı"
 		"BulletShieldDamagePercent_postfix"			"%"
 
-		"ShieldBlockPercent_label"					"Yansıtılan Hasar"
+		"ShieldBlockPercent_label"					"Saptırılan Hasar"
 		"ShieldBlockPercent_postfix"					"%"
 
 		"DamagePercent_label"							"Verilen Mermi Hasarı"
 		"DamagePercent_postfix"							"%"
 		
-		"CycleTimePercent_label"						"Fire Rate compared to Gun"
+		"CycleTimePercent_label"						"Silaha Göre Atış Hızı"
 		"CycleTimePercent_postfix"						"%"
 
-		"StickyClusterCount_label"					"Splits into"
-		"StickyClusterCount_postfix"					"Sticky Grenades"
+		"StickyClusterCount_postfix"					"Yapışkan Bomba"
 
 		"FuseDuration_label"							"Fünye Süresi"
-		"FuseDuration_postfix"							""
-		
-		"DroneCount_label"							"Drone Count"
-		
 		"BasicReflectPercent_label"					"Temel Hasar Yansıtma"
 		"BasicReflectPercent_postfix"					"%"
 
 		"LifeDrainPerSecond_label"					"Saniye Başına Hasar"
-		"LifeDrainPerSecond_postfix"					""
-
-		"HealthPercent_label"							"Health Percent"
+		"HealthPercent_label"							"Sağlık Yüzdesi"
 		"HealthPercent_postfix"							"%"
 
-		"DodgeAnimSpeedScale_label"					"Dodge Speed Multiplier"
+		"DodgeAnimSpeedScale_label"					"Kaçınma Hızı Çarpanı"
 		"DodgeAnimSpeedScale_postfix"					"x"
 
 		"BonusDamagePercent_label"					"Bonus Hasar"
@@ -784,52 +766,49 @@
 		"BulletDamagePercent_postfix"					"%"
 
 		"AbilityLifestealPercent_prefix"					"{s:sign}"
-		"AbilityLifestealPercent_label"				"Büyü Can Çalma"
+		"AbilityLifestealPercent_label"				"Büyü Can Çalması"
 		"AbilityLifestealPercent_postfix"				"%"
 		
 		"AbilityLifestealPercentHero_prefix"					"{s:sign}"
-		"AbilityLifestealPercentHero_label"				"Büyü Can Çalma"
+		"AbilityLifestealPercentHero_label"				"Büyü Can Çalması"
 		"AbilityLifestealPercentHero_postfix"			"%"
 
 		"AbilityLifestealPercentNonHero_prefix"					"{s:sign}"
-		"AbilityLifestealPercentNonHero_label"			"NPC'lere Büyü Can Çalma"
+		"AbilityLifestealPercentNonHero_label"			"Kahraman Olmayanlardan Büyü Can Çalması"
 		"AbilityLifestealPercentNonHero_postfix"		"%"
 
-		"RegenDuration_label"							"Can Yenileme Süresi"
-		"RegenDuration_postfix"							"s"
+		"RegenDuration_label"							"Yenilenme Süresi"
+		"RegenDuration_postfix"							" sn"
 
 		"SpreadDuration_label"						"Yayılma Süresi: "
-		"SpreadDuration_postfix"						"s"
+		"SpreadDuration_postfix"						" sn"
 		
-		"EndRadius_label"								"Son Yarıçap"
-		"EndRadius_postfix"								"m"
+		"EndRadius_label"								"Bitiş Yarıçapı"
+		"EndRadius_postfix"								" m"
 
-		"BulletPercentAsBurn_label"					"Bullet Damage as Burning"
+		"BulletPercentAsBurn_label"					"Yanma olarak verilen Mermi Hasarı"
 		"BulletPercentAsBurn_postfix"					"%"
 
 		"ItemInitialCharges_label"					"Şarj"
 
 		"AuraDuration_label"							"Aura Süresi"
-		"AuraDuration_postfix"							"s"
+		"AuraDuration_postfix"							" sn"
 
-		"ApproachSpeed_label"							"Project Speed"
+		"GrenadesInVolley_label"						"El Bombası Sayısı"
 
-		"GrenadesInVolley_label"						"Grenade Count"
-
-		"ReloadSpeedDecrease_prefix"					""
-		"ReloadSpeedDecrease_label"						"Mermi Doldurma Süresi"
+		"ReloadSpeedDecrease_label"						"Şarjör Değiştirme Süresi"
 		"ReloadSpeedDecrease_postfix"					"%"
 
 		"AbsorbPercentage_label"						"Emilen Hasar"
 		"AbsorbPercentage_postfix"						"%"
 
-		"HitCap_label"								"Hit Cap"
-		"HitCap_postfix"								"hits"
+		"HitCap_label"								"Vuruş Sınırı"
+		"HitCap_postfix"								"vuruş"
 
-		"AbilityDamageReductionPerHit_label"			"Ability Dmg Red Per Hit"
+		"AbilityDamageReductionPerHit_label"			"Vuruş Başına Yetenek Hasarı Azaltımı"
 		"AbilityDamageReductionPerHit_postfix"			"%"
 
-		"ActiveAbilityDamageReduction_label"			"Active Ability Dmg Red"
+		"ActiveAbilityDamageReduction_label"			"Etkin Yetenek Hasarı Azaltımı"
 		"ActiveAbilityDamageReduction_postfix"			"%"
 
 		"BonusAttackRange_postfix"						"metre"
@@ -837,30 +816,25 @@
 
 		"BonusAttackRangePercent_prefix"				"{s:sign}"
 		"BonusAttackRangePercent_postfix"				"%"
-		"BonusAttackRangePercent_label"					"Silah Hasarı Azalma Menzili"
+		"BonusAttackRangePercent_label"					"Silah Hasarının Azalma Menzili"
 
 		"WeaponRecoilReduction_postfix"					"%"
-		"WeaponRecoilReduction_label"					"Recoil Reduction"
+		"WeaponRecoilReduction_label"					"Geri Tepme Azaltması"
 
 		"BonusDPSPercent_prefix"						"{s:sign}"
 		"BonusDPSPercent_label"						"Mermi Hasarı"
 		"BonusDPSPercent_postfix"						"%"
 
-		"DroneHealth_label"							"Drone Health"
-
-		"DeployHealthRegen_label"						"Deployable Health"
-
 		"TurretFireRate_label"							"Taret Atış Hızı"
 		"TurretFireRate_prefix"							"+"
 		"TurretFireRate_postfix"						"%"
 
-		"TurretDPS_label"								"Taret DPS"
+		"TurretDPS_label"								"Taret SBH"
 
-		"MobileResupplyRegenMultiplier_label"			"Mobile Resupply Regen Multiplier"
 		"MobileResupplyRegenMultiplier_postfix"			"x"
 
 		"HealRadius_label"								"İyileştirme Yarıçapı"
-		"HealRadius_postfix"								"m"
+		"HealRadius_postfix"								" m"
 
 		"BulletArmorReduction_prefix"					"{s:sign}"
 		"BulletArmorReduction_postfix"					"%"
@@ -871,10 +845,10 @@
 		"LocalBulletArmorReduction_label"				"Mermi Direnci"
 
 		"LocalTechArmorReduction_prefix"				"{s:sign}"
-		"LocalTechArmorReduction_label"				"Magic Resist"
+		"LocalTechArmorReduction_label"				"Büyü Direnci"
 		"LocalTechArmorReduction_postfix"				"%"
 
-		"BulletResistOnActive_label"					"OnActive - Mermi Direnci"
+		"BulletResistOnActive_label"					"Aktifken - Mermi Direnci"
 		"BulletResistOnActive_prefix"					"{s:sign}"
 		"BulletResistOnActive_postfix"					"%"
 
@@ -898,27 +872,24 @@
 		"DamageIncreasePercent_postfix"					"%"
 
 		"BonusAbilitySpeed_prefix"						"{s:sign}"
-		"BonusAbilitySpeed_postfix"						""
 		"BonusAbilitySpeed_label"							"Yetenek Hareket Hızı"
 
 		"ReloadSpeedMultipler_prefix"					"{s:sign}"
-		"ReloadSpeedMultipler_label"					"Mermi Doldurma Süresi"
+		"ReloadSpeedMultipler_label"					"Şarjör Değiştirme Süresi"
 		"ReloadSpeedMultipler_postfix"					"%"
 
 		"HealthRegenPerTrooper_prefix"					"+"
 		"HealthRegenPerTrooper_postfix"					" yakındaki asker başına"
 		"HealthRegenPerTrooper_label"					"Sağlık Yenileme"
 
-		"TroopersToSummon_label"						"Troopers created"
-		"TrooperLifetime_label"						"Trooper lifetime"
-		"TrooperLifetime_postfix"						"s"
+		"TrooperLifetime_postfix"						" sn"
 
-		"DamagePerChain_label"						"Şok Hasarı"
+		"DamagePerChain_label"						"Elektrik Hasarı"
 		
 		"SpeedMax_label"								"Hareket Hızı"
-		"SpeedMax_postfix"							" m/s"
+		"SpeedMax_postfix"							" m/sn"
 		"MoveSpeedMax_label"							"Hareket Hızı"
-		"MoveSpeedMax_postfix"						" m/s"
+		"MoveSpeedMax_postfix"						" m/sn"
 
 		"BulletDamagePercentAsTechDamage_label"		"Bonus Büyü Hasarı"
 		"BulletDamagePercentAsTechDamage_postfix"		"% Mermi Hasarı "
@@ -927,176 +898,161 @@
 		"BonusCritDamagePercent_label"				"Bonus Kritik Hasar"
 		"BonusCritDamagePercent_postfix"				"%"
 
-		"DPSDmgPercent_label"							"DPS as Damage"
 		"DPSDmgPercent_postfix"							"%"
 
-		"DamagePerSecond_label"						"Damage Per Second"
+		"DamagePerSecond_label"						"Saniye Başına Hasar"
 
 		"TechReduction_label"						"Büyü Azaltımı"
 
-		"TechResistReduction_label"					"Target Spirit Resist"
+		"TechResistReduction_label"					"Hedef Büyü Direnci"
 		"TechResistReduction_prefix"					""
 		"TechResistReduction_postfix"					"%"
-		"DamagePulseAmount_label"						"Nabız Hasarı"
-		"DamagePulseInterval_label"					"Nabız Aralığı"
-		"DamagePulseInterval_postfix"					"s"
-		"DamagePulseRadius_label"						"Nabız Yarıçapı"
-		"DamagePulseRadius_postfix"					"m"
+		"DamagePulseAmount_label"						"Darbe Hasarı"
+		"DamagePulseInterval_label"					"Darbe Aralığı"
+		"DamagePulseInterval_postfix"					" sn"
+		"DamagePulseRadius_label"						"Darbe Yarıçapı"
+		"DamagePulseRadius_postfix"					" m"
 
 		"CloseRangeBonusDamagePercent_prefix"			"+"
 		"CloseRangeBonusDamagePercent_label"			"Silah Hasarı"
 		"CloseRangeBonusDamagePercent_postfix"			"%"
 
-		"CloseRangeBonusDamageRange_label"				"Yakın Menzil"
-		"CloseRangeBonusDamageRange_postfix"			"m"
+		"CloseRangeBonusDamageRange_label"				"Kısa Menzil"
+		"CloseRangeBonusDamageRange_postfix"			" m"
 
 		"CloseRangeBonusWeaponPower_prefix"				"{s:sign}"
 		"CloseRangeBonusWeaponPower_label"				"Silah Hasarı"
 		"CloseRangeBonusWeaponPower_postfix"			"%"
-		"CloseRangeBonusWeaponPower_conditional"		"Menzil içinde"
+		"CloseRangeBonusWeaponPower_conditional"		"menzil içindeyken"
 
-		"BonusSpirit_conditional"						"etkiden sonra"
+		"BonusSpirit_conditional"						"etkinleştikten sonra"
 
-		"AboveHealthThreshold_conditional"				"can sınırı üzerinde"
-		"BelowHealthThreshold_conditional"				"can sınırı altında"
+		"AboveHealthThreshold_conditional"				"sağlık eşiğinin üstündeyken"
+		"BelowHealthThreshold_conditional"				"sağlık eşiğinin altındayken"
 		"DashJump_conditional"							"atılım-zıplama'dan sonra"
 
-		"EnemyAboveHealthThreshold_conditional"			"Düşman can sınırı üzerinde"
+		"EnemyAboveHealthThreshold_conditional"			"düşman, sağlık eşiğinin üstündeyken"
 		
-		"Quicksilver_conditional"						"yetenek kullanıldıktan sonra"
+		"Quicksilver_conditional"						"yetenek kullandıktan sonra"
 
-		"SpiritStrike_conditional"						"yumruk vuruşundan sonra"
+		"SpiritStrike_conditional"						"başarılı yakın dövüş saldırısından sonra"
 
-		"LongRangeBonusWeaponPowerMinRange_label"		"Min. Mesafe"
-		"LongRangeBonusWeaponPowerMinRange_postfix"		"m"
+		"LongRangeBonusWeaponPowerMinRange_label"		"Minimum Mesafe"
+		"LongRangeBonusWeaponPowerMinRange_postfix"		" m"
 
 		"LongRangeBonusWeaponPower_prefix"				"{s:sign}"
 		"LongRangeBonusWeaponPower_label"				"Silah Hasarı"
 		"LongRangeBonusWeaponPower_postfix"				"%"
-		"LongRangeBonusWeaponPower_conditional"			"Menzil dışında"
+		"LongRangeBonusWeaponPower_conditional"			"menzil dışındayken"
 
 		"TechRangeMultiplier_prefix"					"{s:sign}"
 		"TechRangeMultiplier_label"						"Yetenek Menzili"
 		"TechRangeMultiplier_postfix"					"%"
 
 		"ImbuedTechRangeMultiplier_prefix"				"{s:sign}"
-		"ImbuedTechRangeMultiplier_label"				"Basılan Yetenek Menzili"
+		"ImbuedTechRangeMultiplier_label"				"Güçlendirilmiş Yetenek Menzili"
 		"ImbuedTechRangeMultiplier_postfix"				"%"
 
 		"NonImbuedTechRangeMultiplier_prefix"			"{s:sign}"
-		"NonImbuedTechRangeMultiplier_label"			"Basılmayan Yetenek Menzili"
+		"NonImbuedTechRangeMultiplier_label"			"Güçlendirilmemiş Yetenek Menzili"
 		"NonImbuedTechRangeMultiplier_postfix"			"%"
 
 		"ThrowRange_label"								"Fırlatma Menzili"
-		"ThrowRange_postfix"							"m"
+		"ThrowRange_postfix"							" m"
 
 		"TechRadiusMultiplier_prefix"					"{s:sign}"
 		"TechRadiusMultiplier_label"					"Yarıçap"
 		"TechRadiusMultiplier_postfix"					"%"
 
 		"ImbuedTechRadiusMultiplier_prefix"					"{s:sign}"
-		"ImbuedTechRadiusMultiplier_label"					"Basılan Yarıçapı"
+		"ImbuedTechRadiusMultiplier_label"					"Güçlendirilmiş Yarıçapı"
 		"ImbuedTechRadiusMultiplier_postfix"					"%"
 
 		"NonImbuedTechRadiusMultiplier_prefix"					"{s:sign}"
-		"NonImbuedTechRadiusMultiplier_label"					"Basılmayan Yarıçapı"
+		"NonImbuedTechRadiusMultiplier_label"					"Güçlendirilmemiş Yarıçapı"
 		"NonImbuedTechRadiusMultiplier_postfix"					"%"
 
 		"TechRangeAdditive_prefix"						"{s:sign}"
 		"TechRangeAdditive_label"						"Yetenek Menzili"
-		"TechRangeAdditive_postfix"						"m"
+		"TechRangeAdditive_postfix"						" m"
 
-		"WindUpTime_label"								"Windup Time"
-		"WindUpTime_postfix"								"s"
+		"WindUpTime_postfix"								" sn"
 
-		"HealthDrainedPerSecond_label"				"Can Boşaltımı"
-		"HealthDrainedPerSecond_postfix"				" per second"
+		"HealthDrainedPerSecond_label"				"Sağlık Boşaltımı"
+		"HealthDrainedPerSecond_prefix"				"saniye başına "
 
 		"DebuffDurationReductionPercentage_label"		"Zayıflatma Süresi Azaltımı"
 		"DebuffDurationReductionPercentage_postfix"		"%"
 
-		"HealthCost_label"							"Can Maliyeti"
+		"HealthCost_label"							"Sağlık Maliyeti"
 
 		"ZipLineSpeedPercent_prefix"					"{s:sign}"
-		"ZipLineSpeedPercent_label"					"Hyperline Speed"
+		"ZipLineSpeedPercent_label"					"Ulaşım Halatı Hızı"
 		"ZipLineSpeedPercent_postfix"					"%"
 		
-		"ZiplineJumpBonusDuration_label"					"Jump Off Duration"
-		"ZiplineJumpBonusDuration_postfix"					"sn"
+		"ZiplineJumpBonusDuration_label"					"Bırakma Süresi"
+		"ZiplineJumpBonusDuration_postfix"					" sn"
 
-		"ZiplineJumpBonusMoveSpeed_label"					"Jump Off Speed Bonus"
-		"ZiplineJumpBonusMoveSpeed_postfix"					"m/s"
+		"ZiplineJumpBonusMoveSpeed_label"					"Bırakma Hız Bonusu"
+		"ZiplineJumpBonusMoveSpeed_postfix"					" m/sn"
 
 		"BonusZipLineSpeed_prefix"						"{s:sign}"
-		"BonusZipLineSpeed_label"						"Hyperline Speed"
-
-		"MaxProjectiles_label"						"Projectile Count"
-
-		"DeathDelay_label"							"Delay Death Duration"
-
-		"TackleDurationMax_label"						"Max Tackle Duration"
+		"BonusZipLineSpeed_label"						"Ulaşım Halatı Hızı"
 
 		"MoveSpeedBonus_prefix"							"{s:sign}"
 		"MoveSpeedBonus_label"							"Hareket Hızı"
-		"MoveSpeedBonus_postfix"						"m/s"
+		"MoveSpeedBonus_postfix"						" m/sn"
 
-		"MoveSpeedFriendlyBuff_prefix"			""
-		"MoveSpeedFriendlyBuff_label"				"Müttefik Hareket Hızı"
-		"MoveSpeedFriendlyBuff_postfix"			" m/s"
+		"MoveSpeedFriendlyBuff_label"				"Dost Hareket Hızı"
+		"MoveSpeedFriendlyBuff_postfix"			" m/sn"
 		
-		"ProcBuildupPercent_label"					"Proc Buildup"
 		"ProcBuildupPercent_postfix"					"%"
 
-		"AwakenDamage_label"							"Awaken Damage"
+		"LockOnTime_postfix"							" saniye"
 
-		"LockOnTime_label"							"Lock On Time"
-		"LockOnTime_postfix"							" seconds"
+		"StalkDuration_postfix"							" saniye"
 
-		"StalkDuration_label"							"Stalk Time"
-		"StalkDuration_postfix"							" seconds"
+		"MaxStacks_label"								"Maksimum İstif"
 
-		"MaxStacks_label"								"Maks. Yığın"
-
-		"TimeToMaxStacks_label"							"Maks. Yığın için süre"
-		"TimeToMaxStacks_postfix"						"s"
+		"TimeToMaxStacks_postfix"						" sn"
 
 		"DamagePerHit_label"							"Vuruş Başına Hasar"
 
 		"FinalBlow_label"							"Son Vuruş Hasarı"
 
-		"DamageThreshold_label"						"Hasar Sınırı"
-		
-		"DamageReduction_label"						"Hasar Azaltımı"
+		"DamageThreshold_label"						"Hasar Eşiği"
+
+		"DamageReduction_label"						"Hasar Azaltma"
 		"DamageReduction_postfix"					"%"
 
-		"MeleeDamage_label"							"Yumruk Hasarı"
+		"MeleeDamage_label"							"Yakın Dövüş Hasarı"
 
 		"ConvertedHealth_label"						"Asker Canı"
 
 		"SilenceDuration_label"							"Susturma Süresi"
 		"SilenceDuration_postfix"						" saniye"
 
-		"Range_postfix"									"m"
+		"Range_postfix"									" m"
 		"Range_label"									"Menzil"
 
 		"MinRange_label"								"Minimum Menzil"
-		"MinRange_postfix"								"m"
+		"MinRange_postfix"								" m"
 
-		"ConeRadius_label"							"Lightning Distance"
-		"ConeRadius_postfix"							"m"
-		"ConeAngle_label"						"Cone Angle"
-		"ConeAngle_postfix"						" deg"
+		"ConeRadius_label"							"Yıldırım Mesafesi"
+		"ConeRadius_postfix"							" m"
+		"ConeAngle_label"						"Koni Derecesi"
+		"ConeAngle_postfix"						" derece"
 
 		"ShockRadius_label"							"Yarıçap"
-		"ShockRadius_postfix"						"m"
+		"ShockRadius_postfix"						" m"
 
 		"KnockDownRadius_label"						"Yere Serme Yarıçapı"
-		"KnockDownRadius_postfix"						"m"
+		"KnockDownRadius_postfix"						" m"
 
-		"BurnDuration_postfix"							"s"
+		"BurnDuration_postfix"							" sn"
 		"BurnDuration_label"							"Yanma Süresi"
 
-		"AbilityCooldown_postfix"						"s"
+		"AbilityCooldown_postfix"						" sn"
 		"AbilityCooldown_label"						"Dolum Süresi"
 
 		"TechCooldown_postfix"						"%"
@@ -1104,32 +1060,32 @@
 		"TechLifesteal_postfix"						"%"
 		"TechRange_postfix"							"%"
 
-		"HealingPercent_label"						"İyileşme Yüzdesi"
+		"HealingPercent_label"						"İyileştirme Yüzdesi"
 		"HealingPercent_postfix"						"%"
 
-		"AbilityCooldownBetweenCharge_label"			"Charge Delay"
-		"AbilityCooldownBetweenCharge_postfix"			"s"
+		"AbilityCooldownBetweenCharge_label"			"Şarj Öncesi Gecikme"
+		"AbilityCooldownBetweenCharge_postfix"			" sn"
 
-		"AbilityDuration_postfix"						"s"
+		"AbilityDuration_postfix"						" sn"
 		"AbilityDuration_label"						"Süre"
 
-		"TetherDuration_postfix"						"s"
+		"TetherDuration_postfix"						" sn"
 		"TetherDuration_label"						"Bağlama Süresi"
 
-		"TetherRadius_postfix"						"m"
+		"TetherRadius_postfix"						" m"
 		"TetherRadius_label"						"Bağlama Yarıçapı"
 
-		"AbilityCastRange_postfix"						"m"
+		"AbilityCastRange_postfix"						" m"
 		"AbilityCastRange_label"						"Kullanma Menzili"
 
-		"AbilityCastRangeMinimum_postfix"				"m"
+		"AbilityCastRangeMinimum_postfix"				" m"
 		"AbilityCastRangeMinimum_label"					"Minumum Menzil"
 
-		"AbilityChannelTime_postfix"					"s"
-		"AbilityChannelTime_label"					"Kullanım Süresi"
+		"AbilityChannelTime_postfix"					" sn"
+		"AbilityChannelTime_label"					"Yönlendirme Süresi"
 
-		"AbilityCastDelay_postfix"					"s"
-		"AbilityCastDelay_label"					"Cast Delay"
+		"AbilityCastDelay_postfix"					" sn"
+		"AbilityCastDelay_label"					"Kullanma Öncesi Gecikme"
 
 		"AbilityCharges_label"						"Şarj"
 		
@@ -1140,167 +1096,133 @@
 		
 		
 		"NonImbuedBonusDuration_prefix"				"{s:sign}"
-		"NonImbuedBonusDuration_label"				"Basılmayan Yetenek Süresi"
+		"NonImbuedBonusDuration_label"				"Güçlendirilmemiş Yetenek Süresi"
 		"NonImbuedBonusDuration_postfix"			"%"		
 		
 		"ImbuedBonusDuration_prefix"					"{s:sign}"
-		"ImbuedBonusDuration_label"						"Basılan Yetenek Süresi"
+		"ImbuedBonusDuration_label"						"Güçlendirilmiş Yetenek Süresi"
 		"ImbuedBonusDuration_postfix"					"%"
 
-		"MissCooldown_postfix"							"s"
-		"MissCooldown_label"							"Cooldown on miss"
+		"MissCooldown_postfix"							" sn"
+		"MissCooldown_label"							"Iskalandığında Gecikme"
 
-		"ShockDelay_label"							"Sersemletme Gecikmesi"
-		"ShockDelay_postfix"							"s"
+		"ShockDelay_label"							"Sersemletme Öncesi Gecikme"
+		"ShockDelay_postfix"							" sn"
 
-		"ArmTime_label"									"Etkinleşme Süresi"
-		"ArmTime_postfix"								"s"
+		"ArmTime_label"									"Devreye Girme Süresi"
+		"ArmTime_postfix"								" sn"
 
 		"ExplodeDelay_label"							"Patlama Gecikmesi"
-		"ExplodeDelay_postfix"							"s"
+		"ExplodeDelay_postfix"							" sn"
 		
-		"BuildUpPercentPerHit_label"					"Vuruş başına Artış"
+		"BuildUpPercentPerHit_label"					"Vuruş başına Birikme"
 		"BuildUpPercentPerHit_postfix"					"%"
 
-		"FreezeBuildUpTime_label"						"Freeze buildup time"
-		"FreezeBuildUpTime_postfix"						"s"
+		"FreezeBuildUpTime_label"						"Donma birikme süresi"
+		"FreezeBuildUpTime_postfix"						" sn"
 
-		"CritStackInterval_label"						"Crit Charge Delay"
-		"CritStackInterval_postfix"						"s"
+		"CritStackInterval_label"						"Kritik Şarj Öncesi Gecikme"
+		"CritStackInterval_postfix"						" sn"
 
 		"TurretLifetime_label"						"Yaşam süresi"
-		"TurretLifetime_postfix"						"sn"
+		"TurretLifetime_postfix"						" sn"
 
 		"CritCoatingDamagePercent_prefix"				"{s:sign}"
-		"CritCoatingDamagePercent_label"				"Crit Coating Crit Bonus"
 		"CritCoatingDamagePercent_postfix"				"%"
 
-		"ExplosionCoatingRadius_label"				"Explosion Coating Radius"
-		"ExplosionCoatingRadius_postfix"				"m"
+		"ExplosionCoatingRadius_postfix"				" m"
 
-		"SlowCoatingProcChance_label"					"Slowing Coating Chance"
 		"SlowCoatingProcChance_postfix"					"%"
 
-		"SlowCoatingMoveSpeed_label"					"Slowing Coating Slow Amount"
 		"SlowCoatingMoveSpeed_postfix"					"%"
 
-		"SlowCoatingDuration_label"					"Slowing Coating Slow Duration"
-		"SlowCoatingDuration_postfix"					""
-
 		"MaxLifetime_label"							"Yaşam süresi"
-		"MaxLifetime_postfix"							"s"
+		"MaxLifetime_postfix"							" sn"
 
 		"ZipLineArrowLifetime_label"					"Ok Uçuş Süresi"
-		"ZipLineArrowLifetime_postfix"					""
-
-		"DamageTakenPercentIncreasePerStack_label"	"Yığın başına Hasar Artışı"
+		"DamageTakenPercentIncreasePerStack_label"	"İstif Başına Hasar Artışı"
 		"DamageTakenPercentIncreasePerStack_postfix"	"%"
 
-		"ShotsFired_label"							"Shots fired"
-		"ShotsFired_postfix"							""
-
-		"TimeBetweenShots_label"						"Time between shots"
-		"TimeBetweenShots_postfix"						""
-
-		"DroneDPS_label"								"Drone Damage"
+		"ShotsFired_label"							"Toplam Atış"
+		"TimeBetweenShots_label"						"Atışlar arası süre"
 		"DroneDPS_postfix"								"sbh"
 
 		"DistanceBuff_postfix"							"%"
-		"DistanceBuff_label"							"Increase at Max Range"
+		"DistanceBuff_label"							"Maksimum Menzilde Artış"
 
-		"FullDistance_label"							"Maks. Menzil: "
-		"FullDistance_postfix"							"m"
+		"FullDistance_label"							"Maksimum Menzil: "
+		"FullDistance_postfix"							" m"
 
 		"ProcDamage_label"								"Büyü Hasarı"
-		"ProcDamage_postfix"							""
 
 		"BaseDamagePct_label"							"Bonus Büyü Artışı"
 		"BaseDamagePct_prefix"							"{s:sign}"
 		"BaseDamagePct_postfix"							"%"
 
-		"TargetsPerTick_label"						"Atış Başına Vurulan Hedef"
-		"TargetsPerTick_postfix"						""
+		"TargetsPerTick_label"						"Atış Başına İsabet Alan Hedef Sayısı"
+		"HealthToDamage_label"						"Hasara / Sağlık"
 
-		"HealthToDamage_label"						"Health To Damage"
-		"HealthToDamage_postfix"						""
+		"DamageHealPerTarget_label"						"Hedef Başına Hasar/İyileştirme"
 
-		"DamageHealPerTarget_label"						"Damage/Heal Per Target"
+		"DeathTaxHeal_label"							"Leş Başına Sağlık"
 
-		"DeathTaxHeal_label"							"Health Per Kill"
-
-		"ChainRadius_label"							"Sıçrama Yarıçapı"
-		"ChainRadius_postfix"							"m"
+		"ChainRadius_label"							"Atlama Yarıçapı"
+		"ChainRadius_postfix"							" m"
 		
-		"LaunchDamage_postfix"							""
-		"LaunchDamage_label"							"Knockback Damage"
-
-		"ImpaleDamage_postfix"							""
-		"ImpaleDamage_label"							"Impale Damage"
-
-		"ImpaleDuration_label"						"Impale Duration"
-		"ImpaleDuration_postfix"						"s"
+		"ImpaleDuration_postfix"						" sn"
 
 		"ExplosionRadius_label"						"Patlama Yarıçapı"
-		"ExplosionRadius_postfix"						"m"
+		"ExplosionRadius_postfix"						" m"
 
-		"MinExplosionRadius_label"					"Min. Patlama Yarıçapı"
-		"MinExplosionRadius_postfix"					"m"
+		"MinExplosionRadius_label"					"Minimum Patlama Yarıçapı"
+		"MinExplosionRadius_postfix"					" m"
 
-		"MaxExplosionRadius_label"					"Max. Patlama Yarıçapı"
-		"MaxExplosionRadius_postfix"					"m"
+		"MaxExplosionRadius_label"					"Maksimum Patlama Yarıçapı"
+		"MaxExplosionRadius_postfix"					" m"
 
 		"ExplosionDamage_label"						"Patlama Hasarı"
 		"ExplosionDamage_postfix"						""
 
-		"MinExplosionDamage_label"						"Min. Patlama Hasarı: "
+		"MinExplosionDamage_label"						"Minimum Patlama Hasarı: "
 		"MinExplosionDamage_postfix"					""
 
-		"ExplosionMinPercent_label"					"Min. Patlama Hasarı: "
+		"ExplosionMinPercent_label"					"Minimum Patlama Hasarı: "
 		"ExplosionMinPercent_postfix"					"%"
 
-		"ExplosionMaxPercent_label"					"Max. Patlama Hasarı: "
+		"ExplosionMaxPercent_label"					"Maximum Patlama Hasarı: "
 		"ExplosionMaxPercent_postfix"					"%"
 
-		"EMPBuildupPercentPerShot_label"				"Silence Charge Per Shot"
 		"EMPBuildupPercentPerShot_postfix"				"%"
 
-		"InvisFadeToDuration_label"						"Fade Time"
-		"InvisFadeToDuration_postfix"						"s"
+		"InvisFadeToDuration_label"						"Gözden Kaybolma Süresi"
+		"InvisFadeToDuration_postfix"						" sn"
 
 		"InvisMoveSpeedMod_prefix"					"{s:sign}"
-		"InvisMoveSpeedMod_postfix"					"m/s"
-		"InvisMoveSpeedMod_label"					"Görünmezlik Koşu Hızı"
+		"InvisMoveSpeedMod_postfix"					" m/sn"
+		"InvisMoveSpeedMod_label"					"Görünmezken Koşu Hızı"
 
-		"MeleeAttackLength_label"						"Yumruk Menzili"
-		"MeleeAttackLength_postfix"						"m"
+		"MeleeAttackLength_label"						"Yakın Dövüş Menzili"
+		"MeleeAttackLength_postfix"						" m"
 
-		"ArmingDuration_label"						"Etkinleşme Süresi"
-		"ArmingDuration_postfix"						"s"
+		"ArmingDuration_label"						"Devreye Girme Süresi"
+		"ArmingDuration_postfix"						" sn"
 
 		"AirJumpVerticalSpeedPercent_prefix"			"{s:sign}"
 		"AirJumpVerticalSpeedPercent_label"			"Air Jump Vertical Speed"
 		"AirJumpVerticalSpeedPercent_postfix"			"%"
 
-		"InteruptCooldown_label"						"Interrupt Cooldown"
+		"InteruptCooldown_label"						"Yarıda Kesme Dolum Süresi"
 		"InteruptCooldown_postfix"						""
 
-		"ReflectDamage_label"							"Bullet Reflect Damage"
+		"ReflectDamage_label"							"Mermi Yansıtma Hasarı"
 		"ReflectDamage_postfix"							"%"
 
-		"ImmobilizeDuration_label"					"Sabitleme Süresi"
-		"ImmobilizeDuration_postfix"					"s"
+		"ImmobilizeDuration_label"					"Hareketsizleştirme Süresi"
+		"ImmobilizeDuration_postfix"					" sn"
 
 		"AirControlPercent_label"					"Hava Kontrolü"
 		"AirControlPercent_prefix"							"{s:sign}"
 		"AirControlPercent_postfix"							"%"
-
-		"HeadStompBonusDamage_label"					"Head Stomp Damage Bonus"
-		"HeadStompBonusDamage_postfix"					""
-
-		"HeadStompBonusRadius_label"					"Head Stomp Radius Bonus"
-		"HeadStompBonusRadius_postfix"					""
-
-		"BouncePadStompCount_label"					"Max Head Stomps"
 
 		"NPCProcChance_label"							"Asker Etki Şansı"
 		"NPCProcChance_postfix"							"%"
@@ -1311,196 +1233,158 @@
 		"AbilityProjectileSpeedPercent_label"			"Hız Artışı"
 		"AbilityProjectileSpeedPercent_postfix"			"%"
 		
-		"TechCleaveDamagePercent_label"				"Cleave Damage"
 		"TechCleaveDamagePercent_postfix"				"%"
 		
 		"TechCleaveTargetCap_label"					"Ek Hedefler"
-		"TechCleaveTargetCap_postfix"					""
-		
-		"TechCleaveRadius_label"						"Cleave Radius"
-		"TechCleaveRadius_postfix"						"m"
+		"TechCleaveRadius_postfix"						" m"
 
 		"InitialRadius_label"							"Başlangıç Yarıçapı"
-		"InitialRadius_postfix"							"m"
+		"InitialRadius_postfix"							" m"
 
-		"BlurVisionRange_label"							"Blur Vision Range"
-		"BlurVisionRange_postfix"						"m"
+		"BlurVisionRange_postfix"						" m"
 		
 		"ExplosiveShotRadiusPercent_label"				"Explosive Shot Radius Increase"
 		"ExplosiveShotRadiusPercent_postfix"			"%"
 				
-		"TechPowerPerCharge_label"						"Spirit per Charge"	
+		"TechPowerPerCharge_label"						"Şarj başına Büyü"	
 		
-		"FireRatePerCharge_label"						"Fire Rate per Charge"
+		"FireRatePerCharge_label"						"Şarj başına Atış Hızı"
 		"FireRatePerCharge_postfix"						"%"
 		
 		"ChargeDuration_label"							"Şarj Süresi"
-		"ChargeDuration_postfix"						"s"
+		"ChargeDuration_postfix"						" sn"
 
-		"MaxCharges_label"								"Maks. Şarj"
+		"MaxCharges_label"								"Maksimum Şarj"
 
-		"ExtraBladeDamage_label"						"Extra Damage per Charge"
+		"ExtraBladeDamage_label"						"Şarj başına Ek Hasar"
+		"WaveStunDuration_postfix"						" sn"
 
-		"WaveStunDuration_label"						"Disarm/EMP Duration"
-		"WaveStunDuration_postfix"						"s"
-
-		"WaveLifetime_label"							"Projectile Lifetime"
-		"WaveLifetime_postfix"							"s"
+		"WaveLifetime_postfix"							" sn"
 
 		"LockedRadius_label"							"Zincir Uzunluğu"
-		"LockedRadius_postfix"							"m"
+		"LockedRadius_postfix"							" m"
 
-		"BoostDuration_label"							"Ally Move Speed Duration"
-		"BoostDuration_postfix"							"s"
+		"BoostDuration_label"							"Dost Hareket Hızı Süresi"
+		"BoostDuration_postfix"							" sn"
 
-		"ShieldPercentage_label"						"Shield Max Health %"
-		"ShieldPercentage_postfix"						"% Toplam Can"
+		"ShieldPercentage_label"						"Maksimum Kalkan Sağlığı Yüzdesi"
+		"ShieldPercentage_postfix"						"% Maksimum Sağlık"
 
 		"ShieldDuration_label"							"Kalkan Süresi"
-		"ShieldDuration_postfix"						"s"
+		"ShieldDuration_postfix"						" sn"
 
-		"SlowRadius_label"								"Yavaşlama Yarıçapı"
-		"SlowRadius_postfix"							"m"
+		"SlowRadius_label"								"Yavaşlatma Yarıçapı"
+		"SlowRadius_postfix"							" m"
 		
 		"SmokeDuration_label"							"Sis Süresi"
-		"SmokeDuration_postfix"							"s"
+		"SmokeDuration_postfix"							" sn"
 
 		"SmokeRadius_label"								"Sis Yarıçapı"
-		"SmokeRadius_postfix"							"m"
+		"SmokeRadius_postfix"							" m"
 
 		"ChainDuration_label"							"Bağlama Süresi"
-		"ChainDuration_postfix"							"s"
+		"ChainDuration_postfix"							" sn"
 
 		"InfectDuration_label"							"Enfekte Süresi"
-		"InfectDuration_postfix"						"s"
+		"InfectDuration_postfix"						" sn"
 
 		"CloudDuration_label"							"Bulut Yaşam Süresi"
-		"CloudDuration_postfix"							"s"
+		"CloudDuration_postfix"							" sn"
 
 		"TimeSlowPercent_label"							"Zaman Yavaşlatma"
 		"TimeSlowPercent_postfix"						"%"
 
-		"CombatRegenPercent_label"						"Savaşta Can Yenilemesi"
+		"CombatRegenPercent_label"						"Mücadelede Sağlık Yenileme"
 		"CombatRegenPercent_postfix"					"%"
 
 		"AttackPower_prefix"							"{s:sign}"
-		"AttackPower_postfix"							""
 		"AttackPower_label"								"Saldırı Gücü"
 
 		"AbilityPower_prefix"							"{s:sign}"
-		"AbilityPower_postfix"							""
 		"AbilityPower_label"							"Yetenek Gücü"
 		  
 		"DefensePower_prefix"							"{s:sign}"
-		"DefensePower_postfix"							""
-		"DefensePower_label"							"Defans Gücü"
+		"DefensePower_label"							"Savunma Gücü"
 
-		"InfectionBonusDPS_prefix"						""
-		"InfectionBonusDPS_postfix"						""
-		"InfectionBonusDPS_label"						"Infection Bonus DPS"
+		"InfectionBonusDPS_label"						"Enfekte Bonus SBH"
 
-		"DecoyLifetime_prefix"							""
-		"DecoyLifetime_postfix"							"s"
-		"DecoyLifetime_label"							"Decoy Lifetime"
+		"DecoyLifetime_postfix"							" sn"
+		"Health_label"									"Sağlık"
 
-		"Health_prefix"									""
-		"Health_postfix"								""
-		"Health_label"									"Can"
-
-		"Grenades_prefix"					""
-		"Grenades_postfix"					""
 		"Grenades_label"					"Ekstra Bomba"
 
 		"SearchRadius_label"				"Arama Yarıçapı"
-		"SearchRadius_postfix"				"m"
+		"SearchRadius_postfix"				" m"
 
-		"GrenadesPerVolley_label"			"Bombs Per Volley"
+		"BulletArmorPenetration_label"		"Hedef Mermi Direnci"
+		"RampDuration_postfix"						" sn"
 
-		"BulletArmorPenetration_label"		"Target Bullet Resist"
-		"BulletArmorPenetration_postfix"	""
+		"EndDuration_postfix"						" sn"
 
-		"RampDuration_label"						"Ramp Duration"
-		"RampDuration_postfix"						"s"
-
-		"EndDuration_label"							"Final Duration"
-		"EndDuration_postfix"						"s"
-
-		"FinalSlow_label"							"En Yavaş Hız"		
-		"FinalSlow_postfix"							"m/s"		
+		"FinalSlow_postfix"							" m/sn"		
 
 		"WeaponPowerPerStack_prefix"				"{s:sign}"
-		"WeaponPowerPerStack_label"					"Yığın başına Silah Hasarı"
+		"WeaponPowerPerStack_label"					"İstif Başına Silah Hasarı"
 		"WeaponPowerPerStack_postfix"				"%"
-		"DamageToStack_label"						"Yığın için Alınan Hasar"
+		"DamageToStack_label"						"İstif Başına Alınan Hasar"
 		"DamageDuration_label"						"Süre"
-		"DamageDuration_postfix"						"s"
+		"DamageDuration_postfix"						" sn"
 
-		"RegenWhileInvisible_label"				"Görünmezken Can Yenilemesi"
+		"RegenWhileInvisible_label"				"Görünmezken Sağlık Yenileme"
 		"RegenWhileInvisible_prefix"			"+"
-		"RegenWhileInvisible_postfix"			""
-
 		"DamageRadius_label"						"Hasar Yarıçapı"
-		"DamageRadius_postfix"						"m"
+		"DamageRadius_postfix"						" m"
 
-		"RestoreDelay_label"							"Restore Delay"
-		"RestoreDelay_postfix"							"s"
+		"RestoreDelay_postfix"							" sn"
 
-		"RegenerationRate_label"					"Restore Time"
-		"RegenerationRate_postfix"					"s"
+		"RegenerationRate_postfix"					" sn"
 
 		"BulletShieldMaxHealth_prefix"				"{s:sign}"
-		"BulletShieldMaxHealth_label"				"Mermi Kalkanı Canı"
+		"BulletShieldMaxHealth_label"				"Mermi Kalkanı Sağlığı"
 		"TechShieldMaxHealth_prefix"				"{s:sign}"
-		"TechShieldMaxHealth_label"					"Büyü Kalkanı Canı"
+		"TechShieldMaxHealth_label"					"Büyü Kalkanı Sağlığı"
 
 		"ActiveBulletShieldMaxHealth_prefix"		"{s:sign}"
-		"ActiveBulletShieldMaxHealth_label"			"Mermi Kalkanı Canı"
+		"ActiveBulletShieldMaxHealth_label"			"Mermi Kalkanı Sağlığı"
 
-		"WeaponPowerPerKill_label"			"Öldürme başına Silah Hasarı"
+		"WeaponPowerPerKill_label"			"Leş Başına Silah Hasarı"
 		"WeaponPowerPerKill_prefix"			"+"
 		"WeaponPowerPerKill_postfix"		"%"
-		"WeaponPowerPerAssist_label"		"Courage per Assist"
-		"WeaponPowerPerDeath_label"			"Courage per Death"
-
 		"BonusZoomPercent_prefix"				"{s:sign}"
 		"BonusZoomPercent_label"				"Silah Yakınlaştırması"
 		"BonusZoomPercent_postfix"				"%"
 
-		"MaxDPS_label"						"Maks. DPS"
+		"MaxDPS_label"						"Maksimum SBH"
 		"DamageOnHit_label"					"Vuruşta Hasar"
-		"ProcCooldown_label"					"Maks. Sıklık"
-		"ProcCooldown_postfix"				"s"
+		"ProcCooldown_label"					"Maksimum Sıklık"
+		"ProcCooldown_postfix"				" sn"
 
-		"WeaponPowerPerEnemy_label"			"Courage per Enemy"
 		"WeaponPowerPerEnemy_prefix"			"+"
 
-		"FireRatePerEnemy_label"				"Fire Rate per Enemy"
+		"FireRatePerEnemy_label"				"Düşman başına Atış Hızı"
 		"FireRatePerEnemy_prefix"				"+"
 		"FireRatePerEnemy_postfix"			"%"
 
-		"AssaultDuration_label"				"Air Attack Duration"
-		"AssaultDuration_postfix"				"s"
+		"AssaultDuration_label"				"Hava Saldırısı Süresi"
+		"AssaultDuration_postfix"				" sn"
 
-		"AssaultFireRate_label"				"Air Attack Fire Rate"
+		"AssaultFireRate_label"				"Hava Saldırısı Atış Hızı"
 		"AssaultFireRate_prefix"				"{s:sign}"
 		"AssaultFireRate_postfix"				"%"
 
 		"ActiveHealthRegen_prefix"			"{s:sign}"
 		"ActiveHealthRegen_label"			"Sağlık Yenileme"
-		"ActiveHealthRegen_postfix"			"hp/sec"
+		"ActiveHealthRegen_postfix"			"sağlık/sn"
 
 		"ActiveBonusFireRate_label"			"Atış Hızı"
 		"ActiveBonusFireRate_postfix"		"%"
 		"SurgeDelay_label"					"Gecikme"
-		"SurgeDelay_postfix"				"s"
+		"SurgeDelay_postfix"				" sn"
 
-		"upgrade_fervor/modifier_fervor/modifier_fervor_damage_stack"	"Fervor Stack"
-		"upgrade_fervor/modifier_fervor/modifier_fervor_bonuses"	"Enrage Bonuses"
 		"FervorMovespeed_label"		"Hareket Hızı"
-		"FervorMovespeed_postfix"	" m/s"
+		"FervorMovespeed_postfix"	" m/sn"
 		"FervorFireRate_label"		"Atış Hızı"
 		"FervorFireRate_postfix"	"%"
-		"FervorDebuffResistance_label"		"Enrage Debuff Resistance"
 		"FervorDebuffResistance_postfix"	"%"
 		"FervorTechResist_label"			"Büyü Direnci"
 
@@ -1510,42 +1394,41 @@
 		"TechDamagePercent_Label"	"Hasar"
 		"TechDamagePercent_Postfix"	"%"
 		"DelayDuration_Label"	"Gecikme Süresi"
-		"DelayDuration_Postfix"	"s"
+		"DelayDuration_Postfix"	" sn"
 		"MinimumDamage_Label"	"Minimum Hasar"
 
 		"EMPDuration_label"				"Zayıflatma Süresi"
-		"EMPDuration_postfix"			"s"
+		"EMPDuration_postfix"			" sn"
 
 		"BonusBulletDamageToEMPTargets_label" "Susturulan hedeflere Mermi Hasarı"
 		"BonusBulletDamageToEMPTargets_prefix" "+"
 		"BonusBulletDamageToEMPTargets_postfix" "%"
-		"modifier_silencer_proc_active"	"SILENCER"
+		"modifier_silencer_proc_active"	"SUSTURUCU"
 
-		"BulletDamageReflectedPct_label"					"Yansıtılan Mermi Hasarı"
+		"BulletDamageReflectedPct_label"					"İade Edilen Mermi Hasarı"
 		"BulletDamageReflectedPct_postfix"					"%"
-		"SpiritDamageReflectedPct_label"					"Yansıtılan Büyü Hasarı"
+		"SpiritDamageReflectedPct_label"					"İade Edilen Büyü Hasarı"
 		"SpiritDamageReflectedPct_postfix"					"%"
-		"DamageReflectedFrequencyPct_label"				"Etki Şansı"
+		"DamageReflectedFrequencyPct_label"				"Etkinleşme Şansı"
 		"DamageReflectedFrequencyPct_postfix"			"%"
-		"modifier_armor_reactive_armor"					"Karşı Atış"
+		"modifier_armor_reactive_armor"					"İade-i Ateş"
 
-		"RespawnBonusHealth_label"							"Doğma Bonus Canı"
-		"RespawnBonusHealthDuration_label"					"Doğma Bonus Can Süresi"
-		"RespawnBonusHealthDuration_postfix"				"s"
-		"upgrade_rebirth/respawn_bonus_health_modifier"		"Doğma Bonus Canı"
+		"RespawnBonusHealth_label"							"Doğuşta Bonus Sağlık"
+		"RespawnBonusHealthDuration_label"					"Doğuşta Bonus Sağlık Süresi"
+		"RespawnBonusHealthDuration_postfix"				" sn"
+		"upgrade_rebirth/respawn_bonus_health_modifier"		"Yeniden Doğma Bonus Sağlığı"
 
-		"DeathImmunityDuration_label"				"Death Immunity Duration"
-		"DeathImmunityDuration_postfix"			"s"
-		"DeathImmunityPulseRateMultiplier_label"		"Pulse Rate"
+		"DeathImmunityDuration_label"				"Ölümsüzlük Süresi"
+		"DeathImmunityDuration_postfix"			" sn"
 		"DeathImmunityPulseRateMultiplier_postfix"	"x"
-		"modifier_cheat_death_immunity"			"Death Immune"
+		"modifier_cheat_death_immunity"			"Ölümsüz"
 
 		"StasisRadius_label"				"Yarıçap"
-		"StasisRadius_postfix"				"m"
+		"StasisRadius_postfix"				" m"
 
-		"upgrade_quarantine/modifier_citadel_quarantine"	"Quarantined"
+		"upgrade_quarantine/modifier_citadel_quarantine"	"Karantinada"
 
-		"HealPercentAmount_label"				"İyileşme Miktarı"
+		"HealPercentAmount_label"				"İyileştirme Miktarı"
 		"HealPercentAmount_postfix"			"%"
 
 		"Stamina_label"							"Kuvvet"
@@ -1554,51 +1437,50 @@
 		"StaminaCooldownReduction_label"				"Kuvvet Yenilenmesi"
 		"StaminaCooldownReduction_postfix"			"%"
 
-		"ActiveHealthChange_label"			"Can Çalma"
-		"ActiveHealthChange_postfix"			"HP"
-		"ActiveWeaponDamageChange_label"		"Silah Can Çalma"
+		"ActiveHealthChange_label"			"Sağlık Çalma"
+		"ActiveHealthChange_postfix"			"SP"
+		"ActiveWeaponDamageChange_label"		"Silah Sağlık Çalma"
 		"ActiveWeaponDamageChange_postfix"    "%"
 
 		"modifier_upgrade_siphon_buff"		"Sifon"
 		"modifier_upgrade_siphon_debuff"		"Çalınan Can"
-		"SiphonRadius_label"					"Activate Radius"
-		"SiphonRadius_postfix"				"m"
+		"SiphonRadius_label"					"Etkinleşme Yarıçapı"
+		"SiphonRadius_postfix"				" m"
 
 		"TechResistDuration_label"			"Süre"
-		"TechResistDuration_postfix"			"s"
+		"TechResistDuration_postfix"			" sn"
 
 		"BleedTechResist_label"				"Büyü Direnci"
 		"BleedTechResist_prefix"				"{s:sign}"
 		"BleedTechResist_postfix"				"%"
 
 		"StackProcDamage_label"			"Patlama Hasarı"
-		"StackDuration_label"				"Yığın Süresi"
-		"StackDuration_postfix"			"s"
+		"StackDuration_label"				"İstif Süresi"
+		"StackDuration_postfix"			" sn"
 
 		"HeadShotBonusDamage_prefix"		"{s:sign}"
 		"HeadShotBonusDamage_label"			"Kafadan Vuruş Bonus Hasarı"
 		"HeadShotDebuffDuration_label"		"Süre"
-		"HeadShotDebuffDuration_postfix"	"s"
+		"HeadShotDebuffDuration_postfix"	" sn"
 		"HeadShotCooldown_label"			"Dolum Süresi"
-		"HeadShotCooldown_postfix"			"s"
-		"upgrade_leveler/headshot_cooldown_modifier"	"Head Shot Bonus Cooldown"
+		"HeadShotCooldown_postfix"			" sn"
+		"upgrade_leveler/headshot_cooldown_modifier"	"Kafa Vuruşu Bonusu Dolum Süresi"
 		"ActiveChainDuration_label"			"Bağlama Süresi"
-		"ActiveChainDuration_postfix"		"s"
-		"ActiveBulletArmorReduction_label"	"Bullet Resist Reduction"
+		"ActiveChainDuration_postfix"		" sn"
+		"ActiveBulletArmorReduction_label"	"Mermi Direnci Azaltması"
 
-		"modifier_galvanic_storm"				"Galvanic Storm"
-		"BuildupPerProc_label"				"Buildup on Shock"
+		"modifier_galvanic_storm"				"Galvanik Fırtına"
+		"BuildupPerProc_label"				"Şokta Birikme"
 		"BuildupPerProc_postfix"				"%"
-		"BuildupDamage_label"					"Damage on Buildup"
+		"BuildupDamage_label"					"Birikmede Hasar"
 		
-		"ShockBuildupDuration_label"			"Shock Buildup Lifetime"
-		"ShockBuildupDuration_postfix"		"s"
+		"ShockBuildupDuration_label"			"Şok Birikmesi Yaşam Süresi"
+		"ShockBuildupDuration_postfix"		" sn"
 
 		"GalvanicProcDuration_label"			"Yavaşlatma Süresi"
-		"GalvanicProcDuration_postfix"		"s"
+		"GalvanicProcDuration_postfix"		" sn"
 
 		"FireRateSlow_label"					"Atış Hızı Yavaşlatması"
-		"FireRateSlow_prefix"					""
 		"FireRateSlow_postfix"				"%"
 
 		"SlowFireRatePercent_label"			"Atış Hızı Ölçeği"
@@ -1609,26 +1491,26 @@
 		"FireRateScale_prefix"				"{s:sign}"
 		"FireRateScale_postfix"				"%"
 
-		"ActiveHealAmount_label"				"Self Heal"
-		"ActiveHealAmount_postfix"			"HP"
+		"ActiveHealAmount_label"				"Kendini İyileştirme"
+		"ActiveHealAmount_postfix"			"SP"
 
 		"BonusDamagePerHero_label"			"Kahraman Başına Bonus Hasar"
 		"BonusDamagePerHero_postfix"			"%"
 
-		"DebuffDelay_label"					"Zayıflatma Gecikmesi"
-		"DebuffDelay_postfix"					"s"
+		"DebuffDelay_label"					"Zayıflatma Gecikme Süresi"
+		"DebuffDelay_postfix"					" sn"
 
-		"ArmorLossPerHit_label"				"Resist lost per Hit"
+		"ArmorLossPerHit_label"				"Vuruş başına kaybedilen Direnç"
 		"ArmorLossPerHit_postfix"				"%"
 
-		"StackLossFrequency_label"			"Resist Loss Frequency"
-		"StackLossFrequency_postfix"			"s"
+		"StackLossFrequency_label"			"Direnç Kaybı Sıklığı"
+		"StackLossFrequency_postfix"			" sn"
 
-		"MaxBulletResist_label"				"Maks. Mermi Direnci"
+		"MaxBulletResist_label"				"Maksimum Mermi Direnci"
 		"MaxBulletResist_postfix"				"%"
 
-		"upgrade_berserker/modifier_berserker/modifier_berserker_damage_stack"		"Berserker"
-		"berserker_stack"							"Berserker"
+		"upgrade_berserker/modifier_berserker/modifier_berserker_damage_stack"		"Vahşi Savaşçı"
+		"berserker_stack"							"Vahşi Savaşçı"
 
 		"WeaponDamageBonus_prefix"		"{s:sign}"
 		"WeaponDamageBonus_label"			"Silah Hasarı"
@@ -1647,14 +1529,14 @@
 
 		"BonusSpirit_prefix"				"{s:sign}"
 		"BonusSpirit_label"				"Büyü Gücü"
-		"modifier_power_shard_bonus"		"Echo Boost"
+		"modifier_power_shard_bonus"		"Yankı Güçlendirmesi"
 
 		"BonusDuration_label"				"Bonus Süresi"
-		"BonusDuration_postfix" 			"s"
+		"BonusDuration_postfix" 			" sn"
 		"superior_stamina_buff"			"Bonus Büyü Gücü"
 
 		"HighGroundBonusWeaponPower_prefix"	"{s:sign}"
-		"HighGroundBonusWeaponPower_label"	"Düşmanların üzerindeyken Silah Hasarı"
+		"HighGroundBonusWeaponPower_label"	"Düşmanlardan yüksekteyken Silah Hasarı"
 		"HighGroundBonusWeaponPower_postfix"	"%"
 				
 		"BonusBaseWeaponDamage_prefix"					"{s:sign}"
@@ -1666,70 +1548,66 @@
 		"BaseAttackDamagePercent_postfix"					"%"
 
 		"ImbuedTechPower_prefix"					"{s:sign}"
-		"ImbuedTechPower_label"						"Basılan Yetenek Büyü Gücü"
+		"ImbuedTechPower_label"						"Güçlendirilmiş Yetenek Büyü Gücü"
 
 		"MovementSpeedBonusDuration_label"			"Hareket Hızı Süresi"
-		"MovementSpeedBonusDuration_postfix"		"s"
+		"MovementSpeedBonusDuration_postfix"		" sn"
 
-		"EnemyLifeThreshold_label"					"Sınır"
+		"EnemyLifeThreshold_label"					"Eşik"
 		"EnemyLifeThreshold_postfix"					"%"
 
-		"CloneDamageTakenIncreasePercent_label"		"Clone Damage Taken"
+		"CloneDamageTakenIncreasePercent_label"		"Alınan Klon Hasarı"
 		"CloneDamageTakenIncreasePercent_prefix"		"{s:sign}"
 		"CloneDamageTakenIncreasePercent_postfix"		"%"
 
-		"ability_abort_cast"						"Abort"
-		"ability_cancel_channel"					"End Channel"
+		"ability_abort_cast"						"İptal Et"
+		"ability_cancel_channel"					"Yönlendirmeyi Bitir"
 
-		"citadel_ability_lightning_dodge"	"Lightning Roll"
-		"citadel_ability_lightning_dodge_passive"	"Lightning Roll"
-		"citadel_ability_basicdamagereflect"	"Reflect Basic Damage"
-		"citadel_ability_bullet_damage_amp_wall"	"Bullet Damage Amp Wall"
-
-		"modifier_limit_ability_cooldown"		"Quick Cooldowns"
+		"citadel_ability_lightning_dodge"	"Yıldırım Yuvarlanması"
+		"citadel_ability_lightning_dodge_passive"	"Yıldırım Yuvarlanması"
+		"modifier_limit_ability_cooldown"		"Hızlı Dolum Süreleri"
 
 		"ability_golden_idol"					"Ruh Vazosunu Bırak"
 		"golden_idol_bonus_01"					"+%25 Ekstra Ruh"
 		"golden_idol_bonus_02"					"+1 Yetenek Puanı"
 
-		"ability_capture_zip_line"				"Capture Hyperline"
-		"modifier_citadel_capture_zipline_timer"	"Capturing Hyperline"
+		"ability_capture_zip_line"				"Ulaşım Halatına Çık"
+		"modifier_citadel_capture_zipline_timer"	"Ulaşım Halatına Çıkılıyor"
 
-		"modifier_citadel_containment_victim"	"Containment"
-		"modifier_hollow_point_stack"			"Hollow Point Ward"
-		"LifeThreshold_label"					"Life Threshold"
+		"modifier_hollow_point_stack"			"Koruyucu Mühimmat"
+		"LifeThreshold_label"					"Can Eşiği"
 		"LifeThreshold_postfix"					"%"
-		"Cloaked"								"Cloaked"
+		"Cloaked"								"Gizlenmiş"
 
-		"zipline_boost"							"Zipline Hızlandırıldı"
+		"zipline_boost"							"Ulaşım Halatı Hızlandırıldı"
 		"ActiveTechPower_label"					"Büyü Gücü"
 		"ActiveTechPower_prefix"				"+"
 
-		"ActiveBulletShieldHealth_label"		"Aktif Kalkan Canı"
+		"ActiveBulletShieldHealth_label"		"Aktif Kalkan Sağlığı"
 		"ActiveBulletShieldDuration_label"		"Aktif Kalkan Süresi"
-		"ActiveBulletShieldDuration_postfix"		"s"
+		"ActiveBulletShieldDuration_postfix"		" sn"
 		"PassiveShieldCooldown_label"			"Dolum Süresi"
-		"PassiveShieldCooldown_postfix"			"s"
+		"PassiveShieldCooldown_postfix"			" sn"
 		"active_bullet_shield"					"Mermi Kalkanı"
 
-		"SlamDownRadius_label"					"Slam Radius"
-		"SlamDownRadius_postfix"				"m"
+		"SlamDownRadius_label"					"Vuruş Yarıçapı"
+		"SlamDownRadius_postfix"				" m"
 
 		"StealDuration_label"					"Çalma Süresi"
-		"StealDuration_postfix"					"s"
+		"StealDuration_postfix"					" sn"
 
-		"VeilCross_conditional"					"Cross a Cosmic Veil"
-		"modifier_veil_walker_triggered"			"Veil Fire Rate"
-		"modifier_veil_walker_stealth"			"Veil Walker Invisibility"
+		"VeilCross_conditional"					"kozmik düzlemden sonra"
+		"modifier_veil_walker_triggered"			"Atış Hızı"
+		"modifier_veil_walker_stealth"			"Görünmezlik"
 
 		"InvisDuration_label"						"Görünmezlik Süresi"
-		"InvisDuration_postfix"					"s"
+		"InvisDuration_postfix"					" sn"
 
 		"SlideScale_label"						"Kayma Mesafesi"
 		"SlideScale_postfix"						"%"
 		"SlideScale_prefix"						"+"
 
-		"AirMoveIncreasePercent_label"				"Hava Zıplaması/Atılımı Mesafesi"
+		"AirMoveIncreasePercent_label"				"Havada Zıplama/Atılma Mesafesi"
 		"AirMoveIncreasePercent_postfix"						"%"
 		"AirMoveIncreasePercent_prefix"						"+"
 		
@@ -1737,71 +1615,68 @@
 		"ActiveReloadPercent_postfix"				"%"
 		"ActiveReloadPercent_prefix"				"+"
 
-		"RespawnHealthPercent_label"				"Doğma Canı"
+		"RespawnHealthPercent_label"				"Yeniden Doğma Sağlığı"
 		"RespawnHealthPercent_postfix"			"%"
 
 		"ActiveBonusMoveSpeed_label"					"Hareket Hızı"
 		"ActiveBonusMoveSpeed_prefix"					"{s:sign}"
-		"ActiveBonusMoveSpeed_postfix"					"m/s"
+		"ActiveBonusMoveSpeed_postfix"					" m/sn"
 		"ActiveItemUse_conditional"					"aktifken"
 
 		"BuffMoveSpeedBonus_label"						"Hareket Hızı"
-		"BuffMoveSpeedBonus_postfix"						"m/s"
+		"BuffMoveSpeedBonus_postfix"						" m/sn"
 		"BuffMoveSpeedBonus_prefix"						"{s:sign}"
 
-		"ChannelMoveSpeed_label"						"Channel Move Speed"
-		"ChannelMoveSpeed_postfx"						"m/s"
-		"ChannelMoveSpeed_prefix"						""
-
+		"ChannelMoveSpeed_postfx"						" m/sn"
 		"BulletShieldOnCast_label"						"Mermi Kalkanı"
 		"TechShieldOnCast_label"						"Büyü Kalkanı"
 		"BulletShieldDuration_label"					"Mermi Kalkanı Süresi"
-		"BulletShieldDuration_postfix"					"s"
+		"BulletShieldDuration_postfix"					" sn"
 
 		
-		"BloodPoolDPS_label"							"Blood Pool DPS"
-		"BloodPoolDuration_label"						"Blood Pool Duration"
-		"BloodPoolDuration_postfix"						"s"
-		"BloodPoolRadius_label"							"Blood Pool Radius"
-		"BloodPoolRadius_postfix"						"m"
+		"BloodPoolDPS_label"							"Kan Havuzu SBH"
+		"BloodPoolDuration_label"						"Blood Pool Süresi"
+		"BloodPoolDuration_postfix"						" sn"
+		"BloodPoolRadius_label"							"Blood Pool Yarıçapı"
+		"BloodPoolRadius_postfix"						" m"
 
-		"LowHealthThreshold_label"						"Can Sınırı"
+		"LowHealthThreshold_label"						"Sağlık Eşiği"
 		"LowHealthThreshold_postfix"					"%"
 		"LowHealthTechResist_label"						"Büyü Direnci"
 		"LowHealthTechResist_prefix"					"{s:sign}"
-		"LowHealthWeaponPowerPercent_label"				"Courage"
+		"LowHealthWeaponPowerPercent_label"				"Cesaret"
 		"LowHealthWeaponPowerPercent_prefix"			"{s:sign}"
 		"LowHealthWeaponPowerPercent_postfix"			"%"
 
-		"BuildupDuration_label"							"Buildup Decay Time"
-		"BuildupDuration_postfix"						"s"
-		"BuildupExpire_label"							"Buildup Expire"
-		"BuildupExpire_postfix"							"s"
-		"BuildupDecayDelay_label"						"Buildup Decay Delay"
-		"BuildupDecayDelay_postfix"						"s"
+		"BuildupDuration_label"							"Birikmenin Azalma Süresi"
+		"BuildupDuration_postfix"						" sn"
+		"BuildupExpire_label"							"Birikme Geçmesi"
+		"BuildupExpire_postfix"							" sn"
+		"BuildupDecayDelay_label"						"Birikmenin Azalmaya Başlama Gecikmesi"
+		"BuildupDecayDelay_postfix"						" sn"
 		//"BuildupRate_label"							"Buildup Per Shot"
 		//"BuildupRate_postfix"							""
-		"BuildupPerShot_label"							"Atış Başına Artış"
+		"BuildupPerShot_label"							"Atış Başına Birikme"
 		"BuildupPerShot_postfix"						"%"
-		"StacksPerShot_label"							"Atış Başına Yığın"
+		"StacksPerShot_label"							"Atış Başına İstif"
 
-		"DamageOnApply_label"							"Damage On Apply"
+		"DamageOnApply_label"							"Uygulanma Başına Hasar"
 
 		"citadel_modifier_teleport"						"Işınlanıyor"
 
-		"MaxHealthLossPercent_label"				"Toplam Can"
+		"MaxHealthLossPercent_label"				"Maksimum Sağlık"
 		"MaxHealthLossPercent_postfix"			"%"
 
 		"BonusClipPerKill_prefix"				"{s:sign}"
-		"BonusClipPerKill_label"				"Öldürme Başına Bonus Cephane"
+		"BonusClipPerKill_label"				"Leş Başına Bonus Mermi"
 
 		"BonusSpiritPerKill_prefix"				"{s:sign}"
-		"BonusSpiritPerKill_label"				"Öldürme Başına Bonus Büyü Gücü"
+		"BonusSpiritPerKill_label"				"Leş Başına Bonus Büyü Gücü"
 
-		"MaxClipBonus_label"				"Maks. Şarjör Bonusu"
+		"MaxClipBonus_label"				"Maksimum Şarjör Bonusu"
 
 		"SummonDuration_label"					"Çağırma Süresi"
-		"SummonDuration_postfix" 				"s"
+		"SummonDuration_postfix" 				" sn"
 
 		//-----------------------------------------------------------------------------
 		// END Ability Properties desc
